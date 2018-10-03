@@ -1,0 +1,6572 @@
+/*@import url(http://fonts.googleapis.com/css?family=Oswald:300,400,700);*/
+@import url(//fonts.googleapis.com/css?family=Oswald:300,400,700);
+.uap-clear{
+	clear:both;
+}
+
+.uap-form-line-register .select2.select2-container {
+    width: 100% !important;
+}
+
+/*==================LOGIN======================*/
+/*Login Template 1*/
+.uap-login-template-1{
+	padding: 10px;
+	text-align:center;
+    display: inline-block;
+}
+
+.uap-login-template-1 .uap-sm-wrapp-fe{
+	text-align:right;
+	max-width:360px;
+	margin-right:0px;
+}
+.uap-login-template-1 .uap-form-line-fr{
+	box-sizing:content-box;
+	padding-bottom:12px;
+
+}
+.uap-login-template-1 .uap-form-line-fr:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-1 form{
+	display:inline-block;
+}
+.uap-login-template-1 .uap-form-line-fr .uap-form-label-fr{
+	min-width:150px;
+	text-align:right;
+	padding-right:10px;
+  display: inline-block;
+	box-sizing:content-box;
+}
+.uap-login-template-1 .uap-form-line-fr input[type=text],.uap-login-template-1 .uap-form-line-fr input[type=password]{
+	width:200px;
+}
+.uap-login-template-1 .uap-remember-wrapper{
+	clear:both;
+	min-height: 16px;
+}
+.uap-login-template-1 .uap-form-label-remember{
+	float:right;
+}
+.uap-login-template-1 .uap-form-input-remember{
+	float:right;  
+	margin-top: 1px;
+}
+.uap-login-template-1 .uap-form-label-remember:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-1 .uap-form-links{
+	margin-top:5px;
+	margin-bottom:5px;	
+	text-align:right;
+	clear:both;
+}
+.uap-login-template-1 .uap-form-links div{
+	display:inline-block;
+	padding-left:15px;
+}
+.uap-login-template-1 .uap-form-submit{
+	text-align:right;
+}
+.uap-login-template-1 .uap-form-submit input{
+	color:#fff !important;
+}
+
+/*Login Template 2*/
+.uap-login-template-2{
+	padding: 10px;
+	text-align:center;
+    display: inline-block;
+	width:300px;
+	max-width:100%;
+}
+.uap-login-template-2 .uap-sm-wrapp-fe{
+	text-align:left;
+}
+.uap-login-template-2 .uap-form-line-fr{
+	box-sizing:content-box;
+	padding-bottom:8px;
+  text-align: left;
+}
+.uap-login-template-2 .uap-form-line-fr:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-2 form{
+	display:inline-block;
+}
+.uap-login-template-2 .uap-form-line-fr .uap-form-label-fr{
+	min-width:150px;
+	padding-bottom:3px;
+	box-sizing:content-box;
+	font-weight:500;
+	font-size:13px;
+	text-align:left;
+	text-transform:uppercase;
+}
+.uap-login-template-2 .uap-form-line-fr input[type=text],.uap-login-template-2 .uap-form-line-fr input[type=password]{
+	border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  color: #2b2b2b;
+  padding: 8px 10px 7px;
+	width:100%;
+	margin:0px !important;
+}
+.uap-login-template-2 .uap-remember-wrapper{
+	clear:both;
+	min-height: 16px;
+	text-align:left;
+}
+.uap-login-template-2 .uap-form-line-fr .uap-form-label-remember{
+	display:inline-block !important;
+	font-weight:400;
+	font-size:12px;	
+	text-transform:inherit;
+}
+.uap-login-template-2 .uap-form-input-remember{
+	margin-right: 3px;
+}
+.uap-login-template-2 .uap-form-label-remember:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-2 .uap-form-links{
+	margin-top:5px;
+	margin-bottom:5px;	
+	text-align:right;
+	clear:both;
+}
+.uap-login-template-2 .uap-form-links div{
+	display:inline-block;
+	padding-right:15px;
+}
+.uap-login-template-2 .uap-form-links a{
+	color:#333;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+}
+.uap-login-template-2 .uap-form-links a:hover{
+	color:#5BC4BE;
+}
+.uap-login-template-2 .uap-form-submit{
+	text-align:center;
+}
+.uap-login-template-2 .uap-form-submit input{
+	color:#fff !important;
+	width:100%;
+	background:none repeat scroll 0 0 #08d1b2 !important;
+	border-color:#5BC4BE !important;
+	box-shadow:none !important;
+	  border-radius: 2px;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 10px 30px 11px;
+  text-transform: uppercase;
+  vertical-align: bottom;
+  	-webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+}
+.uap-login-template-2 .uap-form-submit input:hover{
+	 border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+ .uap-register-2 .uap-register-notice{
+	-webkit-transition: all 0.6s linear 0s;
+  	-moz-transition: all 0.6s linear 0s;
+  	-ms-transition: all 0.6s linear 0s;
+  	-o-transition: all 0.6s linear 0s;
+  	transition: all 0.6s linear 0s;
+  	-webkit-animation: fadeIn 1s;
+  	 nimation: fadeIn 1s;
+}
+.uap-register-2 .uap-input-notice {
+    border-color: #dd3559!important;
+}
+/*Login Template 3*/
+.uap-login-template-3{
+	margin: 10px;
+	padding:30px;
+	padding-bottom:0px;
+	text-align:center;
+	box-sizing:border-box;
+    display: inline-block;
+	background-color:#fff;
+	border-top:7px solid #33b5e5;
+	border-radius:3px;
+  -webkit-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.15);
+	width:360px;
+    max-width: 100%;    
+	font-family: 'Oswald', arial, sans-serif !important;    
+	font-size: 14px;
+    color: #7f7f97;
+}
+
+.uap-login-template-3 .uap-sm-wrapp-fe{
+	text-align:left;
+}
+.uap-login-template-3 .uap-form-line-fr{
+	box-sizing:content-box;
+	padding-bottom:8px;
+  text-align: left;
+}
+.uap-login-template-3 .uap-form-line-fr:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-3 form{
+	display:block;
+  position: relative;
+  margin:0px !important;
+}
+.uap-login-template-3 .uap-form-line-fr .uap-form-label-fr{
+	min-width:350px;
+	padding-bottom:3px;
+  	display:block;
+	box-sizing:content-box;
+	font-weight:500;
+	font-size:14px;
+	text-align:left;
+	text-transform:uppercase;
+}
+.uap-login-template-3 .uap-form-line-fr input[type=text], .uap-login-template-3 .uap-form-line-fr input[type=password]{
+	width:100%;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  color: #2b2b2b;
+  padding: 8px 10px 7px;
+    background-color: #fafafa;
+    margin-bottom: 7px;
+	height: auto !important;
+	font-size:14px;
+	font-weight:300;
+	background-color: #edf0f5;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0);
+	-webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+}
+.uap-login-template-3 .uap-form-line-fr input[type=text]:hover, .uap-login-template-3 .uap-form-line-fr input[type=password]:hover,
+.uap-login-template-3 .uap-form-line-fr input[type=text]:focus, .uap-login-template-3 .uap-form-line-fr input[type=password]:focus{
+	 border: 1px solid rgba(0, 0, 0, 0.1);
+	background-color: #fff;
+
+}
+.uap-login-template-3 .uap-remember-wrapper{
+	margin-right: 3px;
+	float:left;
+	text-align:left;
+	line-height:42px;
+	padding-left:15px;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS' !important;
+    font-weight: 200;
+}
+.uap-login-template-3 .uap-form-label-remember{
+	display:inline-block !important;
+	font-weight:400;
+	font-size:12px;	
+	font-weight:bold;
+	text-transform:inherit;
+	padding-left:3px;
+	color:#1a9bcb;
+}
+.uap-login-template-3 .uap-temp3-bottom{
+	position:relative;
+	left:-30px;
+    margin: 0 -60px 0 0px;
+	background-color:#f2f2f2;
+}
+.uap-login-template-3 .uap-temp3-bottom:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-3 .uap-form-input-remember{
+  vertical-align: middle;
+}
+
+.uap-login-template-3 .uap-form-links{
+	text-align:right;
+	float:right;
+  line-height: 40px;
+  padding-right:9px;
+}
+.uap-login-template-3 .uap-form-links div{
+	display:inline-block;
+}
+.uap-login-template-3 .uap-form-links a{
+	color:#333;
+	font-size:12px;
+	text-decoration:none;
+  	border-right: 1px solid #999;
+  	padding-right: 3px;
+	padding-left:3px;
+}
+.uap-login-template-3 .uap-form-links div:nth-child(even) a{
+	border-right:none;
+}
+.uap-login-template-3 .uap-form-submit{
+	text-align:center;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.uap-login-template-3 .uap-form-submit input{
+	color:#fff !important;
+	width:100%;
+	border:none;
+	background:none repeat scroll 0 0 #33b5e5 !important;
+	border-color:#1a9bcb !important;
+	box-shadow:none !important;
+	border-radius:3px;
+	text-transform:capitalize;
+	font-size: 14px;
+    font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;	
+  
+    padding: 10px 30px 11px;
+}
+.uap-login-template-3 .uap-form-submit input:hover{	
+  background:none repeat scroll 0 0 #1a9bcb !important;
+}
+
+/*Login Template 4*/
+.uap-login-template-4{
+	margin: 10px;
+	padding:30px;
+	padding-top:10px;
+	padding-bottom:0px;
+	text-align:center;
+	box-sizing:border-box;
+    display: inline-block;
+	background-color:#fff;
+	border-radius:3px;
+	width:360px;
+    max-width: 100%;
+	    font-family: Helvetica, sans-serif, 'Trebuchet MS';
+}
+
+.uap-login-template-4 .uap-sm-wrapp-fe{
+	text-align:left;
+}
+.uap-login-template-4 .uap-form-line-fr{
+	box-sizing:content-box;
+  text-align: left;
+    background-color: #fafafa;
+	border-bottom:1px solid #efefef;
+    margin-bottom: 7px;
+	position:relative;
+}
+.uap-login-template-4 .uap-form-line-fr:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-4 form{
+	display:block;
+  position: relative;
+}
+.uap-login-template-4  .fa-uap{
+  position: absolute;
+  top: 0px;
+  left: 9px;
+  line-height: 39px;
+}
+.uap-login-template-4 .uap-form-line-fr .uap-form-label-fr{
+	min-width:350px;
+  	display:block;
+	box-sizing:content-box;
+	font-weight:500;
+	font-size:14px;
+	text-align:left;
+	text-transform:uppercase;
+}
+.uap-login-template-4 .uap-form-line-fr input[type=text], .uap-login-template-4 .uap-form-line-fr input[type=password]{
+	width:100%;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  color: #2b2b2b;
+  padding: 8px 10px 7px;
+	background-color:transparent !important;
+	border:none !important;
+    padding: 10px !important;
+	display:inline-block;
+	padding-left:30px !important;
+	margin:0px  !important;
+}
+.uap-login-template-4 .uap-remember-wrapper{
+	margin-right: 3px;
+	text-align:right;
+	line-height:22px;
+	padding-left:15px;
+}
+.uap-login-template-4 .uap-form-label-remember{
+	display:inline-block !important;
+	font-weight:400;
+	font-size:12px;	
+	font-weight:bold;
+	text-transform:inherit;
+	padding-left:3px;
+	color:#1e8449;
+}
+.uap-login-template-4 .uap-temp3-bottom{
+	position:relative;
+	left:-30px;
+    margin: 0 -60px 0 0px;
+	background-color:#f2f2f2;
+}
+.uap-login-template-4 .uap-temp3-bottom:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-4 .uap-form-input-remember{
+  vertical-align: middle;
+}
+
+.uap-login-template-4 .uap-form-links{
+	text-align:center;
+  line-height: 20px;
+}
+.uap-login-template-4 .uap-form-links div{
+	display:inline-block;
+}
+.uap-login-template-4 .uap-form-links a{
+	color:#333;
+	font-size:13px;
+	font-weight:bold;
+	text-decoration:none;
+  	border-right: 1px solid #999;
+  	padding-right: 10px;
+	padding-left:10px;
+}
+.uap-login-template-4 .uap-form-links div:nth-child(even) a{
+	border-right:none;
+}
+.uap-login-template-4 .uap-form-submit{
+	text-align:center;
+	margin-top:17px;
+	margin-bottom:10px;
+}
+.uap-login-template-4 .uap-form-submit input{
+	width:100%;
+  	border: none;
+	background:none repeat scroll 0 0 #27AE60 !important;
+	border-color:#27AE60 !important;
+	box-shadow:none !important;
+	border-radius:3px;
+	text-transform:capitalize;
+	font-size: 15px;
+    font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+    padding: 10px 30px 11px;
+  border-radius: 3px;
+  color: #b3eecc !important;
+  border-bottom: 4px solid #1e8449 !important;	
+}
+.uap-login-template-4 .uap-form-submit input:hover{	
+  background:none repeat scroll 0 0 #43be77 !important;
+}
+.uap-login-template-4 .uap-form-line-fr{
+	box-sizing:content-box;
+  text-align: left;
+    background-color: #fafafa;
+	border:1px solid #efefef;
+	border-bottom:1px solid #efefef;
+    margin-bottom: 7px;
+	position:relative;
+	border-radius: 4px !important;
+    -webkit-border-radius: 4px !important;
+    -moz-border-radius: 4px !important;
+    -o-border-radius: 4px !important;
+}
+.uap-login-template-4 .uap-form-line-fr:hover{
+	border-color:#27AE60;
+	 background-color: #fefefe;
+}
+.uap-login-template-4 .uap-form-line-fr:after{
+	content:"";
+	clear:both;
+}
+/*Login Template 5*/
+.uap-login-template-5{
+	padding: 10px;
+	text-align:center;
+    display: inline-block;
+	width:400px;
+    max-width: 100%;
+	box-sizing:border-box;
+    font-family: Helvetica, sans-serif, 'Trebuchet MS';
+}
+.uap-login-template-5 .uap-sm-wrapp-fe{
+	text-align:left;
+}
+.uap-login-template-5 .uap-form-line-fr{
+	box-sizing:content-box;
+	padding-bottom:8px;
+  text-align: left;
+}
+.uap-login-template-5 .uap-form-line-fr:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-5 form{
+}
+.uap-login-template-5 .uap-form-line-fr .uap-form-label-fr{
+	min-width:150px;
+	padding-bottom:3px;
+	box-sizing:content-box;
+	font-weight:800;
+	font-size:13px;
+	text-align:left;
+}
+.uap-login-template-5 .uap-form-line-fr input[type=text],.uap-login-template-5 .uap-form-line-fr input[type=password]{
+	width:100%;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  color: #2b2b2b;
+  padding: 8px 10px 7px;
+}
+.uap-login-template-5 .uap-temp5-row{
+	}
+.uap-login-template-5 .uap-temp5-row:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-5 .uap-temp5-row-left{
+	float:left;
+	}
+.uap-login-template-5 .uap-remember-wrapper{
+	clear:both;
+	text-align:left;
+    line-height: 14px;
+}
+.uap-login-template-5 .uap-form-label-remember{
+	display:inline-block !important;
+	font-weight:400;
+	font-size:12px;	
+	text-transform:inherit;
+}
+.uap-login-template-5 .uap-form-input-remember{
+	margin-right: 3px;
+	vertical-align:middle;
+}
+.uap-login-template-5 .uap-form-label-remember:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-5 .uap-form-links{
+	text-align:left;
+	clear:both;
+	margin-top:3px;
+}
+.uap-login-template-5 .uap-form-links div{
+	display:inline-block;
+}
+.uap-login-template-5 .uap-form-links a{
+	color:#aaa;
+	font-size:12px;
+	text-decoration:none;
+	padding-right:10px;
+}
+.uap-login-template-5 .uap-form-links a:hover{
+	color:#e05d5d;
+}
+.uap-login-template-5 .uap-form-submit{
+	text-align:center;
+	float:right;
+}
+.uap-login-template-5 .uap-form-submit input{
+	color:#fff !important;
+	min-width:100px;
+	border:none;
+	text-transform:capitalize;
+    padding: 10px 30px 11px;
+	background:none repeat scroll 0 0 #f47e7e !important;
+	border-color:#5BC4BE !important;
+	box-shadow:none !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+}
+.uap-login-template-5 .uap-form-submit input:hover{	
+  background:none repeat scroll 0 0 #e05d5d !important;
+}
+/*PASS*/
+
+.uap-pass-form-wrap.uap-login-template-5 .uap-form-submit input {
+	width:auto;
+}
+
+
+
+/*Login Template 6*/
+.uap-login-template-6{
+	margin: 10px;
+	padding:20px;
+	padding-bottom:0px;
+	text-align:center;
+    display: inline-block;
+	width:400px;
+	max-width:100%;
+	box-sizing:border-box;
+		border-radius:3px;
+  -webkit-box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.15);
+    font-family: Helvetica, sans-serif, 'Trebuchet MS';
+}
+
+.uap-login-template-6 .uap-sm-wrapp-fe{
+	text-align:left;
+}
+.uap-login-template-6 .uap-form-line-fr{
+	box-sizing:content-box;
+	padding-bottom:8px;
+  text-align: left;
+}
+.uap-login-template-6 .uap-form-line-fr:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-6 form{
+	margin:0px !important;
+}
+.uap-login-template-6 .uap-form-line-fr .uap-form-label-fr{
+	min-width:150px;
+	padding-bottom:3px;
+	box-sizing:content-box;
+	font-size:13px;
+	text-align:left;
+}
+.uap-login-template-6 .uap-form-line-fr input[type=text],.uap-login-template-6 .uap-form-line-fr input[type=password]{
+	width:100%;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  color: #2b2b2b;
+  padding: 8px 10px 7px;
+}
+.uap-login-template-6 .uap-temp6-row{
+	position:relative;
+	left:-20px;
+    margin: 0 -40px 0 0px;
+	background-color:#f2f2f2;
+	padding:10px 20px;	
+	}
+.uap-login-template-6 .uap-temp6-row:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-6 .uap-temp6-row-left{
+	float:left;
+	}
+.uap-login-template-6 .uap-remember-wrapper{
+	clear:both;
+	text-align:left;
+    line-height: 30px;
+}
+.uap-login-template-6 .uap-form-label-remember{
+	display:inline-block !important;
+	font-weight:400;
+	font-size:12px;
+	font-weight:bold;	
+	text-transform:inherit;
+}
+.uap-login-template-6 .uap-form-input-remember{
+	margin-right: 3px;
+	vertical-align:middle;
+}
+.uap-login-template-6 .uap-form-label-remember:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-6 .uap-form-links{
+	text-align:left;
+	clear:both;
+	margin-top:3px;
+	margin-bottom:3px;
+}
+.uap-login-template-6 .uap-form-links div{
+	display:inline-block;
+}
+.uap-login-template-6 .uap-form-links a{
+	color:#aaa;
+	font-size:12px;
+	text-decoration:none;
+  	border-right: 1px solid #999;
+  	padding-right: 10px;
+}
+.uap-login-template-6 .uap-form-links a:hover{
+	color:#e05d5d;
+}
+.uap-login-template-6 .uap-form-links div:nth-child(even) a{
+	border-right:none;
+	padding-left:10px;
+}
+.uap-login-template-6 .uap-form-submit{
+	text-align:center;
+	float:right;
+	padding-bottom:0px;
+}
+.uap-login-template-6 .uap-form-submit input{
+	color:#fff !important;
+	width:80px;
+	border:none;
+	border-radius:25px;
+	text-transform:capitalize;
+    padding: 8px 15px;
+	background:none repeat scroll 0 0 #f47e7e !important;
+	border-color:#5BC4BE !important;
+	box-shadow:none !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+}
+.uap-login-template-6 .uap-form-submit input:hover{	
+  background:none repeat scroll 0 0 #e05d5d !important;
+}
+/*PASS*/
+
+.uap-pass-form-wrap.uap-login-template-6 .uap-form-submit input {
+	width:auto;
+	margin-bottom:10px;
+}
+
+
+/*Login Template 7*/
+.uap-login-template-7{
+	padding: 10px;
+	text-align:center;
+    display: inline-block;
+    font-family: Helvetica, sans-serif, 'Trebuchet MS';
+}
+.uap-login-template-7 .uap-sm-wrapp-fe{
+	text-align:left;
+	padding-left:15px;
+	padding-right:15px;
+}
+.uap-login-template-7 .uap-form-line-fr{
+	box-sizing:border-box;
+	padding-bottom:8px;
+  text-align: left;
+  display:inline-block;
+  width:50%;
+  max-width:300px;
+  padding-right:15px;
+}
+.uap-login-template-7 .uap-form-line-fr:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-7 form{
+}
+.uap-login-template-7 .uap-form-line-fr .uap-form-label-fr{
+	min-width:150px;
+	padding-bottom:3px;
+	box-sizing:content-box;
+	font-weight:800;
+	font-size:13px;
+	text-align:left;
+}
+.uap-login-template-7 .uap-form-line-fr input[type=text],.uap-login-template-7 .uap-form-line-fr input[type=password]{
+	width:100%;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  color: #2b2b2b;
+  padding: 8px 10px 7px;
+}
+.uap-login-template-7 .uap-temp5-row{
+	}
+.uap-login-template-7 .uap-temp5-row:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-7 .uap-temp5-row-left{
+	float:left;
+	}
+.uap-login-template-7 .uap-remember-wrapper{
+	clear:both;
+	text-align:left;
+    line-height: 14px;
+}
+.uap-login-template-7 .uap-form-label-remember{
+	display:inline-block !important;
+	font-weight:400;
+	font-size:12px;	
+	text-transform:inherit;
+}
+.uap-login-template-7 .uap-form-input-remember{
+	margin-right: 3px;
+	vertical-align:middle;
+}
+.uap-login-template-7 .uap-form-label-remember:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-7 .uap-form-links{
+	text-align:left;
+	clear:both;
+	margin-top:0px;
+}
+.uap-login-template-7 .uap-form-links div{
+	display:inline-block;
+}
+.uap-login-template-7 .uap-form-links a{
+	color:#aaa;
+	font-size:12px;
+	text-decoration:none;
+	padding-right:10px;
+}
+.uap-login-template-7 .uap-form-links a:hover{
+	color:#e05d5d;
+}
+.uap-login-template-7 .uap-form-submit{
+	text-align:center;
+	float:right;
+	margin-right:15px;
+}
+.uap-login-template-7 .uap-form-submit input{
+	color:#fff !important;
+	min-width:100px;
+	border:none;
+	text-transform:capitalize;
+    padding: 8px 30px 8px;
+	border-radius:4px;
+	background:none repeat scroll 0 0 #6c7a8d !important;
+	border-color:#5BC4BE !important;
+	box-shadow:none !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+}
+.uap-login-template-7 .uap-form-submit input:hover{	
+  background:none repeat scroll 0 0 #94a1b2 !important;
+}
+/*PASS*/
+.uap-pass-form-wrap.uap-login-template-7 {
+	width:400px;
+}
+.uap-pass-form-wrap.uap-login-template-7 .uap-form-line-fr {
+	width:100%;
+	max-width:inherit;
+}
+.uap-pass-form-wrap.uap-login-template-7 .uap-form-submit input {
+	width:auto;
+}
+
+/*Login Template 8*/
+.uap-login-template-8{
+	margin: 10px;
+	padding:30px;
+	padding-top:10px;
+	padding-bottom:0px;
+	text-align:center;
+	box-sizing:border-box;
+    display: inline-block;
+	background-color:#fff;
+	border-radius:3px;
+	width:460px;
+    max-width: 100%;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+}
+
+.uap-login-template-8 .uap-sm-wrapp-fe{
+	text-align:center;
+	margin: 30px 0;
+}
+.uap-login-template-8 .uap-form-line-fr{
+	box-sizing:content-box;
+  text-align: left;
+    background-color: transparent;
+	border-bottom:1px solid #efefef;
+    margin-bottom: 17px;
+	position:relative;
+}
+.uap-login-template-8 .uap-form-line-fr:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-8 form{
+	display:block;
+  position: relative;
+}
+.uap-login-template-8  .fa-uap{
+  position: absolute;
+  top: 0px;
+  left: 9px;
+  line-height: 39px;
+    font-size: 18px;
+	color:#555;
+}
+.uap-login-template-8 .uap-form-line-fr .uap-form-label-fr{
+	min-width:350px;
+  	display:block;
+	box-sizing:content-box;
+	font-weight:500;
+	font-size:14px;
+	text-align:left;
+	text-transform:uppercase;
+}
+.uap-login-template-8 .uap-form-line-fr input[type=text], .uap-login-template-8 .uap-form-line-fr input[type=password]{
+	width:100%;
+     color: #555;
+  padding: 8px 10px 7px;
+	background-color:transparent !important;
+	border:none !important;
+    padding: 10px !important;
+	display:inline-block;
+	padding-left:40px !important;
+	font-size:14px;
+}
+.uap-login-template-8 .uap-remember-wrapper{
+	margin-right: 3px;
+	text-align:right;
+	line-height:22px;
+	padding-left:15px;
+}
+.uap-login-template-8 .uap-form-label-remember{
+	display:inline-block !important;
+	font-weight:400;
+	font-size:12px;	
+	font-weight:bold;
+	text-transform:inherit;
+	padding-left:3px;
+	color:#d3365e;
+}
+.uap-login-template-8 .uap-temp3-bottom{
+	position:relative;
+	left:-30px;
+    margin: 0 -60px 0 0px;
+	background-color:#f2f2f2;
+}
+.uap-login-template-8 .uap-temp3-bottom:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-8 .uap-form-input-remember{
+  vertical-align: middle;
+}
+
+.uap-login-template-8 .uap-form-links{
+	text-align:center;
+  line-height: 20px;
+}
+.uap-login-template-8 .uap-form-links div{
+	display:inline-block;
+}
+.uap-login-template-8 .uap-form-links a{
+	color:#666;
+	font-size:12px;
+	font-family: 'Oswald', arial, sans-serif !important;
+	text-decoration:none;
+  	border-right: 1px solid #999;
+  	padding-right: 10px;
+	padding-left:10px;
+}
+.uap-login-template-8 .uap-form-links a:hover{
+	color:#000;
+}
+.uap-login-template-8 .uap-form-links div:nth-child(even) a{
+	border-right:none;
+}
+.uap-login-template-8 .uap-form-submit{
+	text-align:center;
+	margin-top:17px;
+	margin-bottom:10px;
+}
+.uap-login-template-8 .uap-form-submit input{
+	color: #fff !important;
+    width: 100%;
+    border: none;
+    background: none repeat scroll 0 0 #ea4872 !important;
+    border-color: #ea4872 !important;
+    box-shadow: none !important;
+    border-radius: 3px;
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transition: all 0.3s linear 0s;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+    padding: 10px 30px 11px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -o-border-radius: 50px;
+    min-height: 45px;
+    font-size: 18px;
+    font-weight: bold;	
+}
+.uap-login-template-8 .uap-form-submit input:hover{	
+      background: none repeat scroll 0 0 #d3365e !important;
+}
+
+.uap-login-template-8 .uap-login-notice{
+	margin-top: 6px;
+}
+
+
+/*Login Template 9*/
+.uap-login-template-9{
+	margin: 10px;
+	padding:30px;
+	padding-top:10px;
+	padding-bottom:0px;
+	text-align:center;
+	box-sizing:border-box;
+    display: inline-block;
+	background-color:#fff;
+	border-radius:3px;
+	width:460px;
+    max-width: 100%;
+	font-size:15px;
+	
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+}
+.uap-login-template-9 .uap_login_form{
+	font-size:15px;
+}
+.uap-login-template-9 .uap-sm-wrapp-fe{
+	text-align: center;
+}
+.uap-login-template-9 .uap-form-line-fr{
+	box-sizing:content-box;
+  text-align: left;
+    background-color: transparent !important;
+	border: 1px solid rgba(0, 0, 0, 0.15);
+    margin-bottom: 17px;
+	position:relative;
+	border-radius: 45px !important;
+    -webkit-border-radius: 45px !important;
+    -moz-border-radius: 45px !important;
+    -o-border-radius: 45px !important;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-transition: all 0.3s linear 0s;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+}
+.uap-login-template-9 .uap-form-line-fr:hover,
+.uap-login-template-9 .uap-form-line-fr:checked
+{
+	    border-color: #26bbea;
+    background-color: #fff;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0.1);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+}
+.uap-login-template-9 .uap-form-line-fr:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-9 form{
+	display:block;
+  position: relative;
+  font-size:15px;
+}
+.uap-login-template-9  .fa-uap{
+  position: absolute;
+  top: 0px;
+  left: 15px;
+  line-height: 39px;
+    font-size: 18px;
+	color:#999;
+}
+.uap-login-template-9 .uap-form-line-fr .uap-form-label-fr{
+	min-width:350px;
+  	display:block;
+	box-sizing:content-box;
+	font-weight:500;
+	font-size:14px;
+	text-align:left;
+	text-transform:uppercase;
+}
+.uap-login-template-9 .uap-form-line-fr input[type=text], .uap-login-template-9 .uap-form-line-fr input[type=password]{
+	width:100%;
+     color: #555 !important;
+  padding: 8px 10px 7px !important;
+	background-color:transparent !important;
+	border:none !important;
+    padding: 10px !important;
+	display:inline-block;
+	padding-left:40px !important;
+	font-size:14px !important;
+	border-radius: 45px !important;
+    -webkit-border-radius: 45px !important;
+    -moz-border-radius: 45px !important;
+    -o-border-radius: 45px !important;
+	margin: 0px !important;
+}
+.uap-login-template-9 .uap-remember-wrapper{
+	margin-right: 3px;
+	text-align:left;
+	line-height:22px;
+	padding-left:15px;
+	float:left;
+}
+.uap-login-template-9 .uap-form-label-remember{
+	display:inline-block !important;
+	font-weight:400;
+	font-size:14px;	
+	text-transform:inherit;
+	padding-left:3px;
+	color:#777;
+}
+.uap-login-template-9 .uap-form-links-pass{
+	float:right;
+	padding-right: 15px;
+}
+.uap-login-template-9 .uap-form-links-pass a{
+	color: #32a3cb;
+}
+.uap-login-template-9 .uap-temp3-bottom{
+	position:relative;
+	left:-30px;
+    margin: 0 -60px 0 0px;
+	background-color:#f2f2f2;
+}
+.uap-login-template-9 .uap-temp3-bottom:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-9 .uap-form-input-remember{
+  vertical-align: middle;
+}
+
+.uap-login-template-9 .uap-form-links{
+	text-align:center;
+  line-height: 20px;
+  margin-top: 10px;
+}
+.uap-login-template-9 .uap-form-links div{
+	display:inline-block;
+}
+.uap-login-template-9 a{
+}
+.uap-login-template-9 .uap-form-links a{
+	text-decoration:none;
+  	padding-right: 10px;
+	padding-left:10px;
+	color: #32a3cb;
+}
+.uap-login-template-9 .uap-form-links a:hover{
+	color:#000;
+}
+.uap-login-template-9 .uap-form-links div:nth-child(even) a{
+	border-right:none;
+}
+.uap-login-template-9 .uap-form-submit{
+	text-align:center;
+	margin-top:25px;
+	margin-bottom:25px;
+	border:none !important;
+}
+.uap-login-template-9 .uap-form-submit:hover{
+	border:none !important;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0);
+}	
+.uap-login-template-9 .uap-form-submit input{
+	color: #fff !important;
+    width: 60%;
+    border: none;
+    /*background: none repeat scroll 0 0 #ea4872 !important;
+    border-color: #ea4872 !important;*/
+	    background-color: rgb(160, 68, 255);
+    background-image: linear-gradient(to left, rgb(106, 48, 147), rgb(160, 68, 255));
+    box-shadow: none !important;
+    border-radius: 3px;
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transition: all 0.3s linear 0s;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+    padding: 10px 30px 11px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -o-border-radius: 50px;
+    min-height: 45px;
+    font-size: 18px;
+    font-weight: bold;	
+	    -webkit-transition: all 0.3s linear 0s;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+}
+.uap-login-template-9 .uap-form-submit input:hover{	
+	width: 65%;
+      /*background: none repeat scroll 0 0 #d3365e !important;*/
+	background-color: rgb(241, 95, 121);
+    background-image: linear-gradient(to left, rgb(178, 69, 146), rgb(241, 95, 121));
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+}
+
+.uap-login-template-9 .uap-login-notice{
+	margin-top: 6px;
+}
+
+
+/*Login Template 10*/
+.uap-login-template-10{
+	margin: 10px;
+	padding:0px;
+	padding-top:10px;
+	padding-bottom:0px;
+	text-align:center;
+	box-sizing:border-box;
+    display: inline-block;
+	background-color:#fff;
+	border-radius:3px;
+	width:460px;
+    max-width: 100%;
+	font-size:15px;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+}
+.uap-login-template-10 .uap_login_form{
+	font-size:15px;
+}
+.uap-login-template-10 .uap-sm-wrapp-fe{
+	text-align: center;
+}
+.uap-login-template-10 .uap-form-line-fr{
+	box-sizing:content-box;
+  text-align: left;
+    background-color: #fefefe;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+	position:relative;
+	border-radius: 4px !important;
+    -webkit-border-radius: 4px !important;
+    -moz-border-radius: 4px !important;
+    -o-border-radius: 4px !important;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-transition: all 0.3s linear 0s;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+}
+.uap-login-template-10 .uap-form-line-fr:hover,
+.uap-login-template-10 .uap-form-line-fr:checked
+{
+	    border-color: #26bbea;
+    background-color: #fff;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0.1);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+}
+.uap-login-template-10 .uap-form-line-fr:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-10 form{
+	display:block;
+  position: relative;
+  font-size:15px;
+}
+.uap-login-template-10  .fa-uap{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  line-height: 39px;
+    font-size: 18px;
+	color:#555;
+	background-color: #eee;
+	border-radius: 4px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-right: 1px solid #ccc;
+    min-width: 45px;
+    text-align: center;	
+}
+.uap-login-template-10 .uap-form-line-fr .uap-form-label-fr{
+	min-width:350px;
+  	display:block;
+	box-sizing:content-box;
+	font-weight:500;
+	font-size:14px;
+	text-align:left;
+	text-transform:uppercase;
+}
+.uap-login-template-10 .uap-form-line-fr input[type=text], .uap-login-template-10 .uap-form-line-fr input[type=password]{
+	width:100%;
+     color: #555;
+  padding: 8px 10px 7px;
+	background-color:transparent !important;
+	border:none !important;
+    padding: 10px;
+	display:inline-block;
+	padding-left:60px !important;
+	font-size:14px !important;
+	border-radius: 4px !important;
+    -webkit-border-radius: 4px !important;
+    -moz-border-radius: 4px !important;
+    -o-border-radius: 4px !important; 
+	height: auto !important;
+    margin-bottom: 0px !important;
+    line-height: 1 !important;
+}
+.uap-login-template-10 .uap-remember-wrapper{
+	margin-right: 3px;
+	text-align:left;
+	line-height:22px;
+	padding-left:15px;
+	float:left;
+}
+.uap-login-template-10 .uap-form-label-remember{
+	display:inline-block !important;
+	font-weight:400;
+	font-size:14px;	
+	text-transform:inherit;
+	padding-left:3px;
+	color:#777;
+}
+.uap-login-template-10 .uap-form-links-pass{
+	float:right;
+	padding-right: 15px;
+}
+.uap-login-template-10 .uap-form-links-pass a{
+	color: #32a3cb;
+}
+.uap-login-template-10 .uap-temp3-bottom{
+	position:relative;
+	left:-30px;
+    margin: 0 -60px 0 0px;
+	background-color:#f2f2f2;
+}
+.uap-login-template-10 .uap-temp3-bottom:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-10 .uap-form-input-remember{
+  vertical-align: middle;
+}
+
+.uap-login-template-10 .uap-form-links{
+	text-align:center;
+  line-height: 20px;
+  margin-top: 10px;
+}
+.uap-login-template-10 .uap-form-links div{
+	display:inline-block;
+}
+.uap-login-template-10 a{
+}
+.uap-login-template-10 .uap-form-links a{
+	text-decoration:none;
+  	padding-right: 10px;
+	padding-left:10px;
+	color: #32a3cb;
+}
+.uap-login-template-10 .uap-form-links a:hover{
+	color:#000;
+}
+.uap-login-template-10 .uap-form-links div:nth-child(even) a{
+	border-right:none;
+}
+.uap-login-template-10 .uap-form-submit{
+	text-align:center;
+	margin-top:25px;
+	margin-bottom:25px;
+	border:none !important;
+}
+.uap-login-template-10 .uap-form-submit:hover{
+	border:none !important;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0);
+}	
+.uap-login-template-10 .uap-form-submit input{
+	color: #fff !important;
+    width: 100%;
+    border: none;
+    /*background: none repeat scroll 0 0 #ea4872 !important;
+    border-color: #ea4872 !important;*/
+	background-color: #67b1d6;
+    box-shadow: none !important;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+    border-radius: 3px;
+    text-transform: capitalize;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transition: all 0.3s linear 0s;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+    padding: 10px 30px 11px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -o-border-radius: 2px;
+    min-height: 45px;
+    font-size: 18px;	
+	-webkit-transition: all 0.3s linear 0s;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+}
+.uap-login-template-10 .uap-form-submit input:hover{	
+      /*background: none repeat scroll 0 0 #d3365e !important;*/
+	background-color: #65aed3;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+}
+
+.uap-login-template-10 .uap-login-notice{
+	margin-top: 6px;
+}
+
+
+/*Login Template 11*/
+.uap-login-template-11{
+	margin: 10px auto;
+	padding:30px;
+	padding-top:10px;
+	padding-bottom:0px;
+	text-align:center;
+	box-sizing:border-box;
+    display: block;
+	background-color:#fff;
+	border-radius:3px;
+	width:460px;
+    max-width: 100%;
+	font-size:15px;
+	
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+}
+.uap-login-template-11 .uap_login_form{
+	font-size:15px;
+}
+.uap-login-template-11 .uap-sm-wrapp-fe{
+	text-align: center;
+}
+.uap-login-template-11 .uap-form-line-fr{
+	box-sizing:content-box;
+  text-align: left;
+    background-color: transparent !important;
+	    border-bottom: 1px solid #efefef;
+    margin-bottom: 17px;
+	position:relative;
+	border-radius: 0px !important;
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    -o-border-radius: 0px !important;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-transition: all 0.3s linear 0s;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+}
+.uap-login-template-11 .uap-form-line-fr:hover,
+.uap-login-template-11 .uap-form-line-fr:checked
+{
+	    border-color: #26bbea;
+    background-color: #fff;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0.1);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+}
+.uap-login-template-11 .uap-form-line-fr:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-11 form{
+	display:block;
+  position: relative;
+  font-size:15px;
+}
+.uap-login-template-11  .fa-uap{
+  position: absolute;
+  top: 0px;
+  left: 15px;
+  line-height: 39px;
+    font-size: 18px;
+	color:#999;
+}
+.uap-login-template-11 .uap-form-line-fr .uap-form-label-fr{
+	min-width:350px;
+  	display:block;
+	box-sizing:content-box;
+	font-weight:500;
+	font-size:14px;
+	text-align:left;
+	text-transform:uppercase;
+}
+.uap-login-template-11 .uap-form-line-fr input[type=text], .uap-login-template-11 .uap-form-line-fr input[type=password]{
+	width: 100%;
+    color: #555 !important;
+    padding: 8px 10px 7px !important;
+    background-color: transparent !important;
+    border: none !important;
+    padding: 10px !important;
+    display: inline-block;
+    padding-left: 40px !important;
+    font-size: 14px !important;
+    border-radius: 45px !important;
+    -webkit-border-radius: 45px !important;
+    -moz-border-radius: 45px !important;
+    -o-border-radius: 45px !important;
+    margin: 0px !important;
+}
+.uap-login-template-11 .uap-remember-wrapper{
+	margin-right: 3px;
+	text-align:left;
+	line-height:22px;
+	padding-left:15px;
+	float:left;
+}
+.uap-login-template-11 .uap-form-label-remember{
+	display:inline-block !important;
+	font-weight:400;
+	font-size:14px;	
+	text-transform:inherit;
+	padding-left:3px;
+	color:#777;
+}
+.uap-login-template-11 .uap-form-links-pass{
+	float:right;
+	padding-right: 15px;
+}
+.uap-login-template-11 .uap-form-links-pass a{
+	color: #2bb7e3;
+}
+.uap-login-template-11 .uap-temp3-bottom{
+	position:relative;
+	left:-30px;
+    margin: 0 -60px 0 0px;
+	background-color:#f2f2f2;
+}
+.uap-login-template-11 .uap-temp3-bottom:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-11 .uap-form-input-remember{
+  vertical-align: middle;
+      border-radius: 0px;
+    height: 20px;
+    width: 20px;
+    /* padding: 0px; */
+    margin: 0px 5px 0 5px;
+    border: 2px solid #ddd;
+    /* box-shadow: none; */
+    background: #fff;
+    -webkit-appearance: initial;
+    position: relative;
+    vertical-align: middle;
+}
+.uap-login-template-11 .uap-form-input-remember:checked:before {
+    content: '';
+    border: 3px solid #00b9eb;
+    display: inline-block;
+    width: 3px;
+    height: 10px;
+    border-top: 0;
+    border-left: 0;
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    box-sizing: content-box;
+    -webkit-transform: rotate(36deg);
+    -khtml-transform: rotate(36deg);
+    -moz-transform: rotate(36deg);
+    -ms-transform: rotate(36deg);
+    -o-transform: rotate(36deg);
+    transform: rotate(36deg);
+}
+
+.uap-login-template-11 .uap-form-links{
+	text-align:center;
+  line-height: 20px;
+  margin-top: 10px;
+}
+.uap-login-template-11 .uap-form-links div{
+	display:inline-block;
+}
+.uap-login-template-11 a{
+}
+.uap-login-template-11 .uap-form-links a{
+	text-decoration:none;
+  	padding-right: 10px;
+	padding-left:10px;
+	color: #32a3cb;
+}
+.uap-login-template-11 .uap-form-links a:hover{
+	color:#000;
+}
+.uap-login-template-11 .uap-form-links div:nth-child(even) a{
+	border-right:none;
+}
+.uap-login-template-11 .uap-form-submit{
+	text-align:center;
+	margin-top:25px;
+	margin-bottom:25px;
+	border:none !important;
+}
+.uap-login-template-11 .uap-form-submit:hover{
+	border:none !important;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0);
+}	
+.uap-login-template-11 .uap-form-submit input{
+    width: 80%;
+    font-family: Helvetica, sans-serif, 'Trebuchet MS';
+    border: 2px solid #2bb7e3;
+    color: #2bb7e3;
+	text-transform:uppercase;
+    background-color: transparent;
+    box-shadow: none !important;
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transition: all 0.3s linear 0s;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+    padding: 10px 30px 10px;
+    line-height: 20px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -o-border-radius: 50px;
+    min-height: 45px;
+    font-size: 18px;
+    font-weight: bold;	
+	    -webkit-transition: all 0.3s linear 0s;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+}
+.uap-login-template-11 .uap-form-submit input:hover{	
+	width: 85%;
+      /*background: none repeat scroll 0 0 #d3365e !important;*/
+	background-color: #2bb7e3;
+    color:#fff;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+}
+
+.uap-login-template-11 .uap-login-notice{
+	margin-top: 6px;
+}
+
+/*Login Template 12*/
+.uap-login-template-12{
+	margin: 10px auto;
+	padding:60px;
+	padding-top:70px;
+	padding-bottom:70px;
+	text-align:center;
+	box-sizing:border-box;
+    display: block;
+	background-color:#fff;
+	border-radius:3px;
+	width:550px;
+    max-width: 100%;
+	font-size:15px;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+	    border: 1px solid #cccccc;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+.uap-login-template-12 .uap_login_form{
+	font-size:15px;
+}
+.uap-login-template-12 .uap-sm-wrapp-fe{
+	text-align: center;
+}
+.uap-login-template-12 .uap-form-line-fr{
+	box-sizing:content-box;
+  text-align: left;
+    background-color: #fefefe;
+    border: 1px solid #ccc;
+    margin-bottom: 25px;
+	position:relative;
+	border-radius: 50px !important;
+    -webkit-border-radius: 50px !important;
+    -moz-border-radius: 50px !important;
+    -o-border-radius: 50px !important;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-transition: all 0.3s linear 0s;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+}
+.uap-login-template-12 .uap-form-line-fr:hover,
+.uap-login-template-12 .uap-form-line-fr:checked
+{
+	    border-color: #26bbea;
+    background-color: #fff;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0.1);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+}
+.uap-login-template-12 .uap-form-line-fr:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-12 form{
+	display:block;
+  position: relative;
+  font-size:15px;
+}
+.uap-login-template-12  .fa-uap{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  line-height: 39px;
+    font-size: 18px;
+	color:#555;
+	border-radius: 50px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    min-width: 45px;
+    text-align: center;	
+}
+.uap-login-template-12 .uap-form-line-fr .uap-form-label-fr{
+	min-width:350px;
+  	display:block;
+	box-sizing:content-box;
+	font-weight:500;
+	font-size:14px;
+	text-align:left;
+	text-transform:uppercase;
+}
+.uap-login-template-12 .uap-form-line-fr input[type=text], .uap-login-template-12 .uap-form-line-fr input[type=password]{
+	width:100%;
+     color: #555;
+  padding: 8px 10px 7px;
+	background-color:transparent !important;
+	border:none !important;
+    padding: 12px;
+	display:inline-block;
+	padding-left:45px !important;
+	font-size:14px !important;
+	border-radius: 4px !important;
+    -webkit-border-radius: 4px !important;
+    -moz-border-radius: 4px !important;
+    -o-border-radius: 4px !important; 
+	height: auto !important;
+    margin-bottom: 0px !important;
+    line-height: 1 !important;
+}
+.uap-login-template-12 .uap-remember-wrapper{
+	margin-right: 3px;
+	text-align:left;
+	line-height:22px;
+	padding-left:15px;
+	float:left;
+	margin-bottom:5px;
+}
+.uap-login-template-12 .uap-form-label-remember{
+	display:inline-block !important;
+	font-weight:400;
+	font-size:14px;	
+	text-transform:inherit;
+	padding-left:3px;
+	color:#6164c1;
+}
+.uap-login-template-12 .uap-form-links-pass{
+	float:right;
+	padding-right: 15px;
+	margin-bottom:5px;
+}
+.uap-login-template-12 .uap-form-links-pass a{
+	color: #6164c1;
+}
+.uap-login-template-12 .uap-temp3-bottom{
+	position:relative;
+	left:-30px;
+    margin: 0 -60px 0 0px;
+	background-color:#f2f2f2;
+}
+.uap-login-template-12 .uap-temp3-bottom:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-12 .uap-form-input-remember{
+      vertical-align: middle;
+    border-radius: 0px;
+    height: 20px;
+    width: 20px;
+    /* padding: 0px; */
+    margin: 0px 5px 0 5px;
+    border: 2px solid #ddd;
+    /* box-shadow: none; */
+    background: #fff;
+    -webkit-appearance: initial;
+    position: relative;
+    vertical-align: middle;
+}
+.uap-login-template-12 .uap-form-input-remember:checked:before {
+    content: '';
+    border: 3px solid #00b9eb;
+    display: inline-block;
+    width: 3px;
+    height: 10px;
+    border-top: 0;
+    border-left: 0;
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    box-sizing: content-box;
+    -webkit-transform: rotate(36deg);
+    -khtml-transform: rotate(36deg);
+    -moz-transform: rotate(36deg);
+    -ms-transform: rotate(36deg);
+    -o-transform: rotate(36deg);
+    transform: rotate(36deg);
+}
+
+.uap-login-template-12 .uap-form-links{
+	text-align:center;
+  line-height: 20px;
+  margin-top: 10px;
+}
+.uap-login-template-12 .uap-form-links div{
+	display:inline-block;
+}
+.uap-login-template-12 a{
+}
+.uap-login-template-12 .uap-form-links a{
+	text-decoration:none;
+  	padding-right: 10px;
+	padding-left:10px;
+	color: #6164c1;
+}
+.uap-login-template-12 .uap-form-links a:hover{
+	color:#000;
+}
+.uap-login-template-12 .uap-form-links div:nth-child(even) a{
+	border-right:none;
+}
+.uap-login-template-12 .uap-form-submit{
+	text-align:center;
+	margin-top:25px;
+	margin-bottom:25px;
+	border:none !important;
+}
+.uap-login-template-12 .uap-form-submit:hover{
+	border:none !important;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0);
+}	
+.uap-login-template-12 .uap-form-submit input{
+	color: #fff !important;
+    width: 100%;
+    border: none;
+    /*background: none repeat scroll 0 0 #ea4872 !important;
+    border-color: #ea4872 !important;*/
+	background-color: #6164c1;
+    box-shadow: none !important;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+    border-radius: 3px;
+    text-transform: uppercase;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transition: all 0.3s linear 0s;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+    padding: 10px 30px 11px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -o-border-radius: 4px;
+    min-height: 45px;
+    font-size: 18px;
+	font-weight:bold;	
+	-webkit-transition: all 0.3s linear 0s;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+}
+.uap-login-template-12 .uap-form-submit input:hover{	
+      /*background: none repeat scroll 0 0 #d3365e !important;*/
+	background-color: #8d7fd7;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+}
+
+.uap-login-template-12 .uap-login-notice{
+	margin-top: 6px;
+}
+
+/*Login Template 13*/
+.uap-login-template-13{
+	padding: 10px;
+	text-align:center;
+    display: block;
+	width:470px;
+	margin:10px auto;
+    max-width: 100%;
+	box-sizing:border-box;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+}
+.uap-login-template-13 .uap-sm-wrapp-fe{
+}
+.uap-login-template-13 .uap-form-line-fr{
+	box-sizing:content-box;
+	padding-top:15px;
+  text-align: left;
+}
+.uap-login-template-13 .uap-form-line-fr:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-13 form{
+}
+.uap-login-template-13 .uap-form-line-fr .uap-form-label-fr{
+	min-width:150px;
+	box-sizing:content-box;
+	color: #555;
+    font-family: Helvetica, sans-serif, 'Trebuchet MS';
+	line-height: 26px;
+    font-size: 15px;
+    text-align: left;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 8px;
+}
+.uap-login-template-13 .uap-form-line-fr input[type=text],.uap-login-template-13 .uap-form-line-fr input[type=password]{
+	width:100%;
+  border: 2px solid rgba(0, 0, 0, 0.15);
+  border-radius: 2px;
+  color: #2b2b2b;
+  padding: 8px 10px 7px;
+      height: 40px!important;
+}
+.uap-login-template-13 .uap-temp5-row{
+	margin:5px 0;
+	}
+.uap-login-template-13 .uap-temp5-row:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-13 .uap-temp5-row-left{
+	float:left;
+	width:48%;
+	margin-top:20px;
+	}
+.uap-login-template-13 .uap-temp5-row-right{
+	float:right;
+	width:48%;
+	margin-top:20px;
+	}	
+.uap-login-template-13 .uap-remember-wrapper{
+	clear:both;
+	text-align:left;
+    line-height: 24px;
+}
+.uap-login-template-13 .uap-form-label-remember{
+	display:inline-block !important;
+	font-weight:400;
+	font-size:15px;
+	line-height:24px;
+	color:#888888;	
+	text-transform:inherit;
+	margin-left:5px;
+    vertical-align: middle;
+}
+.uap-login-template-13 .uap-form-input-remember {
+    vertical-align: middle;
+    border-radius: 0px;
+    height: 20px;
+    width: 20px;
+    /* padding: 0px; */
+    margin: 0px 5px 0 5px;
+    border: 2px solid #ddd;
+    /* box-shadow: none; */
+    background: #fff;
+    -webkit-appearance: initial;
+    position: relative;
+    vertical-align: middle;
+}
+.uap-login-template-13 .uap-form-input-remember:checked:before {
+    content: '';
+    border: 3px solid #00b9eb;
+    display: inline-block;
+    width: 3px;
+    height: 10px;
+    border-top: 0;
+    border-left: 0;
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    box-sizing: content-box;
+    -webkit-transform: rotate(36deg);
+    -khtml-transform: rotate(36deg);
+    -moz-transform: rotate(36deg);
+    -ms-transform: rotate(36deg);
+    -o-transform: rotate(36deg);
+    transform: rotate(36deg);
+}
+.uap-login-template-13 .uap-form-links-pass{
+	padding-top:20px;
+	    line-height: 22px;
+    color: #888!important;
+    display: block!important;
+    font-weight: 400;
+	    font-size: 15px;
+}
+.uap-login-template-13 .uap-form-label-remember:after{
+	content:"";
+	clear:both;
+}
+.uap-login-template-13 .uap-form-links{
+	text-align:left;
+	clear:both;
+	margin-top:3px;
+}
+.uap-login-template-13 .uap-form-links div{
+	display:inline-block;
+}
+.uap-login-template-13 .uap-form-links a{
+	color:#aaa;
+	font-size:12px;
+	text-decoration:none;
+	padding-right:10px;
+}
+.uap-login-template-13 .uap-form-links a:hover{
+	color:#e05d5d;
+}
+.uap-login-template-13 .uap-form-submit{
+	text-align:center;
+}
+.uap-login-template-13 .uap-form-submit input, .uap-login-template-13 .uap-form-links-reg{
+	color:#fff !important;
+	min-width:100px;
+	border:none;
+	text-transform:capitalize;
+        padding: 16px 20px!important;
+	background:none repeat scroll 0 0 #3ba1da;
+	border-color:#5BC4BE !important;
+	box-shadow:none !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;    
+  display: block;
+    width: 100%;
+	font-size:15px;    
+	-webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    border-radius: 4px;    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+	box-sizing: border-box;
+    line-height: 16px;
+	cursor:pointer;
+	    border-bottom: 2px solid rgba(0,0,0,.1)!important;
+}
+.uap-login-template-13 .uap-form-submit input:hover{	
+  background:none repeat scroll 0 0 #44b0ec;
+}
+ .uap-login-template-13 .uap-form-links-reg{
+	 background:#eeeeee;
+ }
+ .uap-login-template-13 .uap-form-links-reg:hover{
+ 	 background: #e5e5e5;
+}
+ .uap-login-template-13 .uap-form-links-reg a{
+	 color:#666;
+ }
+/*PASS*/
+
+.uap-pass-form-wrap.uap-login-template-13 .uap-form-submit input {
+	width:auto;
+}
+.uap-login-template-13.uap-pass-form-wrap .uap-form-submit input{
+	margin:10px auto;
+	margin-top:20px;
+	    width: auto!important;
+    min-width: 250px!important;
+}
+
+.uap-form-pass-additional-content{
+	color: #777;
+    font-size: 17px;
+	text-align: center;
+	padding: 15px 15px 0 15px;
+}
+
+/*==================LOGIN======================*/
+
+
+
+/*==================REGISTER======================*/
+.uap-register-form *{
+	box-sizing:border-box;
+	/*margin-top:10px;*/
+}
+/*Register Template 1*/
+.uap-register-1{
+	
+}
+.uap-register-1 .uap-labels-register{
+	font-size:13px;
+	min-width:130px;
+	padding-right:10px;
+}
+.uap-register-1 .uap-form-line-register{
+	border-bottom:none;
+}
+.uap-register-1 .uap-form-line-register input[type=text], .uap-register-1 .uap-form-line-register input[type=password], .uap-register-1 .uap-form-line-register input[type=number]
+, .uap-register-1 .uap-form-line-register textarea, .uap-register-1 .uap-form-line-register select{
+	border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    color: #2b2b2b;
+  	padding: 8px 10px 7px;
+}
+
+.uap-register-1 .uap-form-line-register .uap-form-checkbox-wrapper,.uap-register-1 .uap-form-line-register .uap-form-radiobox-wrapper{
+	display:inline-block;
+	vertical-align:top;
+}
+
+.uap-register-1 .uap-submit-form{
+	text-align:center;
+}
+
+.uap-register-1 .uap-tos-wrap{
+	text-align:right;
+	position:relative;
+}
+.uap-register-1 .uap-submit-form input{
+    color: #66c6e4!important;
+    background: #008ec2!important;
+    border-color: #007cb2!important;
+    -webkit-box-shadow: none!important;
+    box-shadow: none!important;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.1)!important;
+    cursor: default;
+    height: 30px;
+    line-height: 28px;
+    padding: 0 12px 2px;
+    
+}
+/*Register Template 2*/
+.uap-register-2{
+	min-width:300px;
+    font-family: Helvetica, sans-serif, 'Trebuchet MS';
+    font-size: 14px;
+    box-sizing: border-box;
+    display: block;
+    max-width: 500px;
+}
+.uap-register-2 .uap-labels-register{
+	font-size:13px;
+	min-width:130px;
+	padding-right:10px;
+	display:block;
+	text-align:left;
+}
+.uap-register-2 .uap-form-line-register{
+	border-bottom:none;
+}
+.uap-register-2 .uap-form-line-register input[type=text], .uap-register-2 .uap-form-line-register input[type=password], .uap-register-2 .uap-form-line-register input[type=number],
+ .uap-register-2 .uap-form-line-register textarea, .uap-register-2 .uap-form-line-register select, .uap-register-2 .uap-form-line-register .select2-selection{
+	border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    color: #2b2b2b;
+  	padding: 8px 10px 7px;
+	display:block;
+	width:100%;
+	min-height:40px;
+	background-color: #f7f7f7;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0);
+	-webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+}
+.uap-register-2 .uap-form-line-register input[type=text]:hover, .uap-register-2 .uap-form-line-register input[type=password]:hover, .uap-register-2 .uap-form-line-register input[type=number]:hover,
+ .uap-register-2 .uap-form-line-register textarea:hover, .uap-register-2 .uap-form-line-register select:hover, .uap-register-2 .uap-form-line-register .select2-selection:hover,
+ .uap-register-2 .uap-form-line-register input[type=text]:focus, .uap-register-2 .uap-form-line-register input[type=password]:focus, .uap-register-2 .uap-form-line-register input[type=number]:focus,
+ .uap-register-2 .uap-form-line-register textarea:focus, .uap-register-2 .uap-form-line-register select:focus, .uap-register-2 .uap-form-line-register .select2-selection:focus
+ {
+ 	border-color:#08d1b2;
+	background-color: #fff;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0.1);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+ }
+.uap-register-2 .uap-form-line-register .uap-form-checkbox-wrapper,.uap-register-2 .uap-form-line-register .uap-form-radiobox-wrapper{
+	margin-top:10px;
+}
+.uap-register-2 .uap-submit-form{
+	text-align:center;
+}
+.uap-register-2 .uap-submit-form input{
+    color: #fff !important;
+    width: 100%;
+    background: none repeat scroll 0 0 #08d1b2 !important;
+    border: 4px solid #5BC4BE;
+    border-width: 3px;
+    border-color: #08d1b2 !important;
+    box-shadow: none !important;
+    -webkit-transition: all 0.3s linear 0s;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+}
+.uap-register-2 .uap-submit-form input:hover{	
+	color:#fff !important;
+  background:none repeat scroll 0 0 #08d1b2 !important;
+  border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+}  
+/*Register Template 3*/
+.uap-register-3{
+	margin: 10px;
+	padding:30px;
+	text-align:center;
+	box-sizing:border-box;
+	background-color:#fff;
+	border-top:7px solid #33b5e5;
+	border-radius:3px;
+  -webkit-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.15);
+  min-width:300px;
+    max-width: 500px;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';    font-family: 'Oswald', arial, sans-serif !important;
+    font-size: 14px;
+	color:#7f7f97;
+}
+.uap-register-3 .uap-sm-wrapp-fe{
+	text-align:left;
+}
+.uap-register-3 .uap-level-details-register{
+	margin:15px 0px;
+}
+.uap-register-3 .uap-labels-register{
+	font-size:13px;
+	min-width:130px;
+	padding-right:10px;
+	display:block;
+	text-align:left;
+    text-transform: uppercase;
+	color:#7f7f97;
+}
+.uap-register-3 .uap-form-line-register{
+	border-bottom:none;
+    margin-bottom: 10px;
+    position: relative;	
+}
+.uap-register-3 .uap-form-line-register input[type=text], .uap-register-3 .uap-form-line-register input[type=password], .uap-register-3 .uap-form-line-register input[type=number],
+ .uap-register-3 .uap-form-line-register textarea, .uap-register-3 .uap-form-line-register select, .uap-register-3 .uap-form-line-register .select2-selection{
+	
+	border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    color: #7f7f97;
+  	padding: 8px 10px 7px;
+	display:block;
+	width:100%;
+	min-height:40px;
+	text-align:left;
+	 font-family: 'Oswald', arial, sans-serif !important;
+	 font-weight:300;
+	background-color: #edf0f5;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0);
+	-webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+}
+.uap-register-3 .uap-form-line-register input[type=text]:hover, .uap-register-3 .uap-form-line-register input[type=password]:hover, .uap-register-3 .uap-form-line-register input[type=number]:hover,
+ .uap-register-3 .uap-form-line-register textarea:hover, .uap-register-3 .uap-form-line-register select:hover, .uap-register-3 .uap-form-line-register .select2-selection:hover,
+ .uap-register-3 .uap-form-line-register input[type=text]:focus, .uap-register-3 .uap-form-line-register input[type=password]:focus, .uap-register-3 .uap-form-line-register input[type=number]:focus,
+ .uap-register-3 .uap-form-line-register textarea:focus, .uap-register-3 .uap-form-line-register select:focus, .uap-register-3 .uap-form-line-register .select2-selection:focus
+ , .uap-register-3 .uap-form-line-register select:checked{
+	 border: 1px solid rgba(0, 0, 0, 0.1);
+	background-color: #fff;
+
+}
+
+.uap-register-3 .uap-form-line-register .select2-selection{
+	padding-top:4px;
+}
+ .uap-register-3 .uap-form-sublabel, .uap-register-3 .uap-file-upload-button{
+	text-align:left;
+}
+ .uap-register-3 .uap-wrapp-file-upload{
+	display:block;
+    margin-top: 10px;
+}
+.uap-register-3 .uap-form-checkbox-wrapper,.uap-register-3  .uap-form-radiobox-wrapper{
+	text-align:left;
+	padding-left:20px;
+}
+.uap-register-3 .uap-form-checkbox,.uap-register-3  .uap-form-radiobox, .uap-register-3  .uap-form-paybox{
+	display:inline-block;
+}
+.uap-register-3 .uap-tos-wrap{
+	position:relative;
+	left:-30px;
+    margin: 10px -60px 10px 0px;
+	background-color:#f2f2f2;
+	text-align:left;
+	padding:10px 0;
+	padding-left:30px;
+  	border-top: 1px solid #ddd;
+  	border-bottom: 1px solid #ddd;
+	
+}
+.uap-register-3 .uap-submit-form{
+	text-align:center;
+	margin-top:10px;
+}
+.uap-register-3 .uap-submit-form input{
+	color:#fff !important;
+	width:100%;
+	border:none;
+	background:none repeat scroll 0 0 #33b5e5 !important;
+	border-color:#1a9bcb !important;
+	box-shadow:none !important;
+	border-radius:3px;
+	text-transform:capitalize;
+	font-size: 14px;
+    font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;	 
+    padding: 10px 30px 11px;
+}
+.uap-register-3 .uap-submit-form input:hover{	
+  background:none repeat scroll 0 0 #1a9bcb !important;
+}
+.uap-register-3 .uap-register-notice:before{
+    content: '';
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -8px;
+    margin-left: -5px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+	border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid #dd3559;
+}
+.uap-register-3 .uap-input-notice {
+    border-color: #dd3559!important;
+}
+.uap-register-3 .uap-register-notice {
+    position: absolute;
+    z-index: 100;
+    background: #dd3559;
+    padding: 5px 8px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    position: absolute;
+    right: 0;
+    margin-bottom: 8px;
+    max-width: 230px;
+    font-size: .875rem;
+    color: #fff;
+    top: 100%;
+    margin-top: -2px;
+    opacity: 1;
+    -webkit-transition: all 0.6s linear 0s;
+    -moz-transition: all 0.6s linear 0s;
+    -ms-transition: all 0.6s linear 0s;
+    -o-transition: all 0.6s linear 0s;
+    transition: all 0.6s linear 0s;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+    color: #fff !important;
+}
+/*Register Template 4*/
+.uap-register-4{
+	margin: 10px;
+	padding:30px 20px;
+	text-align:center;
+	box-sizing:border-box;
+	background-color:#fff;
+	border-radius:3px;
+	  min-width: 310px;
+    max-width: 450px;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS'; 
+    font-size: 14px;
+}
+.uap-register-4 .uap-sm-wrapp-fe{
+	text-align:left;
+}
+.uap-register-4 .uap-labels-register{
+	font-size:13px;
+	min-width:130px;
+	padding-right:10px;
+	display:block;
+	text-align:left;
+    text-transform: uppercase;
+}
+.uap-register-4 .uap-form-line-register{
+		box-sizing:content-box;
+  text-align: left;
+    background-color: #fafafa;
+	border:1px solid #efefef;
+	border-bottom:1px solid #efefef;
+	border-top:1px solid #efefef;
+    margin-bottom: 7px;
+	position:relative;
+	padding:0px;
+	padding-bottom:3px;
+  	    border-radius: 4px !important;
+    -webkit-border-radius: 4px !important;
+    -moz-border-radius: 4px !important;
+    -o-border-radius: 4px !important;
+}
+.uap-register-4 .uap-no-backs{
+	background:none !important;
+	border-width:0px;
+}
+.uap-register-4 .uap-form-line-register input[type=text], .uap-register-4 .uap-form-line-register input[type=password], .uap-register-4 .uap-form-line-register input[type=number], .uap-register-4 .uap-form-line-register textarea, .uap-register-4 .uap-form-line-register select, .uap-register-4 .uap-form-line-register .select2-selection{
+	width:100%;
+    background-color: #fafafa;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  color: #2b2b2b;
+  padding: 8px 10px 7px;
+	background-color:none !important;
+	border:none !important;
+    padding: 10px;
+	display:inline-block;
+	min-height: 38px;
+}
+.uap-register-4 .uap-form-line-register select, .uap-register-4 .uap-form-line-register .select2-selection{
+	border:1px solid #efefef !important;
+}
+.uap-register-4 .uap-form-checkbox,.uap-register-4  .uap-form-radiobox, .uap-register-4  .uap-form-paybox{
+	display:inline-block;
+}
+.uap-register-4 .uap-tos-wrap{
+	text-align:left;
+	position:relative;
+}
+.uap-register-4 .uap-submit-form{
+	text-align:center;
+	margin-top:10px;
+}
+.uap-register-4 .uap-submit-form input{
+	width:100%;
+  	border: none;
+	background:none repeat scroll 0 0 #27AE60 !important;
+	border-color:#27AE60 !important;
+	box-shadow:none !important;
+	border-radius:3px;
+	text-transform:capitalize;
+	font-size: 15px;
+    font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+    padding: 10px 30px 11px;
+  border-radius: 3px;
+  color: #b3eecc !important;
+  border-bottom: 4px solid #1e8449 !important;	
+}
+.uap-register-4 .uap-submit-form input:hover{
+  background:none repeat scroll 0 0 #43be77 !important;
+}
+.uap-register-4 .uap-register-notice {
+    margin-left: 5px;
+}
+.uap-register-4 .uap-strength-wrapper{
+	     position: absolute;
+    right: 0;
+    top: 100%;
+    margin-top: -6px;
+}
+ .uap-register-4 .uap-strength-wrapper .uap-strength-label{
+	  margin-top:-7px;
+  }
+  .uap-register-4 .uap-form-password{
+	  margin-bottom:35px;
+  }
+/*Register Template 5*/
+.uap-register-5{
+	min-width: 400px;
+    max-width: 100%;
+    font-family: Helvetica, sans-serif, 'Trebuchet MS';
+    font-size: 14px;
+    display: block;
+}
+.uap-register-5 .uap-labels-register{
+	font-size:13px;
+	font-weight:bold;
+	min-width:130px;
+	padding-right:10px;
+	display:block;
+	text-align:left;
+}
+.uap-register-5 .uap-form-line-register{
+	border-bottom:none;
+}
+.uap-register-5 .uap-form-line-register input[type=text], .uap-register-5 .uap-form-line-register input[type=password], .uap-register-5 .uap-form-line-register input[type=number], .uap-register-5 .uap-form-line-register textarea, .uap-register-5 .uap-form-line-register select, .uap-register-5 .uap-form-line-register .select2-selection{
+	border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    color: #2b2b2b;
+  	padding: 8px 10px 7px;
+	display:block;
+	width:100%;
+	min-height: 37px;
+}
+.uap-register-5 .uap-submit-form{
+	text-align: right;
+}
+.uap-register-5 .uap-form-checkbox,.uap-register-5  .uap-form-radiobox, .uap-register-5  .uap-form-paybox{
+	display:inline-block;
+}
+.uap-register-5 .uap-submit-form input{
+	color:#fff !important;
+	background:none repeat scroll 0 0 #e05d5d  !important;
+	border-color:#e05d5d  !important;
+	box-shadow:none !important;
+}
+/*Register Template 6*/
+.uap-register-6{
+	min-width:620px;
+}
+@media (max-width: 620px) {
+	.uap-register-6{
+		width:100%;
+    	min-width: auto;
+	}
+}
+.uap-register-6 .uap-register-col{
+	width:50%;
+	box-sizing:border-box;
+	padding-right:10px;
+    max-width:400px;
+	min-width:310px;
+    display: inline-block;
+    vertical-align: top;
+}
+.uap-register-6 .uap-tos-wrap{ 
+	position:relative; 
+}
+.uap-register-6 .uap-labels-register{
+	font-size:13px;
+	font-weight:bold;
+	min-width:130px;
+	padding-right:10px;
+	display:block;
+	text-align:left;
+}
+.uap-register-6 .uap-form-line-register{
+	border-bottom:none;
+	position: relative;
+}
+.uap-register-6 .uap-form-line-register input[type=text], .uap-register-6 .uap-form-line-register input[type=password], .uap-register-6 .uap-form-line-register input[type=number]
+, .uap-register-6 .uap-form-line-register textarea, .uap-register-6 .uap-form-line-register select, .uap-register-6 .uap-form-line-register .select2-selection{
+	
+	border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    color: #2b2b2b;
+  	padding: 8px 10px 7px;
+	display:block;
+	width:100%;
+	font-size:14px;
+	min-height: 37px;
+}
+.uap-register-6 .uap-submit-form{
+	text-align: right;
+}
+.uap-register-6 .uap-submit-form input{
+	color:#fff !important;
+	background:none repeat scroll 0 0 #e05d5d  !important;
+	border-color:#e05d5d  !important;
+	box-shadow:none !important;
+	border: none;
+	border-bottom: 3px solid #b93207;
+	border-radius: 2px;
+	padding: 11px 24px 10px;
+	min-width: 200px;
+	text-shadow: none !important;
+}
+
+.uap-register-6 .uap-form-checkbox,.uap-register-6  .uap-form-radiobox, .uap-register-6  .uap-form-paybox{
+	display:inline-block;
+}
+.uap-register-6 .uap-register-notice{
+	position: absolute;
+    z-index: 100;
+    background: #dd3559;
+    padding: 5px 8px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    position: absolute;
+    right: 0;
+    margin-bottom: 8px;
+    max-width: 230px;
+    font-size: .875rem;
+    color: #fff;
+    top: 100%;
+    margin-top: -2px;
+	opacity:1;
+	-webkit-transition: all 0.6s linear 0s;
+  -moz-transition: all 0.6s linear 0s;
+  -ms-transition: all 0.6s linear 0s;
+  -o-transition: all 0.6s linear 0s;
+  transition: all 0.6s linear 0s;
+  -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+.uap-register-6 .uap-register-notice:before{
+    content: '';
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -8px;
+    margin-left: -5px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+	border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid #dd3559;
+}
+.uap-register-6 .uap-input-notice {
+    border-color: #dd3559!important;
+}
+/*Register Template 7*/
+.uap-register-7{
+	width:400px;
+    max-width: 100%;	
+	margin: 10px;
+	padding:20px;
+	padding-bottom:0px;	
+	border-radius:3px;
+  -webkit-box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.15);
+  background-color:#f6f9fc;
+    font-family: Helvetica, sans-serif, 'Trebuchet MS';
+    font-size: 14px;
+}
+.uap-register-7 .uap-temp7-row{
+	position:relative;
+	left:-20px;
+    margin: 15px -40px 0 0px;
+	background-color:#aab7c4;
+	padding:15px 20px;	
+}
+.uap-register-7 .uap-labels-register{
+	font-size:13px;
+	font-weight:bold;
+	min-width:130px;
+	padding-right:10px;
+	display:block;
+	text-align:left;
+}
+.uap-register-7 .uap-form-line-register{
+	border-bottom:none;
+	position: relative;
+}
+.uap-register-7 .uap-form-line-register input[type=text], .uap-register-7 .uap-form-line-register input[type=password], .uap-register-7 .uap-form-line-register input[type=number]
+, .uap-register-7 .uap-form-line-register textarea, .uap-register-7 .uap-form-line-register select, .uap-register-7 .uap-form-line-register .select2-selection {
+	border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    color: #2b2b2b;
+  	padding: 8px 10px 7px;
+	display:block;
+	width:100%;
+	min-height:37px;
+}
+.uap-register-7 .uap-submit-form{
+	text-align: center; 
+}
+.uap-register-7 .uap-submit-form input{
+	/*
+	color:#333 !important;
+	background:none repeat scroll 0 0 #fafafa  !important;
+	border-color:#fafafa  !important;
+	box-shadow:none !important;
+	*/
+    color: #fff !important;
+    background: none repeat scroll 0 0 #aab7c4 !important;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #fff !important;
+    box-shadow: none !important;
+    -webkit-transition: all 0.3s linear 0s;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+    padding: 10px 30px 11px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -o-border-radius: 50px;
+    min-width: 70%;	
+}
+.uap-register-7 .uap-submit-form input:hover{
+	color:#aab7c4 !important;
+	background:none repeat scroll 0 0 #fff  !important;
+}
+.uap-register-7 .uap-submit-form input:hover{
+	background:none repeat scroll 0 0 #fff  !important;
+}
+.uap-sublabel-register{
+	padding: 3px 8px;
+	color:#999;
+	font-size:13px;
+}
+.uap-register-7 .uap-register-notice{
+	position: absolute;
+    z-index: 100;
+    background: #dd3559;
+    padding: 5px 8px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    position: absolute;
+    right: 0;
+    margin-bottom: 8px;
+    max-width: 230px;
+    font-size: .875rem;
+    color: #fff;
+    top: 100%;
+    margin-top: -2px;
+	opacity:1;
+	-webkit-transition: all 0.6s linear 0s;
+  -moz-transition: all 0.6s linear 0s;
+  -ms-transition: all 0.6s linear 0s;
+  -o-transition: all 0.6s linear 0s;
+  transition: all 0.6s linear 0s;
+  -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+.uap-register-7 .uap-register-notice:before{
+    content: '';
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -8px;
+    margin-left: -5px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+	border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid #dd3559;
+}
+.uap-register-7 .uap-input-notice {
+    border-color: #dd3559!important;
+}
+/*Register Template 8*/
+.uap-register-8{
+	margin: 10px;
+	padding:30px;
+	text-align:center;
+	box-sizing:border-box;
+	display:block;
+  	min-width:300px;
+    max-width: 600px;
+}
+.uap-register-8 .uap-form-line-register{
+	margin-bottom:20px;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+    color: #888;
+	font-size:15px;
+}
+.uap-register-8 .uap-register-notice{
+	text-align:left;
+	font-size:13px;
+}
+.uap-register-8 .uap-sm-wrapp-fe{
+	text-align:left;
+}
+.uap-register-8 .uap-level-details-register{
+	margin:15px 0px;
+}
+.uap-register-8 .uap-labels-register{
+	font-size:15px;
+	min-width:130px;
+	padding-right:10px;
+	display:block;
+	text-align:left;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+}
+.uap-register-8 .uap-form-line-register{
+	border-bottom:none;
+}
+.uap-register-8 .uap-form-line-register input[type=text], .uap-register-8 .uap-form-line-register input[type=password], .uap-register-8 .uap-form-line-register input[type=number],
+ .uap-register-8 .uap-form-line-register textarea, .uap-register-8 .uap-form-line-register select, .uap-register-8 .uap-form-line-register .select2-selection{
+	
+	border: 0px solid rgba(0, 0, 0, 0.1);
+	border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 2px;
+    color: #555;
+	background-color:transparent;
+  	padding: 8px 10px 7px;
+	display:block;
+	width:100%;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+    font-size: 14px;
+	min-height:36px;
+	text-align: left; 
+}
+ .uap-register-8 .uap-form-line-register textarea{
+	 min-height:60px;
+ }
+ .uap-register-8 .uap-wrapp-file-field{
+	 box-sizing:border-box;
+	 padding: 10px;
+    border: 2px dashed #ddd;
+ }
+ .uap-register-8 .uap-form-sublabel, .uap-register-8 .uap-file-upload-button{
+	text-align:left;
+}
+ .uap-register-8 .uap-wrapp-file-upload{
+	display:block;
+    margin-top: 10px;
+}
+.uap-register-8 .uap-form-checkbox-wrapper,.uap-register-8  .uap-form-radiobox-wrapper{
+	text-align:left;
+	padding-left:20px;
+}
+.uap-register-8 .uap-form-checkbox,.uap-register-8  .uap-form-radiobox, .uap-register-8  .uap-form-paybox{
+	display:inline-block;
+}
+.uap-register-8 .uap-tos-wrap{
+	position:relative;
+	text-align:left;
+	padding:10px 0;
+	
+}
+.uap-register-8 .uap-submit-form{
+	text-align:center;
+	margin-top:10px;
+}
+.uap-register-8 .uap-submit-form input{
+	color:#fff !important;
+	width:100%;
+	border:none;
+	background:none repeat scroll 0 0 #ea4872 !important;
+	border-color:#ea4872 !important;
+	box-shadow:none !important;
+	border-radius:3px;
+	text-transform:capitalize;
+	font-size: 14px;
+    font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;	 
+    padding: 10px 30px 11px;
+	border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -o-border-radius: 50px;
+	min-height:45px;
+	font-size:18px;
+	font-weight:bold; 
+}
+.uap-register-8 .uap-submit-form input:hover{	
+  background:none repeat scroll 0 0 #d3365e !important;
+}
+.uap-register-8 .uap-register-notice{
+    color: #dd3559;
+	-webkit-transition: all 0.6s linear 0s;
+  -moz-transition: all 0.6s linear 0s;
+  -ms-transition: all 0.6s linear 0s;
+  -o-transition: all 0.6s linear 0s;
+  transition: all 0.6s linear 0s;
+  -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+.uap-register-8 .uap-input-notice {
+	-webkit-transition: all 0.6s linear 0s;
+  -moz-transition: all 0.6s linear 0s;
+  -ms-transition: all 0.6s linear 0s;
+  -o-transition: all 0.6s linear 0s;
+  transition: all 0.6s linear 0s;
+    border-color: #dd3559!important;
+}
+
+
+/*Register Template 9*/
+.uap-register-9{
+	margin: 10px;
+	padding:30px;
+	text-align:center;
+	box-sizing:border-box;
+	display:block;
+  	min-width:300px;
+    max-width: 600px;
+}
+.uap-register-9 .uap-form-line-register{
+	margin-bottom:20px;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+    color: #888;
+	font-size:15px;
+}
+.uap-register-9 .uap-register-notice{
+	text-align:left;
+	font-size:13px;
+}
+.uap-register-9 .uap-sm-wrapp-fe{
+	text-align:left;
+}
+.uap-register-9 .uap-level-details-register{
+	margin:15px 0px;
+}
+.uap-register-9 .uap-labels-register{
+	font-size:15px;
+	min-width:130px;
+	padding-right:10px;
+	padding-left:15px;
+	display:block;
+	text-align:left;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+}
+.uap-register-9 .uap-form-line-register{
+	border-bottom:none;
+	position:relative;
+}
+.uap-register-9 .uap-form-line-register input[type=text], .uap-register-9 .uap-form-line-register input[type=password], .uap-register-9 .uap-form-line-register input[type=number],
+ .uap-register-9 .uap-form-line-register textarea, .uap-register-9 .uap-form-line-register select, .uap-register-9 .uap-form-line-register .select2-selection{
+	
+	border: 0px solid rgba(0, 0, 0, 0.1);
+	border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 2px;
+    color: #555;
+	background-color:transparent;
+  	padding: 8px 10px 7px;
+	display:block;
+	width:100%;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+    font-size: 14px;
+	min-height:36px;
+	text-align: left;     
+	border-radius: 45px !important;
+    -webkit-border-radius: 45px !important;
+    -moz-border-radius: 45px !important;
+    -o-border-radius: 45px !important;
+	box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0);
+	-webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+}
+.uap-register-9 .uap-form-line-register .select2-selection{
+	padding-top:2px;
+}
+
+.uap-register-9 .uap-form-line-register input[type=text]:hover, .uap-register-9 .uap-form-line-register input[type=password]:hover, .uap-register-9 .uap-form-line-register input[type=number]:hover,
+ .uap-register-9 .uap-form-line-register textarea:hover, .uap-register-9 .uap-form-line-register select:hover, .uap-register-9 .uap-form-line-register .select2-selection:hover,
+ .uap-register-9 .uap-form-line-register input[type=text]:focus, .uap-register-9 .uap-form-line-register input[type=password]:focus, .uap-register-9 .uap-form-line-register input[type=number]:focus,
+ .uap-register-9 .uap-form-line-register textarea:focus, .uap-register-9 .uap-form-line-register select:focus, .uap-register-9 .uap-form-line-register .select2-selection:focus
+ , .uap-register-9 .uap-form-line-register select:checked{
+	border-color:#26bbea;
+	background-color: #fff;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0.1);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+
+}
+ .uap-register-9 .uap-form-line-register textarea{
+	 min-height:60px;
+	 border-radius: 10px !important;
+    -webkit-border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+    -o-border-radius: 10px !important;
+ }
+ .uap-register-9 .uap-wrapp-file-field{
+	 box-sizing:border-box;
+	 padding: 10px;
+    border: 2px dashed #ddd;
+ }
+ .uap-register-9 .uap-form-sublabel, .uap-register-9 .uap-register-notice{
+	text-align:left;
+	padding-left:15px;
+}
+.uap-register-9 .uap-file-upload-button{
+	text-align:left;
+}
+ .uap-register-9 .uap-wrapp-file-upload{
+	display:block;
+    margin-top: 10px;
+}
+.uap-register-9 .uap-form-checkbox-wrapper,.uap-register-9  .uap-form-radiobox-wrapper{
+	text-align:left;
+	padding-left:20px;
+}
+.uap-register-9 .uap-form-checkbox,.uap-register-9  .uap-form-radiobox, .uap-register-9  .uap-form-paybox{
+	display:inline-block;
+}
+.uap-register-9 .uap-tos-wrap{
+	position:relative;
+	text-align:left;
+	padding:10px 0;
+	
+}
+.uap-register-9 .uap-submit-form{
+	text-align:center;
+	margin-top:30px;
+}
+.uap-register-9 .uap-submit-form input{
+	color:#fff !important;
+	min-width:250px;
+	width:60%;
+	border:none;
+	/*background:none repeat scroll 0 0 #f94848 !important;
+	border-color:#f94848 !important;*/
+	box-shadow:none !important;
+	border-radius:3px;
+	text-transform:capitalize;
+	font-size: 14px;
+    font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;	 
+    padding: 10px 30px 11px;
+	border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -o-border-radius: 50px;
+	min-height:45px;
+	font-size:18px;
+	font-weight:bold; 
+	    background-color: rgb(241, 95, 121);
+    background-image: linear-gradient(to left, rgb(178, 69, 146), rgb(241, 95, 121));
+}
+.uap-register-9 .uap-submit-form input:hover{	
+	width:67%;
+}
+.uap-register-9 .uap-register-notice, .uap-register-9 #uap_coupon_code_check_div_msg{
+	position: absolute;
+    z-index: 100;
+    background: #dd3559;
+    padding: 5px 8px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    position: absolute;
+    right: 0;
+    margin-bottom: 8px;
+    max-width: 230px;
+    font-size: .875rem;
+    color: #fff;
+    top: 100%;
+    margin-top: -2px;
+	opacity:1;
+	-webkit-transition: all 0.6s linear 0s;
+  -moz-transition: all 0.6s linear 0s;
+  -ms-transition: all 0.6s linear 0s;
+  -o-transition: all 0.6s linear 0s;
+  transition: all 0.6s linear 0s;
+  -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+	color:#fff !important;
+}
+.uap-register-9 .uap-coupon-valid{
+	background:#27bebe !important;
+}
+.uap-register-9 .uap-register-notice:before{
+    content: '';
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -8px;
+    margin-left: -5px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+	border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid #dd3559;
+}
+.uap-register-9 .uap-input-notice {
+    border-color: #dd3559!important;
+}
+
+
+
+/*Register Template 10*/
+.uap-register-10 *{
+	margin-top: 0px;
+}
+.uap-register-10{
+	min-width:300px;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+    font-size: 14px;
+	box-sizing:border-box;
+	display:block;
+	max-width:500px;   
+	/*font-family: 'Oswald', arial, sans-serif !important;*/
+    font-size: 14px;
+	color:#7f7f97;
+	text-align:left;
+}
+.uap-register-10 .uap-labels-register{
+	font-size:14px;
+	min-width:130px;
+	padding-right:10px;
+	display:block;
+	text-align:left;
+    /*text-transform: uppercase;*/
+	color:#777;
+}
+.uap-register-10 .uap-form-line-register{
+	border-bottom:none;
+	margin-bottom:15px;
+	position:relative;
+}
+.uap-register-10 .uap-form-text,
+.uap-register-10 .uap-form-password,
+.uap-register-10 .uap-form-unique_value_text,
+.uap-register-10 .uap-form-date
+{
+	 position: relative;
+    display: table;
+    border-collapse: separate;
+}
+
+.uap-register-10 .uap-form-line-register input[type=text], .uap-register-10 .uap-form-line-register input[type=password], .uap-register-10 .uap-form-line-register input[type=number],
+ .uap-register-10 .uap-form-line-register textarea, .uap-register-10 .uap-form-line-register select, .uap-register-10 .uap-form-line-register .select2-selection{
+	border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    color: #444;
+  	padding: 8px 10px 7px;
+	display:block;
+	width:100%;
+	min-height:40px;
+	background-color: #f7f7f7;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0);
+	-webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+    margin-bottom: 0 !important;
+	margin-top: 0 !important;
+}
+.uap-register-10 .uap-form-line-register input[type=text]:hover, .uap-register-10 .uap-form-line-register input[type=password]:hover, .uap-register-10 .uap-form-line-register input[type=number]:hover,
+ .uap-register-10 .uap-form-line-register textarea:hover, .uap-register-10 .uap-form-line-register select:hover, .uap-register-10 .uap-form-line-register .select2-selection:hover,
+ .uap-register-10 .uap-form-line-register input[type=text]:focus, .uap-register-10 .uap-form-line-register input[type=password]:focus, .uap-register-10 .uap-form-line-register input[type=number]:focus,
+ .uap-register-10 .uap-form-line-register textarea:focus, .uap-register-10 .uap-form-line-register select:focus, .uap-register-10 .uap-form-line-register .select2-selection:focus
+ {
+ 	border-color:#31aae1;
+	background-color: #fff;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0.1);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+ }
+.uap-register-10 .uap-form-line-register .uap-form-checkbox-wrapper,.uap-register-10 .uap-form-line-register .uap-form-radiobox-wrapper{
+	margin-top:10px;
+}
+
+.uap-register-10 .uap-form-text .uap-labels-register,
+.uap-register-10 .uap-form-password .uap-labels-register,
+.uap-register-10 .uap-form-unique_value_text .uap-labels-register,
+.uap-register-10 .uap-form-date .uap-labels-register
+{
+	padding: 6px 12px;
+	width: 1%;
+    white-space: nowrap;
+    vertical-align: middle;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+	border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+	border-right: 0;
+	display: table-cell;	
+	min-width: inherit;
+}
+.uap-register-10 .uap-form-text input[type=text],
+.uap-register-10 .uap-form-password input[type=text],
+.uap-register-10 .uap-form-unique_value_text input[type=text],
+.uap-register-10 .uap-form-date input[type=text]
+{   
+    border-radius: 4px;
+	height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+	border: 1px solid #ddd;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+    background-color: #fff;
+    color: #32373c;
+    outline: 0;
+    -webkit-transition: 50ms border-color ease-in-out;
+    transition: 50ms border-color ease-in-out; 
+	position: relative;
+    z-index: 2;
+    float: left;
+    width: 100%;
+    margin-bottom: 0 !important;
+	margin-top: 0 !important;
+	display: table-cell;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.uap-register-10 .uap-form-text .uap-form-sublabel,
+.uap-register-10 .uap-form-password .uap-form-sublabel,
+.uap-register-10 .uap-form-unique_value_text .uap-form-sublabel,
+.uap-register-10 .uap-form-date .uap-form-sublabel{
+	display: table-cell;
+	width: 1%;
+    white-space: nowrap;
+    vertical-align: middle;
+	padding: 6px 12px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+	border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+	border-left: 0;
+}
+.uap-register-10 .uap-register-notice, .uap-register-10 #uap_coupon_code_check_div_msg{
+	position: absolute;
+    z-index: 100;
+    background: #dd3559;
+    padding: 5px 8px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    position: absolute;
+    right: 0;
+    margin-bottom: 8px;
+    max-width: 230px;
+    font-size: .875rem;
+    color: #fff;
+    top: 100%;
+    margin-top: -2px;
+	opacity:1;
+	-webkit-transition: all 0.6s linear 0s;
+  -moz-transition: all 0.6s linear 0s;
+  -ms-transition: all 0.6s linear 0s;
+  -o-transition: all 0.6s linear 0s;
+  transition: all 0.6s linear 0s;-webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+	color:#fff !important;
+}
+.uap-register-10 .uap-coupon-valid{
+	background:#27bebe !important;
+}
+.uap-register-10 .uap-input-notice {
+    border-color: #dd3559!important;
+}
+.uap-register-10 .uap-register-notice:before{
+    content: '';
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -8px;
+    margin-left: -5px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+	border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid #dd3559;
+}
+.uap-register-10 .uap-submit-form{
+	text-align:center;
+}
+.uap-register-10 .uap-submit-form input{
+	color:#fff !important;
+	width:100%;
+	padding: 15px 14px !important;
+	/*background:none repeat scroll 0 0 #31aae1 !important;
+	border: 4px solid #5BC4BE;
+	border-width:3px;
+	border-color:#31aae1 !important;
+	box-shadow:none !important;*/
+	background-color: rgb(52, 138, 199);
+    background-image: linear-gradient(to left, rgb(116, 116, 191), rgb(52, 138, 199));
+	-webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+}
+.uap-register-10 .uap-submit-form input:hover{	
+	color:#fff !important;
+  /*background:none repeat scroll 0 0 #41b7ed !important;*/
+  border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+ .uap-register-10 .uap-form-line-register textarea{
+	 min-height:60px;
+ }
+ .uap-register-10 .uap-wrapp-file-field{
+	 box-sizing:border-box;
+	 padding: 10px;
+	 display:block;
+    margin-top: 10px;
+    border: 2px dashed #08d1b2;
+	width: 100%;
+ }
+
+/*Register Template 11*/
+.uap-register-11{
+	margin: 10px;
+	text-align:center;
+	box-sizing:border-box;
+	display:block;
+	text-align:left;
+}
+.uap-register-11 .uap-form-line-register{
+	margin-bottom:20px;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+    color: #888;
+	font-size:15px;
+}
+.uap-register-11 .uap-register-notice{
+	text-align:left;
+	font-size:13px;
+}
+.uap-register-11 .uap-sm-wrapp-fe{
+	text-align:left;
+}
+.uap-register-11 .uap-level-details-register{
+	margin:15px 0px;
+}
+.uap-register-11 .uap-labels-register{
+	font-size:15px;
+	min-width:130px;
+	padding-right:10px;
+	display:block;
+	text-align:left;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+}
+.uap-register-11 .uap-form-line-register{
+	border-bottom:none;
+}
+.uap-register-11 .uap-form-line-register input[type=text], .uap-register-11 .uap-form-line-register input[type=password], .uap-register-11 .uap-form-line-register input[type=number],
+ .uap-register-11 .uap-form-line-register textarea, .uap-register-11 .uap-form-line-register select, .uap-register-11 .uap-form-line-register .select2-selection{
+	
+	border: 0px solid rgba(0, 0, 0, 0.1);
+	border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 2px;
+    color: #555;
+	background-color:transparent;
+  	padding: 8px 10px 7px;
+	display:block;
+	width:100%;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+    font-size: 14px;
+	min-height:36px;
+	text-align: left; 
+}
+ .uap-register-11 .uap-form-line-register textarea{
+	 min-height:60px;
+ }
+ .uap-register-11 .uap-wrapp-file-field{
+	 box-sizing:border-box;
+	 padding: 10px;
+    border: 2px dashed #ddd;
+ }
+ .uap-register-11 .uap-form-sublabel, .uap-register-11 .uap-file-upload-button{
+	text-align:left;
+}
+ .uap-register-11 .uap-wrapp-file-upload{
+	display:block;
+    margin-top: 10px;
+}
+.uap-register-11 .uap-form-checkbox-wrapper,.uap-register-11  .uap-form-radiobox-wrapper{
+	text-align:left;
+	padding-left:20px;
+}
+.uap-register-11 .uap-form-checkbox,.uap-register-11  .uap-form-radiobox, .uap-register-11  .uap-form-paybox{
+	display:inline-block;
+}
+.uap-register-11 .uap-tos-wrap{
+	position:relative;
+	text-align:left;
+	padding:10px 0;
+	
+}
+.uap-register-11 .uap-submit-form{
+	text-align:center;
+	margin-top:10px;
+}
+.uap-register-11 .uap-submit-form input{
+	color:#fff !important;
+	width:100%;
+	border:none;
+	background:none repeat scroll 0 0 #ea4872 !important;
+	border-color:#ea4872 !important;
+	box-shadow:none !important;
+	border-radius:3px;
+	text-transform:capitalize;
+	font-size: 14px;
+    font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;	 
+    padding: 10px 30px 11px;
+	border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -o-border-radius: 50px;
+	min-height:45px;
+	font-size:18px;
+	font-weight:bold; 
+}
+.uap-register-11 .uap-submit-form input:hover{	
+  background:none repeat scroll 0 0 #d3365e !important;
+}
+.uap-register-11 .uap-register-notice{
+    color: #dd3559;
+	-webkit-transition: all 0.6s linear 0s;
+  -moz-transition: all 0.6s linear 0s;
+  -ms-transition: all 0.6s linear 0s;
+  -o-transition: all 0.6s linear 0s;
+  transition: all 0.6s linear 0s;
+  -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+.uap-register-11 .uap-input-notice {
+	-webkit-transition: all 0.6s linear 0s;
+  -moz-transition: all 0.6s linear 0s;
+  -ms-transition: all 0.6s linear 0s;
+  -o-transition: all 0.6s linear 0s;
+  transition: all 0.6s linear 0s;
+    border-color: #dd3559!important;
+}
+
+
+/*Register Template 12*/
+.uap-register-12{
+	margin: 10px;
+	text-align:center;
+	box-sizing:border-box;
+	display:block;
+	text-align:left;
+}
+.uap-register-12 .uap-form-line-register{
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+    color: #888;
+	font-size:15px;
+}
+.uap-register-12 .uap-register-notice{
+	text-align:left;
+	font-size:13px;
+}
+.uap-register-12 .uap-sm-wrapp-fe{
+	text-align:left;
+}
+.uap-register-12 .uap-level-details-register{
+	margin:15px 0px;
+}
+.uap-register-12 .uap-labels-register{
+	font-size:15px;
+	min-width:130px;
+	padding-right:10px;
+	padding-left:15px;
+	display:block;
+	text-align:left;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+}
+.uap-register-12 .uap-form-line-register{
+	border-bottom:none;
+	position:relative;
+}
+.uap-register-12 .uap-form-line-register input[type=text], .uap-register-12 .uap-form-line-register input[type=password], .uap-register-12 .uap-form-line-register input[type=number],
+ .uap-register-12 .uap-form-line-register textarea, .uap-register-12 .uap-form-line-register select, .uap-register-12 .uap-form-line-register .select2-selection{
+	
+	border: 0px solid rgba(0, 0, 0, 0.1);
+	border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 2px;
+    color: #555;
+	background-color:transparent;
+  	padding: 8px 10px 7px;
+	display:block;
+	width:100%;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+    font-size: 14px;
+	min-height:36px;
+	text-align: left;     
+	border-radius: 45px !important;
+    -webkit-border-radius: 45px !important;
+    -moz-border-radius: 45px !important;
+    -o-border-radius: 45px !important;
+	box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0);
+	-webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+  margin-bottom:0px !important;
+}
+.uap-register-12 .uap-form-line-register .select2-selection{
+	padding-top:2px;
+}
+
+.uap-register-12 .uap-form-line-register input[type=text]:hover, .uap-register-12 .uap-form-line-register input[type=password]:hover, .uap-register-12 .uap-form-line-register input[type=number]:hover,
+ .uap-register-12 .uap-form-line-register textarea:hover, .uap-register-12 .uap-form-line-register select:hover, .uap-register-12 .uap-form-line-register .select2-selection:hover,
+ .uap-register-12 .uap-form-line-register input[type=text]:focus, .uap-register-12 .uap-form-line-register input[type=password]:focus, .uap-register-12 .uap-form-line-register input[type=number]:focus,
+ .uap-register-12 .uap-form-line-register textarea:focus, .uap-register-12 .uap-form-line-register select:focus, .uap-register-12 .uap-form-line-register .select2-selection:focus
+ , .uap-register-12 .uap-form-line-register select:checked{
+	border-color:#26bbea;
+	background-color: #fff;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0.1);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+
+}
+ .uap-register-12 .uap-form-line-register textarea{
+	 min-height:60px;     
+	border-radius: 10px !important;
+    -webkit-border-radius: 10px !important;
+    -moz-border-radius: 10px !important;
+    -o-border-radius: 10px !important;
+ }
+ .uap-register-12 .uap-wrapp-file-field{
+	 box-sizing:border-box;
+	 padding: 10px;
+    border: 2px dashed #ddd;
+ }
+ .uap-register-12 .uap-form-sublabel, .uap-register-12 .uap-register-notice{
+	text-align:left;
+	padding-left:15px;
+}
+.uap-register-12 .uap-file-upload-button{
+	text-align:left;
+}
+ .uap-register-12 .uap-wrapp-file-upload{
+	display:block;
+    margin-top: 10px;
+}
+.uap-register-12 .uap-form-checkbox-wrapper,.uap-register-12  .uap-form-radiobox-wrapper{
+	text-align:left;
+	padding-left:20px;
+}
+.uap-register-12 .uap-form-checkbox,.uap-register-12  .uap-form-radiobox, .uap-register-12  .uap-form-paybox{
+	display:inline-block;
+}
+.uap-register-12 .uap-tos-wrap{
+	position:relative;
+	text-align:left;
+	padding:10px 0;
+	
+}
+.uap-register-12 .uap-submit-form{
+	text-align:center;
+	margin-top:10px;
+}
+.uap-register-12 .uap-submit-form input{
+	color:#fff !important;
+	min-width:250px;
+	width:50%;
+	border:none;
+	/*background:none repeat scroll 0 0 #f94848 !important;
+	border-color:#f94848 !important;*/
+	box-shadow:none !important;
+	border-radius:3px;
+	text-transform:capitalize;
+	font-size: 14px;
+    font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;	 
+    padding: 10px 30px 11px;
+	border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -o-border-radius: 50px;
+	min-height:45px;
+	font-size:18px;
+	font-weight:bold; 
+	    background-color: rgb(241, 95, 121);
+    background-image: linear-gradient(to left, rgb(178, 69, 146), rgb(241, 95, 121));
+}
+.uap-register-12 .uap-submit-form input:hover{	
+	width:57%;
+}
+.uap-register-12 .uap-register-notice, .uap-register-12 #uap_coupon_code_check_div_msg{
+	position: absolute;
+    z-index: 100;
+    background: #dd3559;
+    padding: 5px 8px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    position: absolute;
+    right: 0;
+    margin-bottom: 8px;
+    max-width: 230px;
+    font-size: .875rem;
+    color: #fff;
+    top: 100%;
+    margin-top: -2px;
+	opacity:1;
+	-webkit-transition: all 0.6s linear 0s;
+  -moz-transition: all 0.6s linear 0s;
+  -ms-transition: all 0.6s linear 0s;
+  -o-transition: all 0.6s linear 0s;
+  transition: all 0.6s linear 0s;
+  -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+	color:#fff !important;
+}
+.uap-register-12 .uap-coupon-valid{
+	background:#27bebe !important;
+}
+.uap-register-12 .uap-register-notice:before{
+    content: '';
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -8px;
+    margin-left: -5px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+	border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid #dd3559;
+}
+.uap-register-12 .uap-input-notice {
+    border-color: #dd3559!important;
+}
+
+
+
+/*Register Template 13*/
+.uap-register-13{
+	font-family: Helvetica, sans-serif, 'Trebuchet MS';
+    font-size: 14px;
+	box-sizing:border-box;
+	display:block;  
+	/*font-family: 'Oswald', arial, sans-serif !important;*/
+    font-size: 14px;
+	color:#7f7f97;
+}
+.uap-register-13 .uap-labels-register{
+	font-size:14px;
+	min-width:130px;
+	padding-right:10px;
+	display:block;
+	text-align:left;
+    /*text-transform: uppercase;*/
+	color:#777;
+}
+.uap-register-13 .uap-form-line-register{
+	border-bottom:none;
+	margin-bottom:15px;
+	position:relative;
+}
+.uap-register-13 .uap-form-text,
+.uap-register-13 .uap-form-password,
+.uap-register-13 .uap-form-unique_value_text,
+.uap-register-13 .uap-form-date
+{
+	 position: relative;
+    display: table;
+    border-collapse: separate;
+}
+
+.uap-register-13 .uap-form-line-register input[type=text], .uap-register-13 .uap-form-line-register input[type=password], .uap-register-13 .uap-form-line-register input[type=number],
+ .uap-register-13 .uap-form-line-register textarea, .uap-register-13 .uap-form-line-register select, .uap-register-13 .uap-form-line-register .select2-selection{
+	border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    color: #444;
+  	padding: 8px 10px 7px;
+	display:block;
+	width:100%;
+	min-height:40px;
+	background-color: #f7f7f7;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0);
+	-webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+    margin-bottom: 0 !important;
+	margin-top: 0 !important;
+}
+.uap-register-13 .uap-form-line-register input[type=text]:hover, .uap-register-13 .uap-form-line-register input[type=password]:hover, .uap-register-13 .uap-form-line-register input[type=number]:hover,
+ .uap-register-13 .uap-form-line-register textarea:hover, .uap-register-13 .uap-form-line-register select:hover, .uap-register-13 .uap-form-line-register .select2-selection:hover,
+ .uap-register-13 .uap-form-line-register input[type=text]:focus, .uap-register-13 .uap-form-line-register input[type=password]:focus, .uap-register-13 .uap-form-line-register input[type=number]:focus,
+ .uap-register-13 .uap-form-line-register textarea:focus, .uap-register-13 .uap-form-line-register select:focus, .uap-register-13 .uap-form-line-register .select2-selection:focus
+ {
+ 	border-color:#31aae1;
+	background-color: #fff;
+    box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0.1);
+    -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+ }
+.uap-register-13 .uap-form-line-register .uap-form-checkbox-wrapper,.uap-register-13 .uap-form-line-register .uap-form-radiobox-wrapper{
+	margin-top:10px;
+}
+
+.uap-register-13 .uap-form-text .uap-labels-register,
+.uap-register-13 .uap-form-password .uap-labels-register,
+.uap-register-13 .uap-form-unique_value_text .uap-labels-register,
+.uap-register-13 .uap-form-date .uap-labels-register
+{
+	padding: 6px 12px;
+	width: 1%;
+    white-space: nowrap;
+    vertical-align: middle;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+	border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+	border-right: 0;
+	display: table-cell;	
+	min-width: inherit;
+}
+.uap-register-13 .uap-form-text input[type=text],
+.uap-register-13 .uap-form-password input[type=text],
+.uap-register-13 .uap-form-unique_value_text input[type=text],
+.uap-register-13 .uap-form-date input[type=text]
+{   
+    border-radius: 4px;
+	height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+	border: 1px solid #ddd;
+    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+    background-color: #fff;
+    color: #32373c;
+    outline: 0;
+    -webkit-transition: 50ms border-color ease-in-out;
+    transition: 50ms border-color ease-in-out; 
+	position: relative;
+    z-index: 2;
+    float: left;
+    width: 100%;
+    margin-bottom: 0 !important;
+	margin-top: 0 !important;
+	display: table-cell;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.uap-register-13 .uap-form-text .uap-form-sublabel,
+.uap-register-13 .uap-form-password .uap-form-sublabel,
+.uap-register-13 .uap-form-unique_value_text .uap-form-sublabel,
+.uap-register-13 .uap-form-date .uap-form-sublabel{
+	display: table-cell;
+	width: 1%;
+    white-space: nowrap;
+    vertical-align: middle;
+	padding: 6px 12px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+	border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+	border-left: 0;
+}
+.uap-register-13 .uap-register-notice, .uap-register-13 #uap_coupon_code_check_div_msg{
+	position: absolute;
+    z-index: 100;
+    background: #dd3559;
+    padding: 5px 8px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    position: absolute;
+    right: 0;
+    margin-bottom: 8px;
+    max-width: 230px;
+    font-size: .875rem;
+    color: #fff;
+    top: 100%;
+    margin-top: -2px;
+	opacity:1;
+	-webkit-transition: all 0.6s linear 0s;
+  -moz-transition: all 0.6s linear 0s;
+  -ms-transition: all 0.6s linear 0s;
+  -o-transition: all 0.6s linear 0s;
+  transition: all 0.6s linear 0s;-webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+	color:#fff !important;
+}
+.uap-register-13 .uap-coupon-valid{
+	background:#27bebe !important;
+}
+.uap-register-13 .uap-input-notice {
+    border-color: #dd3559!important;
+}
+.uap-register-13 .uap-register-notice:before{
+    content: '';
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -8px;
+    margin-left: -5px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+	border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid #dd3559;
+}
+.uap-register-13 .uap-submit-form{
+	text-align:center;
+}
+.uap-register-13 .uap-submit-form input{
+	color:#fff !important;
+	width:60%;
+	    padding: 15px 14px;
+	/*background:none repeat scroll 0 0 #31aae1 !important;
+	border: 4px solid #5BC4BE;
+	border-width:3px;
+	border-color:#31aae1 !important;
+	box-shadow:none !important;*/
+	background-color: rgb(52, 138, 199);
+    background-image: linear-gradient(to left, rgb(116, 116, 191), rgb(52, 138, 199));
+	-webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+}
+.uap-register-13 .uap-submit-form input:hover{	
+	color:#fff !important;
+  /*background:none repeat scroll 0 0 #41b7ed !important;*/
+  border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+ .uap-register-13 .uap-form-line-register textarea{
+	 min-height:60px;
+ }
+ .uap-register-13 .uap-wrapp-file-field{
+	 box-sizing:border-box;
+	 padding: 10px;
+	 display:block;
+    margin-top: 10px;
+    border: 2px dashed #08d1b2;
+	width: 100%;
+ }
+ .uap-register-13 .uap-strength-wrapper{
+	     position: absolute;
+    right: 0;
+    top: 100%;
+    margin-top: -6px;
+}
+ .uap-register-13 .uap-strength-wrapper .uap-strength-label{
+	  margin-top:-7px;
+  }
+  .uap-register-13 .uap-form-password{
+	  margin-bottom:35px;
+  }
+ 
+ /*Register Template 14*/
+.uap-register-14{
+	min-width:300px;
+    max-width: 500px;
+	font-family: Helvetica, sans-serif, 'Trebuchet MS'; 
+    font-size: 14px;
+	display:block;
+	margin:10px auto;
+}
+.uap-register-14 .uap-labels-register{
+	font-size:15px;
+	font-weight:bold;
+	min-width:130px;
+	padding-right:10px;
+	display:block;
+	text-align:left;
+	box-sizing: content-box;
+    color: #555;
+    font-family: Helvetica, sans-serif, 'Trebuchet MS';
+    line-height: 26px;
+    font-size: 15px;
+	font-weight: 600;
+    margin-bottom: 8px;
+}
+.uap-register-14 .uap-form-line-register{
+	border-bottom:none;
+	    padding: 9px 5px;
+}
+.uap-register-14 .uap-form-line-register input[type=text], .uap-register-14 .uap-form-line-register input[type=password], 
+.uap-register-14 .uap-form-line-register input[type=number], .uap-register-14 .uap-form-line-register textarea, 
+.uap-register-14 .uap-form-line-register select, .uap-register-14 .uap-form-line-register .select2-selection{
+	border: 2px solid rgba(0, 0, 0, 0.15);
+    border-radius: 2px;
+    color: #2b2b2b;
+  	padding: 8px 10px 7px;
+	display:block;
+	width:100%;
+	min-height: 37px;
+	
+}
+ .uap-register-14 .uap-form-line-register .select2-selection{
+	 min-height:40px;
+ }
+ .uap-register-14 .uap-wrapp-file-field{
+	 box-sizing:border-box;
+	 padding: 10px;
+    border: 2px dashed #ddd;
+	display:block;
+    margin-top: 10px;
+ }
+.uap-register-14 .uap-submit-form{
+	text-align: right;
+	padding:0;
+}
+.uap-register-14 .uap-form-checkbox,.uap-register-14  .uap-form-radiobox, .uap-register-14  .uap-form-paybox{
+	display:inline-block;
+}
+.uap-register-14 .uap-submit-form input, .uap-register-14 .uap-login-link{
+	color:#fff !important;
+	min-width: 100px;
+    border: none;
+    text-transform: capitalize;
+    padding: 16px 20px!important;
+	background:none repeat scroll 0 0 #3ba1da;
+	border-color:#e05d5d  !important;
+	box-shadow:none !important;
+	    border-color: #5BC4BE !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transition: all 0.3s linear 0s;
+    -moz-transition: all 0.3s linear 0s;
+    -ms-transition: all 0.3s linear 0s;
+    -o-transition: all 0.3s linear 0s;
+    transition: all 0.3s linear 0s;
+    display: block;
+    width: 100%;
+    font-size: 15px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    border-radius: 4px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+    box-sizing: border-box;
+    line-height: 16px;
+    cursor: pointer;
+    border-bottom: 2px solid rgba(0,0,0,.1)!important;
+	text-align: center;
+}
+.uap-register-14 .uap-submit-form input:hover {
+    background: none repeat scroll 0 0 #44b0ec;
+}
+ .uap-register-14 .uap-login-link{
+ 	    background: #eeeeee;
+ }
+ .uap-register-14 .uap-login-link:hover {
+    background: #e5e5e5;
+}
+ .uap-register-14 .uap-login-link a{
+ 	    color:#666;
+ }
+.uap-register-14 .uap-register-notice{
+	-webkit-transition: all 0.6s linear 0s;
+  	-moz-transition: all 0.6s linear 0s;
+  	-ms-transition: all 0.6s linear 0s;
+  	-o-transition: all 0.6s linear 0s;
+  	transition: all 0.6s linear 0s;
+  	-webkit-animation: fadeIn 1s;
+  	 nimation: fadeIn 1s;
+}
+.uap-register-14 .uap-input-notice {
+    border-color: #dd3559!important;
+}
+.uap-register-14 .uap-register-row-left{
+    float: left;
+    width: 48%;
+    margin-top: 20px;	
+}
+.uap-register-14 .uap-register-row-right{
+    float: right;
+    width: 48%;
+    margin-top: 20px;	
+}
+
+/*==================REGISTER======================*/
+
+
+
+/*==================LOCKERS======================*/
+
+/*.uap-locker-wrap .uap-login-form-wrap .uap-form-line-fr{
+	box-sizing:content-box;
+	padding-bottom:8px;
+
+}
+.uap-locker-wrap .uap-login-form-wrap .uap-form-line-fr:after{
+	content:"";
+	clear:both;
+}
+.uap-locker-wrap .uap-login-form-wrap{
+	text-align:center;
+}
+.uap-locker-wrap .uap-login-form-wrap form{
+	display:inline-block;
+}
+.uap-locker-wrap .uap-login-form-wrap .uap-form-line-fr .uap-form-label-fr{
+	min-width:100px;
+	text-align:right;
+	padding-right:10px;
+  display: inline-block;
+	box-sizing:content-box;
+}
+.uap-locker-wrap .uap-login-form-wrap .uap-form-line-fr input[type=text], .uap-locker-wrap .uap-login-form-wrap .uap-form-line-fr input[type=password]{
+	width:150px;
+}
+.uap-locker-wrap .uap-login-form-wrap .uap-form-label-remember{
+	float:right;
+}
+.uap-locker-wrap .uap-login-form-wrap .uap-form-input-remember{
+	float:right;  
+	margin-top: 1px;
+}
+.uap-locker-wrap .uap-login-form-wrap .uap-form-label-remember:after{
+	content:"";
+	clear:both;
+}
+.uap-locker-wrap .uap-form-links{
+	margin-bottom:5px;	
+	text-align:right;
+}
+.uap-locker-wrap .uap-form-links div{
+	display:inline-block;
+	padding-left:15px;
+}
+.uap-locker-wrap .uap-login-form-wrap .uap-form-submit{
+	text-align:right;
+}
+.uap-locker-wrap .uap-login-form-wrap .uap-form-submit input{
+	color:#fff !important;
+}*/
+.uap-login-form-wrap *{
+	box-sizing:border-box;
+	text-decoration:none;
+}
+.uap-login-form-wrap a{
+	border-bottom:none !important;
+}
+/*Template 1*/
+.uap_locker_1{
+	text-align:center;
+	max-width:300px;
+}
+/*Template 2*/
+.uap_locker_2{
+	border: 1px solid #ededed;
+	-moz-box-shadow: 0 0 20px rgba(0,0,0,.07);
+	-webkit-box-shadow: 0 0 20px rgba(0,0,0,.07);
+	box-shadow: 0 0 20px rgba(0,0,0,.07);
+	background-color: #f7f7f7;
+	text-align:center;
+	min-height: 120px;
+	padding:25px;
+	border-radius: 9px;
+	max-width:500px; 
+	margin:10px auto; 
+}
+.uap_locker_2 .lock_content{
+	min-height:30px;
+	vertical-align:middle; 
+	font-size:13px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.uap_locker_2 .lock_content h2{
+	text-shadow: 1px 1px 2px #fff;
+	font-size:20px;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	line-height:16px;
+}
+.uap_locker_2 .lock_buttons{
+	margin:3px auto;
+	display:inline-block;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	background: rgba(0,0,0,0.04);
+	padding: 5px 12px;
+	padding-bottom:0px;
+	text-align: center;
+	border: 1px solid rgba(0,0,0,0.08);
+	-webkit-box-shadow: inset 0 0 3px rgba(0,0,0,.08),0 1px 1px rgba(255,255,255,.10);
+	-moz-box-shadow: inset 0 0 3px rgba(0,0,0,.08),0 1px 1px rgba(255,255,255,.10);
+	box-shadow: inset 0 0 3px rgba(0,0,0,.08),0 1px 1px rgba(255,255,255,.10);
+}
+
+/*Template 3*/
+.uap_locker_3{
+	border: 1px solid #ededed;
+	-moz-box-shadow: 0 0 20px rgba(0,0,0,.07);
+	-webkit-box-shadow: 0 0 20px rgba(0,0,0,.07);
+	box-shadow: 0 0 20px rgba(0,0,0,.07);
+	background-color: #f7f7f7;
+	background:#fff url("../images/lockers/lock_1.png") 0 top repeat-x;
+	text-align:center;
+	min-height: 140px;
+	padding:25px 15px;
+	position:relative;
+	max-width:600px; 
+	margin:10px auto;
+}
+.uap_locker_3 .lk_wrapper{
+	position:absolute;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	height:5px;
+	background:url("../images/lockers/lock_1.png") 0 bottom repeat-x;
+}
+.uap_locker_3 .lock_content{
+	min-height:80px;
+	vertical-align:middle; 
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	padding-top:10px;
+    padding-bottom: 10px;
+}
+.uap_locker_3 .lock_content h2{
+	text-shadow: 1px 1px 2px #fff;
+	font-size:26px;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#719fd6;
+}
+.uap_locker_3 .lock_content h1,.uap_locker_3 .lock_content h2,.uap_locker_3 .lock_content h3{
+	color:#719fd6;	
+}
+.uap_locker_3 .lock_content p{
+	padding:0px;
+	margin:0px;
+}
+.uap_locker_3 .lock_buttons{
+	margin:3px -15px 3px -15px;
+	background: rgba(0,0,0,0.02);
+	padding: 6px 5px;
+	padding-bottom:0px;
+	text-align: center;
+	border: 1px solid rgba(0,0,0,0.08);
+	border-left:none;
+	border-right:none;
+}
+/*Template 4*/
+.uap_locker_4{
+	border: 1px solid #ededed;
+	-moz-box-shadow: 0 0 20px rgba(0,0,0,.07);
+	-webkit-box-shadow: 0 0 20px rgba(0,0,0,.07);
+	box-shadow: 0 0 20px rgba(0,0,0,.07);
+	background: -webkit-linear-gradient(#fefefe,#f1f1f1); /* For Safari 5.1 to 6.0 */
+  	background: -o-linear-gradient(#fefefe, #f1f1f1); /* For Opera 11.1 to 12.0 */
+  	background: -moz-linear-gradient(#fefefe,#f1f1f1); /* For Firefox 3.6 to 15 */
+  	background: linear-gradient(#fefefe, #f1f1f1); /* Standard syntax */
+	background: -webkit-linear-gradient(#fafafa,#fff); /* For Safari 5.1 to 6.0 */
+  	background: -o-linear-gradient(#fafafa, #fff); /* For Opera 11.1 to 12.0 */
+  	background: -moz-linear-gradient(#fafafa,#fff); /* For Firefox 3.6 to 15 */
+  	background: linear-gradient(#fafafa, #fff); /* Standard syntax */
+	text-align:center;
+	min-height: 140px;
+	padding:25px;
+	position:relative;
+	max-width:620px; 
+	margin:10px auto;
+}
+.uap_locker_4 .lk_wrapper{
+	position:absolute;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	height:9px;
+	background:#fff url("../images/lockers/lock_3.png") 0 bottom repeat-x;
+}
+.uap_locker_4 .lk_left_side{
+	border-radius:50%;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	height:130px;
+	width:130px;
+	position:absolute;
+	top:20px;
+	left:30px;
+	margin:0px 15px 10px 18px;
+	border: 1px solid rgba(0,0,0,0.08);
+	-webkit-box-shadow: inset 0 0 14px rgba(0,0,0,.22),0 1px 1px rgba(255,255,255,.7);
+	-moz-box-shadow: inset 0 0 14px rgba(0,0,0,.22),0 1px 1px rgba(255,255,255,.7);
+	box-shadow: inset 0 0 14px rgba(0,0,0,.22),0 1px 1px rgba(255,255,255,.7);
+	background:#ddd url("../images/lockers/lock_5.png") center center no-repeat;
+	background-size: 80px auto;
+}
+.uap_locker_4 .lock_content{
+	min-height:80px;
+	vertical-align:middle; 
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	margin-left:160px;
+	padding-top:10px;
+}
+@media (max-width: 567px) {
+	.uap_locker_4 .lock_content{
+		margin-left:0px;
+		margin-top:140px;
+	}
+}
+.uap_locker_4 .lock_content h2{
+	text-shadow: 1px 1px 2px #fff;
+	font-size:26px;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#719fd6;
+	line-height:16px;
+}
+.uap_locker_4 .lock_content h1,.uap_locker_4 .lock_content h2,.uap_locker_4 .lock_content h3{
+	color:#719fd6;	
+}
+.uap_locker_4 .lock_content p{
+	padding:0px;
+	margin:0px;
+}
+.uap_locker_4 .lock_buttons{
+	margin-top:20px;
+}
+/*Template 5*/
+.uap_locker_5{
+	border: 1px solid #ededed;
+	-moz-box-shadow: 0 0 20px rgba(0,0,0,.1);
+	-webkit-box-shadow: 0 0 20px rgba(0,0,0,.1);
+	box-shadow: 0 0 20px rgba(0,0,0,.1);
+	background:rgba(250,250,250,0.7);
+	text-align:center;
+	min-height: 140px;
+	padding:15px 15px;
+	position:relative;
+	max-width:610px; 
+	margin:10px auto; 
+}
+.uap_locker_5 .lk_top_side{
+	background: url("../images/lockers/lock_5.png") center center no-repeat;
+	background-size: 40px auto;
+	margin:0 auto;
+	height:40px;
+	width:100px;
+}
+.uap_locker_5 .lock_content{
+	min-height: 80px;
+	vertical-align: middle;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 20px;
+}
+.uap_locker_5 .lock_content h2{
+	text-shadow: 1px 1px 2px #fff;
+	font-size:26px;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#333;
+	line-height:16px;
+}
+.uap_locker_5 .lock_content h1,.uap_locker_5 .lock_content h2,.uap_locker_5 .lock_content h3{
+	color:#0082a2;	
+}
+.uap_locker_5 .lock_content p{
+	padding:0px;
+	margin:0px;
+}
+.uap_locker_5 .lock_buttons{
+	margin-top:20px;
+}
+/*Template 6*/
+.uap_locker_6{
+	border: 1px solid #ededed;
+	-moz-box-shadow: 0 0 20px rgba(0,0,0,.07);
+	-webkit-box-shadow: 0 0 20px rgba(0,0,0,.07);
+	box-shadow: 0 0 20px rgba(0,0,0,.07);
+	background: -webkit-linear-gradient(#fefefe,#f1f1f1); /* For Safari 5.1 to 6.0 */
+  	background: -o-linear-gradient(#fefefe, #f1f1f1); /* For Opera 11.1 to 12.0 */
+  	background: -moz-linear-gradient(#fefefe,#f1f1f1); /* For Firefox 3.6 to 15 */
+  	background: linear-gradient(#fefefe, #f1f1f1); /* Standard syntax */
+	background: -webkit-linear-gradient(#fafafa,#fff); /* For Safari 5.1 to 6.0 */
+  	background: -o-linear-gradient(#fafafa, #fff); /* For Opera 11.1 to 12.0 */
+  	background: -moz-linear-gradient(#fafafa,#fff); /* For Firefox 3.6 to 15 */
+  	background: linear-gradient(#fafafa, #fff); /* Standard syntax */
+	text-align:center;
+	min-height: 140px;
+	padding:15px 15px;
+	position:relative;
+	max-width:620px; 
+	margin:10px auto;
+	margin-top:50px; 
+}
+.uap_locker_6 .lk_top_side{
+	border-radius: 50%;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	height: 110px;
+	width: 110px;
+	position: absolute;
+	top: -50px;
+	left: 50%;
+	z-index: 999;
+	margin-left: -55px;
+	border: 4px solid #fff;
+	-webkit-box-shadow: inset 0 0 14px rgba(0,0,0,.22),0 1px 1px rgba(255,255,255,.7);
+	-moz-box-shadow: inset 0 0 14px rgba(0,0,0,.22),0 1px 1px rgba(255,255,255,.7);
+	box-shadow: inset 0 0 14px rgba(0,0,0,.22),0 1px 1px rgba(255,255,255,.7);
+	background: #0082a2 url("../images/lockers/lock_4.png") center center no-repeat;
+	background-size: 46px auto;	
+}
+.uap_locker_6 .lock_content{
+	min-height: 80px;
+	vertical-align: middle;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 30px;
+	padding-top: 30px;
+}
+.uap_locker_6 .lock_content h2{
+	text-shadow: 1px 1px 2px #fff;
+	font-size:26px;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#0082a2;
+	line-height:16px;
+}
+.uap_locker_6 .lock_content h1,.uap_locker_6 .lock_content h2,.uap_locker_6 .lock_content h3{
+	color:#0082a2;	
+}
+.uap_locker_6 .lock_content p{
+	padding:0px;
+	margin:0px;
+}
+.uap_locker_6 .lock_buttons{
+	margin-top:20px;
+}
+.uap_locker_6 .uap-login-template-6{
+	background-color:#fff;	
+}
+/*Template 7*/
+.uap_locker_7{
+	border: 1px solid #ddd;
+	-moz-box-shadow: 0 0 20px rgba(0,0,0,.1);
+	-webkit-box-shadow: 0 0 20px rgba(0,0,0,.1);
+	box-shadow: 0 0 20px rgba(0,0,0,.1);
+	background:#406cb8;
+	text-align:center;
+	min-height: 140px;
+	padding:15px 15px;
+	position:relative;
+	max-width:630px; 
+	margin:10px auto; 
+}
+.uap_locker_7 .lk_wrapper{
+	position:absolute;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	border: 3px solid #fefefe;
+}
+.uap_locker_7 .lk_top_side{
+	background: url("../images/lockers/lock_6.png") center center no-repeat;
+	background-size: auto 60px;
+	margin:0 auto;
+	height:60px;
+	width:100px;
+}
+.uap_locker_7 .lock_content{
+	min-height: 80px;
+	vertical-align: middle;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 15px;
+	color:#fff;
+}
+.uap_locker_7 .lock_content h2{
+	font-size:29px;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#fff;
+	line-height:16px;
+}
+.uap_locker_7 .lock_content h1,.uap_locker_7 .lock_content h2,.uap_locker_7 .lock_content h3{
+	color:#fff;	
+}
+.uap_locker_7 .lock_content p{
+	padding:0px;
+	margin:0px;
+}
+.uap_locker_7 .lock_buttons{
+	margin:3px auto;
+	margin-top:20px;
+	display:inline-block;
+    max-width: 100%;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	background: rgba(255,255,255,0.07);
+	padding: 8px 9px;
+	padding-bottom:0px;
+	text-align: center;
+	border: 1px solid rgba(0,0,0,0.08);
+	-webkit-box-shadow: inset 0 0 3px rgba(0,0,0,.08),0 1px 1px rgba(255,255,255,.10);
+	-moz-box-shadow: inset 0 0 3px rgba(0,0,0,.08),0 1px 1px rgba(255,255,255,.10);
+	box-shadow: inset 0 0 3px rgba(0,0,0,.08),0 1px 1px rgba(255,255,255,.10);	
+	z-index: 99999;
+	position: relative;
+}
+.uap_locker_7 .uap_timeout_line{
+	background-color: rgba(231,231,231,.7);
+	background: -webkit-linear-gradient(to top,rgba(231,231,231,.7) 0,rgba(255,255,255,.8) 100%);	
+	background: -o-linear-gradient(to top,rgba(231,231,231,.7) 0,rgba(255,255,255,.8) 100%);		
+	background: -moz-linear-gradient(to top,rgba(231,231,231,.7) 0,rgba(255,255,255,.8) 100%);	
+	background: linear-gradient(to top,rgba(231,231,231,.7) 0,rgba(255,255,255,.8) 100%);	
+}
+.uap_locker_7 .uap-login-template-2 .uap-form-links a {
+	color:#fff !important;	
+}
+
+/*Template 8*/
+.uap_locker_8{
+	border: 1px solid #ededed;
+	-moz-box-shadow: 0 0 20px rgba(0,0,0,0.4);
+	-webkit-box-shadow: 0 0 20px rgba(0,0,0,0.4);
+	box-shadow: 0 0 20px rgba(0,0,0,0.4);
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	background-color: #737373;
+	text-align:center;
+	min-height: 140px;
+	padding:20px 15px;
+	padding-bottom:25px;
+	position:relative;
+	max-width:600px; 
+	margin:10px auto;
+}
+.uap_locker_8 .lk_top_side{
+	background: url("../images/lockers/lock_4.png") center center no-repeat;
+	margin:0 auto;
+	height:36px;
+	width:100px;
+	background-size: 26px auto;	
+}
+.uap_locker_8 .lk_wrapper_top{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:9px;
+	border-radius: 8px 8px 0 0;
+	-moz-border-radius:  8px 8px 0 0;
+	-webkit-border-radius:  8px 8px 0 0;
+	background:#df1346;
+}
+.uap_locker_8 .lk_wrapper_bottom{
+	position:absolute;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	height:9px;
+	background:#df1346;
+	border-radius: 0 0 8px 8px;
+	-moz-border-radius: 0 0 8px 8px;
+	-webkit-border-radius: 0 0 8px 8px;
+}
+.uap_locker_8 .lock_content{
+	min-height:80px;
+	vertical-align:middle; 
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	padding-top:10px;
+	padding-bottom:10px;
+	color:#c9c5c4;
+}
+.uap_locker_8 .lock_content h2{
+	font-size:26px;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#ededed;
+}
+.uap_locker_8 .lock_content h1,.uap_locker_8 .lock_content h2,.uap_locker_8 .lock_content h3{
+	color:#719fd6;	
+}
+.uap_locker_8 .lock_content p{
+	padding:0px;
+	margin:0px;
+}
+.uap_locker_8 .lock_buttons{
+	margin:3px -15px 3px -15px;
+	background: rgba(0,0,0,0.07);
+	padding: 6px 5px;
+	padding-bottom:0px;
+	text-align: center;
+	border: 1px solid rgba(0,0,0,0.08);
+	border-left:none;
+	border-right:none;
+	-webkit-box-shadow: inset 0 0 3px rgba(0,0,0,.08),0 1px 1px rgba(255,255,255,.10);
+	-moz-box-shadow: inset 0 0 3px rgba(0,0,0,.08),0 1px 1px rgba(255,255,255,.10);
+	box-shadow: inset 0 0 3px rgba(0,0,0,.08),0 1px 1px rgba(255,255,255,.10);	
+}
+.uap_locker_8 .uap_timeout_line{
+	background-color: rgba(231,231,231,.7);
+	background: -webkit-linear-gradient(to top,rgba(231,231,231,.7) 0,rgba(255,255,255,.8) 100%);	
+	background: -o-linear-gradient(to top,rgba(231,231,231,.7) 0,rgba(255,255,255,.8) 100%);		
+	background: -moz-linear-gradient(to top,rgba(231,231,231,.7) 0,rgba(255,255,255,.8) 100%);	
+	background: linear-gradient(to top,rgba(231,231,231,.7) 0,rgba(255,255,255,.8) 100%);	
+}
+.uap_locker_8 .uap-login-template-4{
+	background-color:transparent !important;
+}
+.uap_locker_8 .uap-login-template-4 .uap-form-line-fr {
+	color:#fff !important;
+	background-color:transparent !important;
+	border-bottom: 1px solid #aaa !important;
+}
+.uap_locker_8 .uap-login-template-4 .uap-form-submit{
+	background-color:transparent !important;
+	border-bottom-width:0 !important;
+}
+.uap_locker_8 .uap-login-template-4 .uap-form-links a {
+	color:#fff !important;
+}
+.uap_locker_8 .uap-login-template-4 .uap-form-line-fr input[type=text], .uap-login-template-4 .uap-form-line-fr input[type=password]{
+	color:#fff !important;
+}
+/*==================LOCKERS======================*/
+/*==================SUBSCRIPTION======================*/
+.uap-purchased-level{
+	background-color:#0bb586 !important;
+	background:#0bb586 !important;
+}
+/*Template 1*/
+.uap_level_template_1{
+}
+.uap_level_template_1 .uap-level-item{
+	width:100%;
+	margin:5px;
+	margin-bottom:15px;
+	box-sizing:border-box;
+	border:1px solid #eee;
+	padding:10px;
+	padding-bottom:0px;
+	max-width:400px;
+	position:relative;
+}
+.uap_level_template_1 .uap-level-item-top{
+	display:block;
+	width:50%;
+	box-sizing:border-box;
+	border-bottom: 3px solid #33b5e5;
+	padding:4px 0 4px 10px;
+}
+.uap_level_template_1 .uap-level-item-title{
+	color:#555;
+	font-size:20px;
+	line-height:25px;
+	font-family: 'Oswald', sans-serif;
+  	font-weight: 400;
+}
+.uap_level_template_1 .uap-level-item-content{
+	padding: 10px;
+	text-align:left;
+	color:#000;
+	min-height:70px;
+}
+.uap_level_template_1 .uap-level-item-bottom{
+	position: relative;
+  left: -10px;
+  margin: 0 -20px 0 0px;
+  background-color: #f2f2f2;
+  border-top:1px solid #ddd;
+	box-sizing:border-box;
+}
+.uap_level_template_1 .uap-level-item-price{
+	float:left;
+	box-sizing:border-box;
+	padding-left:10px;
+	line-height:48px;
+	font-family: 'Oswald', sans-serif;
+	font-weight:200;
+	font-size:14px;
+	height:100%;
+}
+.uap_level_template_1 .uap-level-item-link{
+	float:right;
+	text-align:center;
+	box-sizing:border-box;
+	margin-right:20px;
+	margin-top:10px;
+	margin-bottom:10px;
+	color: #fff !important;
+  	min-width: 100px;
+  	border: none;
+	border-radius:4px;
+  	text-transform: capitalize;
+  	padding: 5px 15px;
+  	background: none repeat scroll 0 0 #f47e7e;
+  	border-color: #5BC4BE !important;
+  	box-shadow: none !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+}
+.uap_level_template_1 .uap-level-item-link a{
+	color:#fff;
+	text-decoration:none;
+}
+
+/*Template 2*/
+.uap_level_template_2{
+margin:0 auto;
+}
+.uap_level_template_2 .uap-level-item{
+	width:25%;
+	padding:10px;
+	margin-bottom:15px;
+	box-sizing:border-box;
+	max-width:400px;
+	position:relative;
+  display: inline-block;
+  vertical-align: top;
+  min-width:250px;
+}
+.uap_level_template_2 .uap-level-item-top{
+	display:block;
+	width:100%;
+	box-sizing:border-box;
+	background: rgba(33, 172, 172,0.8) !important;
+	text-align:center;
+	border:1px solid #eee;
+	border-width:1px 1px 0 1px;
+}
+.uap_level_template_2 .uap-level-item-title{
+	font-family: 'Oswald', arial, sans-serif !important;
+  font-size: 19px !important;
+  border: none !important;
+  color: #FFF !important;  
+  padding: 4px;
+  line-height:40px;
+}
+.uap_level_template_2 .uap-level-item-content{
+	padding: 10px;
+	text-align:left;
+	color:#000;
+	min-height:150px;
+	padding-bottom:65px;
+	border:1px solid #eee;
+	border-width:0px 1px 0 1px;
+    box-sizing: border-box;
+}
+.uap_level_template_2 .uap-level-item-bottom{
+	position: absolute;
+    bottom: 0px;
+  left:10px;
+  right:10px;
+  height:50px;
+  background-color: #f2f2f2;
+	border:1px solid #eee;
+	border-width:0px 1px 0 1px;
+  border-top:1px solid #ddd;
+	box-sizing:border-box;
+	text-align:center;
+}
+.uap_level_template_2 .uap-level-item-price{
+	font-family: 'Oswald', arial, sans-serif !important;
+	box-sizing:border-box;
+	width: 100%;
+  position: relative;
+  box-sizing: border-box;
+	background: rgba(39, 190, 190,0.8) !important;  
+	font-size: 45px !important;
+  color: #FFF !important;  
+  text-align: center;
+  line-height: 65px;
+  padding: 10px 0;
+	border:1px solid #eee;
+	border-width:0px 1px 0 1px;
+}
+.uap_level_template_2 .uap-level-item-link{
+	text-align:center;
+	box-sizing:border-box;
+	display:inline-block;
+  	margin: 10px auto;
+	color: #fff !important;
+  	min-width: 100px;
+  	border: none;
+	border-radius:4px;
+  	text-transform: capitalize;
+  	padding: 5px 15px;
+  	background: none repeat scroll 0 0 #f36510;
+  	border-color: #f36510 !important;
+  	box-shadow: none !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+}
+.uap_level_template_2 .uap-level-item-link a{
+	color:#fff;
+	text-decoration:none;
+}
+
+/*Template 3*/
+.uap_level_template_3{
+margin:0 auto;
+}
+.uap_level_template_3 .uap-level-item{
+	width:20%;
+	box-sizing:border-box;
+	max-width:400px;
+	position:relative;
+  display: inline-block;
+  vertical-align: top;
+  min-width:250px;
+}
+.uap_level_template_3 .uap-level-item-wrap{
+	margin:10px;
+	margin-bottom:15px;
+	box-sizing:border-box;
+	border:1px solid #eee;
+	padding:0px;
+	padding-top:0px;
+	position:relative;
+	  box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+  -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0.1);
+  -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+}
+.uap_level_template_3 .uap-level-item-top{
+	display:block;
+	width:100%;
+	box-sizing:border-box;
+	background: #fff !important;
+	text-align:center;
+}
+.uap_level_template_3 .uap-level-item-title{
+	font-family: 'Oswald', arial, sans-serif !important;
+  font-size: 19px !important;
+  border: none !important; 
+  padding: 10px 4px;
+  line-height:40px;
+}
+.uap_level_template_3 .uap-level-item-content{
+	padding: 10px;
+	text-align:left;
+	color:#000;
+	min-height:150px;
+	padding-bottom:65px;
+    box-sizing: border-box;
+  background-color:#fafafa;
+}
+.uap_level_template_3 .uap-level-item-bottom{
+	position: absolute;
+    bottom: 0px;
+  left:0;
+  right:0;
+  height:60px;
+  background-color: #fff;
+  border-top:1px solid #eee;
+
+	box-sizing:border-box;
+}
+.uap_level_template_3 .uap-level-item-price{
+	font-family: 'Oswald', arial, sans-serif !important;
+	box-sizing:border-box;
+	width: 100%;
+  position: relative;
+  box-sizing: border-box;
+	  background: -webkit-linear-gradient(top,#4f97cd,#3b8bc7);
+  background: -moz-linear-gradient(top,#4f97cd,#3b8bc7);
+  background: -o-linear-gradient(top,#4f97cd,#3b8bc7);
+  background: -ms-linear-gradient(top,#4f97cd,#3b8bc7);
+  background: linear-gradient(top,#4f97cd,#3b8bc7);
+	font-size: 35px !important;
+  color: #FFF !important;  
+  text-align: center;
+  line-height: 75px;
+  padding: 10px 0;
+}
+.uap_level_template_3 .uap-level-item-link{
+	text-align:center;
+	box-sizing:border-box;
+	
+  	margin: 10px auto;
+	color: #fff !important;
+  	width: 100px;
+  	border: none;
+	border-radius:4px;
+  	text-transform: capitalize;
+  	padding: 10px 20px;
+	font-size:13px;
+  	  background-color: #699d34;
+  background: -webkit-gradient(linear,left bottom,left top,color-stop(0,#699d34),color-stop(1,#83c143));
+  background: -ms-linear-gradient(bottom,#699d34,#83c143);
+  background: -moz-linear-gradient(center bottom,#699d34 0,#83c143 100%);
+  background: -o-linear-gradient(#83c143,#699d34);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#83c143',endColorstr='#699d34',GradientType=0);
+  	border-color: #f36510 !important;
+  	box-shadow: none !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+}
+.uap_level_template_3 .uap-purchased-level{
+	 background-color: #f47e7e!important;
+}
+.uap_level_template_3 .uap-level-item-link a{
+	color:#fff;
+	text-decoration:none;
+} 
+
+/*Template 4*/
+.uap_level_template_4{
+}
+.uap_level_template_4 .uap-level-item{
+	width:50%;
+	display:inline-block;
+	vertical-align:top;
+	box-sizing:border-box;
+	max-width:400px;
+  min-width:250px;
+}
+.uap_level_template_4 .uap-level-item-wrap{
+	margin:10px;
+	margin-bottom:15px;
+	box-sizing:border-box;
+	border:1px solid #eee;
+	padding:10px;
+	padding-top:0px;
+	position:relative;
+	  box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+  -webkit-box-shadow: 0px 0px 9px rgba(0,0,0,0.1);
+  -moz-box-shadow: 2px 0px 30px rgba(0,0,0,0.1);
+}
+.uap_level_template_4 .uap-level-item-top{
+	position: relative;
+  left: -10px;
+  margin: 0 -20px 0 0px;
+  background-color: #6c7a8d;
+  border-bottom:1px solid #ddd;
+	box-sizing:border-box;
+}
+.uap_level_template_4 .uap-level-item-title{
+	color:#fafafa;
+	font-size:20px;
+	padding-left:20px;
+	line-height:45px;
+	font-family: 'Oswald', sans-serif;
+  	font-weight: 400;
+}
+.uap_level_template_4 .uap-level-item-content{
+	padding: 10px;
+	text-align:left;
+	color:#000;
+	min-height:70px;
+}
+.uap_level_template_4 .uap-level-item-bottom{
+		display:block;
+
+	box-sizing:border-box;
+	border-top: 3px solid #33b5e5;
+	padding:4px 0 4px 10px;
+
+	text-align:right;
+}
+.uap_level_template_4 .uap-level-item-price{
+	float:left;
+	box-sizing:border-box;
+	padding-left:10px;
+	line-height:48px;
+	font-family: 'Oswald', sans-serif;
+	font-weight:200;
+	font-size:14px;
+	height:100%;
+	
+}
+.uap_level_template_4 .uap-level-item-link-wrap{
+
+}
+.uap_level_template_4 .uap-level-item-link{
+	float:right;
+	text-align:center;
+	box-sizing:border-box;
+	margin-right:0px;
+	margin-top:10px;
+	margin-bottom:10px;
+	color: #fff !important;
+  	min-width: 100px;
+  	border:1px solid #ddd;
+	border-radius:4px;
+  	text-transform: capitalize;
+  	padding: 5px 15px;
+  	background: none repeat scroll 0 0 #efefef;
+  	box-shadow: none !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition: all 0.3s linear 0s;
+  -moz-transition: all 0.3s linear 0s;
+  -ms-transition: all 0.3s linear 0s;
+  -o-transition: all 0.3s linear 0s;
+  transition: all 0.3s linear 0s;
+  cursor:pointer;
+}
+.uap_level_template_4 .uap-level-item-link a{
+	color:#333;
+	text-decoration:none;
+}
+.uap_level_template_4 .uap-level-item-link:hover{
+	background: none repeat scroll 0 0 #e05d5d  !important;
+}
+.uap_level_template_4 .uap-level-item-link:hover a{
+	color:#efefef;
+}
+.uap_level_template_4 .uap-level-item-link.uap-purchased-level:hover{
+	color:#efefef !important;
+	background-color: #0bb586 !important;
+}
+
+/*==================SUBSCRIPTION======================*/
+/*==================USER PAGE======================*/
+.uap-user-page-wrapper{
+	display:block;
+	padding:10px;
+	box-sizing:border-box;
+}
+@media (max-width: 640px){
+	.uap-user-page-wrapper{
+		padding:0px;
+	}
+}
+.uap-user-page-wrapper .uap-user-page-details{
+}
+.uap-user-page-mess-special{
+	font-size:19px;
+	  
+	font-family: 'Oswald', Arial, Helvetica, sans-serif;
+  	font-weight: 400;
+	color:#999;
+}
+.uap-user-page-name{
+	font-size:26px;
+	font-weight:bold;
+	color:#333;
+}
+.uap-user-page-mess{
+	font-size:16px;
+  	font-weight: 500;
+	color:#555;
+}
+.uap-user-page-email{
+	font-size:13px;
+	line-height:19px;
+	color:#555;
+}
+.uap-user-page-box{
+	margin-bottom:50px;
+}
+.uap-user-page-box .uap-user-page-box-title{
+	font-size: 18px;
+  	line-height: 40px;
+  	color: #555;
+	text-transform: uppercase;  
+	font-family: 'Oswald', Arial, Helvetica, sans-serif;
+  	font-weight: 400;
+	margin-bottom:30px;
+  	border-bottom: 4px solid #33b5e5;
+}
+.uap-user-page-box  .uap-register-form{
+	display:block;
+}
+.uap-user-page-wrapper .uap-register-3{
+	border-top: 7px solid #aaa;
+}
+
+/*==================USER PAGE======================*/
+
+/*==================LOGOUT======================*/
+
+.uap-logout-wrap.uap-login-template-2{
+  width: auto;
+  padding:0px;
+}
+.uap-logout-wrap.uap-login-template-2 a{
+	  background: none repeat scroll 0 0 #5BC4BE !important;
+	  color: #fff !important;
+	  font-size: 12px;
+  font-weight: 700;
+  padding: 10px 30px 11px;
+  text-transform: uppercase;
+  border-radius:2px;
+}
+.uap-logout-wrap.uap-login-template-3{
+  width: auto;
+  padding:0px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  background-color:transparent;
+  border:none !important;
+}
+.uap-logout-wrap.uap-login-template-3 a{
+	    background: none repeat scroll 0 0 #33b5e5 !important;
+	  color: #fff !important;
+	  font-size: 14px;
+    font-weight: 400;
+  padding: 10px 30px 11px;
+  text-transform: capitalize;
+  border-radius:3px;
+}
+.uap-logout-wrap.uap-login-template-3 a:hover{
+	background: none repeat scroll 0 0 #1a9bcb !important;
+}
+.uap-logout-wrap.uap-login-template-4{
+  width: auto;
+  padding:0px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  background-color:transparent;
+  border:none !important;
+}
+.uap-logout-wrap.uap-login-template-4 a{
+	    background: none repeat scroll 0 0 #27AE60 !important;
+	    color: #b3eecc !important;
+	  font-size: 15px;
+    font-weight: 400;
+  padding: 7px 30px 7px;
+  text-transform: capitalize;
+  border-radius:3px;
+    border-bottom: 4px solid #1e8449 !important;
+}
+.uap-logout-wrap.uap-login-template-4 a:hover{
+	background: none repeat scroll 0 0 #43be77 !important;
+}
+.uap-logout-wrap.uap-login-template-5{
+  width: auto;
+  padding:0px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+.uap-logout-wrap.uap-login-template-5 a{
+	  background: none repeat scroll 0 0 #f47e7e !important;
+	  padding: 8px 15px;
+	  color: #fff !important;
+}
+.uap-logout-wrap.uap-login-template-5 a:hover{
+	background: none repeat scroll 0 0 #e05d5d !important;
+}
+.uap-logout-wrap.uap-login-template-6{
+  width: auto;
+  padding:0px;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+.uap-logout-wrap.uap-login-template-6 a{
+	  background: none repeat scroll 0 0 #f47e7e !important;
+	  padding: 8px 15px;
+	  color: #fff !important;
+	  border-radius:20px;
+}
+.uap-logout-wrap.uap-login-template-6 a:hover{
+	background: none repeat scroll 0 0 #e05d5d !important;
+}
+
+.uap-logout-wrap.uap-login-template-7 a{
+	   background: none repeat scroll 0 0 #6c7a8d !important;
+	    padding: 8px 30px 8px;
+	  color: #fff !important;
+}
+.uap-logout-wrap.uap-login-template-7 a:hover{
+	  background: none repeat scroll 0 0 #94a1b2 !important;
+}
+/*==================LOGOUT======================*/
+
+/*==============ACCOUNT PAGE===============*/
+.uap-user-page-top-wrapper{
+	padding:20px 15px 10px 15px;
+	box-sizing:border-box;
+	position:relative;
+	overflow: hidden;
+	z-index: 1;
+}
+.uap-user-page-top-background{
+	position:absolute;
+	height: 200%;
+    left: 0;
+    right: 0;
+    top: -100%;	
+	z-index: -10;
+	background-size: cover;
+    background-position: 50% 50%;
+	background-blend-mode: overlay;
+    background-image: url(../images/top_aff_bk_1.png);
+}
+.uap-user-page-top-wrapper .uap-left-side{
+	float:left;
+	max-width:30%;
+}
+.uap-user-page-top-wrapper .uap-middle-side{
+	float:left;
+	max-width:40%;
+}
+.uap-user-page-top-wrapper .uap-right-side{
+	float:right;
+	max-width:30%;
+    box-sizing: border-box;
+}
+.uap-user-page-top-wrapper .uap-user-page-avatar{
+	display:inline-block;
+	padding-right:15px;
+	max-width:150px;
+}
+.uap-user-page-top-wrapper .uap-top-rank{
+	margin:10px 0;
+	margin-top:5px;
+	padding-left:20px;
+}
+.uap-user-page-top-wrapper .uap-top-rank-box{
+	    background-color: #1fb5ac;
+    color: #fff;
+    padding: 3px 9px;
+    margin: 2px 2px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 12px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    box-radius: 3px;
+    display: inline-block;
+}
+.uap-user-page-top-wrapper .uap-user-page-details{
+	margin-top:10px;
+}
+.uap-user-page-top-wrapper .uap-user-page-avatar img {
+    border-bottom-color: rgb(136, 136, 136);
+    border-bottom-style: none;
+    border-bottom-width: 0px;
+    border-image-outset: 0px;
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    border-image-width: 1;
+    border-left-color: rgb(136, 136, 136);
+    border-left-style: none;
+    border-left-width: 0px;
+    border-right-color: rgb(136, 136, 136);
+    border-right-style: none;
+    border-right-width: 2px;
+    border-top-color: rgb(136, 136, 136);
+    border-top-style: none;
+    border-top-width: 0px;
+    display: block;
+    max-width: 100%;
+    /*width: 100% !important;*/
+    margin: 0 auto;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    border-radius: 100%;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.3);
+    border: 1px solid #fff;
+}
+.uap-user-page-top-wrapper .uap-account-page-top-mess{
+	display:inline-block;
+    padding-top: 5px;
+    padding-left: 20px;
+	word-break: break-word;
+}
+.uap-user-page-top-wrapper .uap-account-page-top-mess p, .uap-user-page-top-wrapper .uap-account-page-top-mess div{
+	margin-bottom:8px;
+}
+.uap-user-page-top-wrapper .uap-top-earnings{
+	margin-left: 26px !important;
+	float:right;
+	text-align:right;
+}
+.uap-user-page-top-wrapper .uap-top-referrals{
+	margin-left: 26px !important;
+	float:right;
+	text-align:right;
+}
+.uap-user-page-top-wrapper .uap-top-achievement{
+	width:200px;
+	float:right;
+}
+.uap-user-page-top-wrapper .uap-top-achievement .uap-stats-label{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    min-height: inherit;
+}
+.uap-user-page-top-wrapper .uap-top-achievement .uap-achievement-line{
+	height:10px;
+	width:200px;
+	background-color:#badfaf;
+	position:relative;
+}
+.uap-user-page-top-wrapper .uap-top-achievement .uap-achieved{
+	position:absolute;
+	height:100%;
+	width:1%;
+	background-color:#090;
+}
+.uap-user-page-top-wrapper .uap-stats-label{
+	min-height: 30px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    padding: 0;
+	padding-right:5px;
+}
+.uap-user-page-top-wrapper .uap-stats-content{
+	    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 16px;
+	    color: #454545;
+		    font-size: 24px;
+}
+
+.uap-ap-top-theme-2{
+	padding-top:270px;	
+
+}
+.uap-ap-top-theme-2 .cropControls{
+	bottom:60px;
+}
+.uap-ap-top-theme-2 .uap-user-page-top-background{
+	height: 250px;
+	top: 0;
+    background-image: url(../images/top_aff_bk_2.png);
+}
+.uap-ap-top-theme-2 .uap-left-side{
+	    margin-bottom: -75px;
+}
+.uap-ap-top-theme-2 .uap-middle-side{
+	margin-top:-10px;
+}
+.uap-ap-top-theme-2 .uap-user-page-details{
+	top: -75px;
+    position: relative;
+	margin-top:0px;
+    background-color: #fff;
+	}
+.uap-ap-top-theme-2 .uap-user-page-avatar{
+	padding-right:0px;
+	max-width: 190px;
+}
+.uap-ap-top-theme-2 .uap-user-page-avatar img{
+	border-radius:0px;
+	box-shadow:none;
+	border: 5px solid #fff;
+}
+
+.uap-ap-top-theme-3{
+	padding-top:320px;	
+	padding-bottom:0px;
+
+}
+.uap-ap-top-theme-3 .uap-user-page-top-background{
+	height: 300px;
+	top: 0;
+    background-image: url(../images/top_aff_bk_3.png);
+}
+.uap-ap-top-theme-3 .uap-left-side{
+	    margin-bottom: -75px;
+}
+.uap-ap-top-theme-3 .uap-middle-side{
+	float:none;
+	max-width:inherit;
+    margin-top: -10px;
+}
+.uap-ap-top-theme-3 .uap-right-side{
+	float:none;
+	max-width:inherit;
+	background-color:#eee;
+    background-color: #f3f4f7;
+	position:relative;
+	left:-15px;
+	margin-right:-30px;
+	margin-top: 20px;
+	border-top: 1px solid #ddd;
+}
+
+.uap-ap-top-theme-3 .uap-top-earnings{
+	float:left;    
+	border-right: 1px solid #ddd;
+    padding-right: 10px;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+.uap-ap-top-theme-3 .uap-top-referrals {
+	float:left;    
+	border-right: 1px solid #ddd;
+    padding-right: 10px;
+    padding-top: 6px;
+    box-sizing: border-box;
+}
+.uap-ap-top-theme-3 .uap-special-clear{
+	clear:none;
+}
+.uap-ap-top-theme-3 .uap-top-achievement{
+	 width: 200px;
+    float: right;
+    padding-top: 20px;
+    margin-right: 20px;
+    padding-bottom: 7px;
+}
+.uap-ap-top-theme-3 .uap-top-metrics{
+    float: right;
+	border-right: 1px solid #ddd;
+	text-align:right;
+    margin-right: 10px;
+	padding-right:5px;
+	font-size:14px;	
+     padding-top: 20px;
+}
+.uap-ap-top-theme-3 .uap-stats-label{
+	min-height:20px;
+	line-height:1.2;
+	padding-right:0px;
+}
+.uap-ap-top-theme-3 .uap-stats-content{
+	margin-bottom:6px;
+    font-size: 21px;
+}
+.uap-ap-top-theme-3 .uap-top-metrics .uap-stats-content{
+	font-size:14px;
+}
+.uap-ap-top-theme-3 .uap-right-side:before{
+	clear:both;
+	content: " ";
+}
+.uap-ap-top-theme-3 .uap-user-page-details{
+	top: -75px;
+    position: relative;
+	margin-top:0px;
+    background-color: #fff;
+	border-radius:100%;
+	}
+.uap-ap-top-theme-3 .uap-user-page-avatar{
+	padding-right:0px;
+	max-width: 190px;
+}
+.uap-ap-top-theme-3 .uap-user-page-avatar img{
+	border-radius:100%;
+	box-shadow:none;
+	border: 5px solid #fff;
+}
+
+@media (max-width: 570px){
+	.uap-user-page-top-wrapper .uap-left-side{
+		max-width:50%;
+		width:50%;
+	}
+	.uap-user-page-top-wrapper .uap-user-page-avatar{
+		max-width:100%;
+	}
+	.uap-user-page-top-wrapper .uap-middle-side{
+		max-width:50%;
+		width:50%;
+	}
+	.uap-user-page-top-wrapper .uap-right-side{
+		max-width:100%;
+		width:100%;
+	}
+	.uap-user-page-name{
+    	font-size: 1.3em;
+	}
+	.uap-user-page-mess{
+		font-size: 0.9em;
+	}	
+	.uap-user-page-top-wrapper .uap-stats-content{
+		font-size: 1.3em;
+	}	
+	.uap-ap-top-theme-3 .uap-middle-side{
+		display:inline-block;
+	}
+	.uap-ap-top-theme-3 .uap-right-side{
+		width:auto;
+    	max-width: inherit;
+	}
+}
+
+.uap-ap-theme-1 .uap-ap-menu{
+	clear:both;
+	background: #fafafa;
+    border-color: #0073aa;
+	float:left;
+	max-width:35%;
+	min-width:27%;
+	background-color:#fafafa;
+    box-sizing: border-box;
+	border:1px solid #ddd;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.07) !important;
+}
+.uap-ap-theme-1 .uap-ap-menu ul{
+	list-style:none;
+	padding: 0px;
+	margin:0px;
+	
+}
+.uap-ap-theme-1 .uap-ap-menu .uap-ap-menu-tab-item{
+	display: block;
+	font-size: 13px; 	
+    /*padding: 8px 16px 8px 14px;*/
+	cursor:pointer;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
+	font-weight:300;
+	border-bottom:1px solid #738E9A;
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-weight: 500;
+	background-color:#607d8b;
+	webkit-transition: padding 0.5s ease;
+    -moz-transition: padding 0.5s ease;
+    -o-transition: padding 0.5s ease;
+    -ms-transition: padding 0.5s ease;
+    transition: padding 0.5s ease;
+}
+.uap-ap-theme-1 .uap-ap-menu .uap-ap-menu-item{
+	display: block;
+	font-size: 13px;
+    /*padding: 8px 16px 8px 24px;*/
+	cursor:pointer;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
+	font-weight:300;
+	border-bottom:1px solid #738E9A;
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-weight: 500;
+	webkit-transition: padding 0.5s ease;
+    -moz-transition: padding 0.5s ease;
+    -o-transition: padding 0.5s ease;
+    -ms-transition: padding 0.5s ease;
+    transition: padding 0.5s ease;
+	background-color:#90A1A9;
+}
+.uap-ap-menu .uap-ap-menu-item:hover, .uap-ap-menu .uap-ap-menu-tab-item:hover{
+	background-color:#47565d;
+	/*padding-left:27px;*/
+}
+.uap-ap-menu .uap-ap-menu-item-selected, .uap-ap-menu .uap-ap-menu-tab-item-selected{
+	background-color:#47565d !important;
+	padding-left:27px !important;
+}
+.uap-ap-theme-1 .uap-ap-menu .fa-uap{
+	font-size: 19px;
+    line-height: 25px;
+    padding-right: 10px;
+    vertical-align: middle;
+}
+.uap-ap-theme-1 .uap-ap-menu .uap-ap-menu-tab-item .fa-uap{
+    line-height: 30px;
+}
+.uap-ap-theme-1 .uap-ap-menu a{
+	text-decoration: none !important;
+	box-shadow:none;
+    border: none;	
+    padding: 8px 16px 8px 14px;
+    box-sizing: border-box;
+    display: block;
+    line-height: 30px;
+}
+.uap-ap-theme-1 .uap-ap-menu  .uap-ap-menu-item a{
+	color:#607D8B;
+	color:#fff;
+}
+.uap-ap-theme-1 .uap-ap-menu  .uap-ap-menu-tab-item a{
+	color:#fff;
+}
+.uap-ap-theme-1 .uap-ap-menu .uap-ap-menu-item:hover a, .uap-ap-theme-1 .uap-ap-menu .uap-ap-menu-item-selected a{
+	color: #fff;
+}
+.uap-ap-theme-1 .uap-ap-menu .uap-ap-menu-tab-item:hover a, .uap-ap-theme-1 .uap-ap-menu .uap-ap-menu-tab-item-selected a{
+	color: #fff;
+}
+.uap-ap-theme-1 .uap-user-page-content{
+	float:left;
+	padding-left:30px;
+	padding-right:10px;
+	box-sizing:border-box;
+	margin: 20px 0 20px 0;
+	width:65%;
+	font-family:Arial,Verdana,sans-serif;font-size:16px;
+	font-size:15px;
+	color:#333;
+	
+}
+.uap-ap-theme-1 #uap_account_page_tab_content{
+	padding-top:15px;
+	padding-bottom:35px;
+    min-height: 400px;
+}
+.uap-ap-theme-1 .uap-user-page-box .uap-user-page-box-title{
+	font-size:21px;
+	border-width:0px;
+}
+.uap-ap-theme-1 .uap-user-page-wrapper{
+	padding:0px;
+}
+.uap-ap-theme-1 .uap-account-content-title{
+	font-size: 21px;
+    line-height: 40px;
+    color: #555;
+    text-transform: uppercase;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.uap-ap-theme-1 .uap-account-subscr-list{
+	margin-top:20px;
+	color:#888;
+	font-size:13px;
+    margin-bottom: 40px;
+}
+.uap-ap-theme-1 .uap-account-subscr-list thead{
+	    color: #555;
+    text-transform: uppercase;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    margin-bottom: 30px;
+    border-bottom: 4px solid #33b5e5;
+	font-size: 14px;
+}
+.uap-ap-theme-1 .uap-account-subscr-list thead td{
+	padding: 6px 10px 6px 0;
+}
+.uap-ap-theme-1 .uap-account-subscr-list tbody td{
+	vertical-align:top;
+	padding:0px;
+	padding-left:5px;
+}
+.uap-ap-theme-1 .uap-account-subscr-list .uap-level-name{
+	font-family: 'Oswald', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+	color:#21759b;
+	font-size:14px;
+}
+.uap-ap-theme-1 .uap-account-subscr-list .uap-level-name-wrapp{
+	padding-left:15px;
+	font-size:12px;
+	color:#21759b;
+}
+.uap-ap-theme-1 .uap-account-subscr-list tr:nth-child(even){
+	background-color:#fafafa;
+}
+.uap-ap-theme-1 .uap-account-tranz-list tr:nth-child(even){
+	background-color:rgba(90, 186, 198, 0.05);
+}
+.uap-ap-theme-1 .uap-account-tranz-list thead{
+    border-bottom: 2px solid #33b5e5;
+}
+.uap-ap-theme-1 .uap-account-tranz-list th{
+	text-align:center;
+}
+.uap-ap-theme-1 .uap-account-tranz-list td{
+	text-align:center;
+}
+.uap-ap-theme-1 .uap_account_level_status{
+	font-family: Oswald, arial, sans-serif !important;
+	color:#222;
+}
+.uap-ap-theme-1 .uap-public-ap-menu-subtabs{
+	display: none;
+}
+.uap-ap-theme-1 .uap-ap-menu .uap-ap-menu-item:hover,.uap-ap-theme-1  .uap-ap-menu .uap-ap-menu-tab-item:hover{
+	background-color:#47565d;
+	padding-left:27px;
+}
+/*
+.uap-public-ap-menu-subtabs{
+	display: none;
+}
+*/
+
+@media (max-width: 576px){
+	.uap-ap-menu .uap-ap-menu-item-selected, .uap-ap-menu .uap-ap-menu-tab-item-selected, .uap-ap-theme-1 .uap-ap-menu .uap-ap-menu-item:hover, .uap-ap-theme-1 .uap-ap-menu .uap-ap-menu-tab-item:hover{
+		    padding-left: 4px !important; 
+	}
+}
+
+/************************* AP THEME 2 *********************/
+
+.uap-ap-theme-2 .uap-ap-menu{
+	clear:both;
+	background-color:#607d8b;
+}
+.uap-ap-theme-2 .uap-ap-menu:after{
+	clear:both;
+	display: table;
+    content: " ";
+}
+.uap-ap-theme-2 .uap-ap-menu ul{
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+.uap-ap-theme-2 .uap-ap-menu:after, .uap-ap-theme-2 .uap-ap-menu ul:after{
+	clear:both;
+	display: table;
+    content: " ";
+}
+.uap-ap-theme-2 .uap-ap-menu ul .uap-public-ap-menu-subtabs{
+	background-color: #fff;
+}
+.uap-ap-theme-2 .uap-ap-menu ul .uap-public-ap-menu-subtabs .uap-ap-menu-item{
+	/*visibility: hidden;*/
+	/*background-color: #47565d;*/
+	background-color: rgba(255,255,255,0.15);
+    /*border-bottom: 1px solid #5c696f;*/
+}
+.uap-ap-theme-2 .uap-ap-menu .uap-ap-menu-tab-item{
+	/*display: inline-block;*/
+	float: left;	
+	font-size: 13px; 	
+    /*padding: 8px 25px 8px 20px;*/
+	cursor:pointer;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
+	font-weight:300;
+	border-bottom:1px solid #738E9A;
+	border-right:1px solid #738E9A;
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-weight: 500;
+	background-color:#607d8b;
+	webkit-transition: padding 0.5s ease;
+    -moz-transition: padding 0.5s ease;
+    -o-transition: padding 0.5s ease;
+    -ms-transition: padding 0.5s ease;
+    transition: padding 0.5s ease;
+	box-sizing:border-box;
+}
+.uap-ap-theme-2 .uap-ap-menu .uap-ap-menu-tab-item:last-child{
+	border-right:none;
+}
+.uap-ap-theme-2 .uap-ap-menu .uap-ap-menu-item{
+	display: block;
+	font-size: 13px;
+	/*float: left;*/
+     padding: 8px 25px 8px 20px;
+	cursor:pointer;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
+	font-weight:300;
+	border-bottom:1px solid #738E9A;
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-weight: 500;
+	webkit-transition: padding 0.5s ease;
+    -moz-transition: padding 0.5s ease;
+    -o-transition: padding 0.5s ease;
+    -ms-transition: padding 0.5s ease;
+    transition: padding 0.5s ease;
+    background-color: #607d8b;
+	min-width:190px;
+}
+.uap-ap-theme-2 .uap-ap-menu .uap-ap-submenu-item{
+	/*display: inline-block;
+	vertical-align: top;*/
+	float: left; 
+	/*background-color: #607d8b;*/
+}
+@media (max-width: 576px){
+	.uap-ap-theme-2 .uap-ap-menu .uap-ap-menu-tab-item{
+		width:50%;
+	}
+	.uap-ap-theme-2 .uap-ap-menu .uap-ap-submenu-item{
+		width:50%;
+	}
+	
+}
+.uap-ap-theme-2 .uap-ap-menu .uap-ap-submenu-item .uap-ap-menu-tab-item{
+	clear: both;
+    width: 100%;
+}
+.uap-ap-theme-2 .uap-ap-menu .uap-public-ap-menu-subtabs .uap-ap-menu-item a{
+	color: #fff !important;
+}
+.uap-ap-theme-2 .uap-ap-menu .uap-ap-submenu-item .uap-public-ap-menu-subtabs{
+	margin-top: 67px;
+	opacity:0;
+	/*display: none;*/
+	position:absolute;
+	visibility: hidden;
+    background-color: #607d8b;
+	z-index:99999;
+	-moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    -webkit-transition-delay: 0.15s;
+    -moz-transition-delay: 0.15s;
+    -o-transition-delay: 0.15s;
+    transition-delay: 0.15s;
+}
+
+.uap-ap-theme-2 .uap-ap-menu .uap-ap-submenu-item:hover>.uap-public-ap-menu-subtabs{
+	visibility: visible;
+	margin-top: 47px;
+	opacity:1;
+    /*display: block;*/
+}
+.uap-ap-menu .uap-ap-menu-item:hover, .uap-ap-menu .uap-ap-submenu-item:hover .uap-ap-menu-tab-item, .uap-ap-menu .uap-ap-menu-tab-item:hover{
+	background-color:#47565d !important;
+}
+.uap-ap-menu .uap-ap-submenu-item:hover .uap-ap-menu-tab-item .fa-account-right-uap:before{
+	     content: "\f107"; 
+}
+.uap-ap-theme-2 .uap-ap-menu .uap-ap-menu-item-selected,.uap-ap-theme-2 .uap-ap-menu .uap-ap-menu-tab-item-selected{
+	background-color:#47565d !important;
+	padding-left:0 !important;
+}
+.uap-ap-theme-2 .uap-ap-menu .fa-uap{
+	font-size: 19px;
+    line-height: 25px;
+    padding-right: 10px;
+    vertical-align: middle;
+}
+.uap-ap-theme-2 .uap-ap-menu .uap-ap-menu-tab-item .fa-uap{
+    line-height: 30px;
+}
+.uap-ap-theme-2 .uap-ap-menu .uap-ap-menu-tab-item .fa-account-down-uap, .uap-ap-theme-2 .uap-ap-menu .uap-ap-menu-tab-item .fa-account-right-uap{
+	width:23px;
+}
+.uap-ap-theme-2 .uap-ap-menu a{
+	text-decoration: none !important;
+	box-shadow:none;
+    line-height: 30px;
+    border: none;
+    padding: 8px 25px 8px 20px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+.uap-ap-theme-2 .uap-ap-menu  .uap-ap-menu-item a{
+	color:#607D8B;
+}
+.uap-ap-theme-2 .uap-ap-menu  .uap-ap-menu-tab-item a{
+	color:#fff;
+}
+.uap-ap-theme-2 .uap-ap-menu .uap-ap-menu-item:hover a, .uap-ap-theme-2 .uap-ap-menu .uap-ap-menu-item-selected a{
+	color: #fff;
+}
+.uap-ap-theme-2 .uap-ap-menu .uap-ap-menu-tab-item:hover a, .uap-ap-theme-2 .uap-ap-menu .uap-ap-menu-tab-item-selected a{
+	color: #fff;
+}
+.uap-ap-theme-2 .uap-user-page-content{
+	padding-left:30px;
+	padding-right:10px;
+	box-sizing:border-box;
+	margin: 35px 0 20px 0;
+	font-family:Arial,Verdana,sans-serif;font-size:16px;
+	font-size:15px;
+	color:#333;
+	min-width:200px;
+	
+}
+.uap-ap-theme-2 #uap_account_page_tab_content{
+	padding-top:15px;
+	padding-bottom:35px;
+    min-height: 400px;
+}
+.uap-ap-theme-2 .uap-user-page-box .uap-user-page-box-title{
+	font-size:21px;
+	border-width:0px;
+}
+.uap-ap-theme-2 .uap-user-page-wrapper{
+	padding:0px;
+}
+.uap-ap-theme-2 .uap-account-content-title{
+	font-size: 21px;
+    line-height: 40px;
+    color: #555;
+    text-transform: uppercase;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.uap-ap-theme-2 .uap-account-subscr-list{
+	margin-top:20px;
+	color:#888;
+	font-size:13px;
+    margin-bottom: 40px;
+}
+.uap-ap-theme-2 .uap-account-subscr-list thead{
+	    color: #555;
+    text-transform: uppercase;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    margin-bottom: 30px;
+    border-bottom: 4px solid #33b5e5;
+	font-size: 14px;
+}
+.uap-ap-theme-2 .uap-account-subscr-list thead td{
+	padding: 6px 10px 6px 0;
+}
+.uap-ap-theme-2 .uap-account-subscr-list tbody td{
+	vertical-align:top;
+	padding:0px;
+	padding-left:5px;
+}
+.uap-ap-theme-2 .uap-account-subscr-list .uap-level-name{
+	font-family: 'Oswald', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+	color:#21759b;
+	font-size:14px;
+}
+.uap-ap-theme-2 .uap-account-subscr-list .uap-level-name-wrapp{
+	padding-left:15px;
+	font-size:12px;
+	color:#21759b;
+}
+.uap-ap-theme-2 .uap-account-subscr-list tr:nth-child(even){
+	background-color:#fafafa;
+}
+.uap-ap-theme-2 .uap-account-tranz-list tr:nth-child(even){
+	background-color:rgba(90, 186, 198, 0.05);
+}
+.uap-ap-theme-2 .uap-account-tranz-list thead{
+    border-bottom: 2px solid #33b5e5;
+}
+.uap-ap-theme-2 .uap-account-tranz-list th{
+	text-align:center;
+}
+.uap-ap-theme-2 .uap-account-tranz-list td{
+	text-align:center;
+}
+.uap-ap-theme-2 .uap_account_level_status{
+	font-family: Oswald, arial, sans-serif !important;
+	color:#222;
+}
+
+
+
+/************************* AP THEME 3 *********************/
+
+.uap-ap-theme-3 .uap-ap-menu{
+	clear:both;
+	background-color:#607d8b;
+	background-color: #444;
+}
+.uap-ap-theme-3 .uap-ap-menu:after{
+	clear:both;
+	display: table;
+    content: " ";
+}
+.uap-ap-theme-3 .uap-ap-menu ul{
+	list-style: none;
+	padding: 0px;
+	margin: 0px;
+}
+.uap-ap-theme-3 .uap-ap-menu:after, .uap-ap-theme-3 .uap-ap-menu ul:after{
+	clear:both;
+	display: table;
+    content: " ";
+}
+.uap-ap-theme-3 .uap-ap-menu ul .uap-public-ap-menu-subtabs{
+	background-color: #fff;
+}
+.uap-ap-theme-3 .uap-ap-menu ul .uap-public-ap-menu-subtabs .uap-ap-menu-item{
+	/*visibility: hidden;*/
+	/*background-color: #47565d;*/
+	background-color: rgba(255,255,255,0.15);
+    /*border-bottom: 1px solid #5c696f;*/
+	    border-bottom: 1px solid #555;
+}
+.uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-tab-item{
+	/*display: inline-block;*/
+	float: left;	
+	font-size: 13px; 	
+    /*padding: 8px 25px 8px 20px;*/
+	cursor:pointer;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
+	font-weight:300;
+	/*border-bottom:1px solid #738E9A;
+	border-right:1px solid #738E9A;*/
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-weight: 500;
+	background-color:#607d8b;
+	background-color: #444;
+	webkit-transition: padding 0.5s ease;
+    -moz-transition: padding 0.5s ease;
+    -o-transition: padding 0.5s ease;
+    -ms-transition: padding 0.5s ease;
+    transition: padding 0.5s ease;
+	box-sizing:border-box;
+}
+.uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-tab-item:last-child{
+	border-right:none;
+}
+.uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-item{
+	display: block;
+	font-size: 13px;
+	/*float: left;*/
+     /*padding: 8px 25px 8px 20px;*/
+	cursor:pointer;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
+	font-weight:300;
+	border-bottom:1px solid #738E9A;
+	font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-weight: 500;
+	webkit-transition: padding 0.5s ease;
+    -moz-transition: padding 0.5s ease;
+    -o-transition: padding 0.5s ease;
+    -ms-transition: padding 0.5s ease;
+    transition: padding 0.5s ease;
+    background-color: #607d8b;
+	min-width:190px;
+}
+.uap-ap-theme-3 .uap-ap-menu .uap-ap-submenu-item{
+	/*display: inline-block;
+	vertical-align: top;*/
+	float: left; 
+	/*background-color: #607d8b;*/
+}
+@media (max-width: 576px){
+	.uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-tab-item{
+		width:50%;
+	}
+	.uap-ap-theme-3 .uap-ap-menu .uap-ap-submenu-item{
+		width:50%;
+	}
+	
+}
+.uap-ap-theme-3 .uap-ap-menu .uap-ap-submenu-item .uap-ap-menu-tab-item{
+	clear: both;
+    width: 100%;
+}
+.uap-ap-theme-3 .uap-ap-menu .uap-public-ap-menu-subtabs .uap-ap-menu-item a{
+	color: #fff !important;
+}
+.uap-ap-theme-3 .uap-ap-menu .uap-ap-submenu-item .uap-public-ap-menu-subtabs{
+	margin-top: 67px;
+	opacity:0;
+	/*display: none;*/
+	position:absolute;
+	visibility: hidden;
+    background-color: #666;
+	z-index:99999;
+	-moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    -webkit-transition-delay: 0.15s;
+    -moz-transition-delay: 0.15s;
+    -o-transition-delay: 0.15s;
+    transition-delay: 0.15s;
+}
+
+.uap-ap-theme-3 .uap-ap-menu .uap-ap-submenu-item:hover>.uap-public-ap-menu-subtabs{
+	visibility: visible;
+	margin-top: 47px;
+	opacity:1;
+    /*display: block;*/
+}
+.uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-item:hover,.uap-ap-theme-3 .uap-ap-menu .uap-ap-submenu-item:hover .uap-ap-menu-tab-item,.uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-tab-item:hover{
+	background-color:#47565d;
+	background-color:#333 !important;
+}
+.uap-ap-menu .uap-ap-submenu-item:hover .uap-ap-menu-tab-item .fa-account-right-uap:before{
+	     content: "\f107"; 
+}
+.uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-item-selected,.uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-tab-item-selected{
+	background-color:#333 !important;
+	padding-left:0px !important;
+}
+.uap-ap-theme-3 .uap-ap-menu .fa-uap{
+	font-size: 19px;
+    line-height: 25px;
+    padding-right: 10px;
+    vertical-align: middle;
+}
+.uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-tab-item .fa-uap{
+    line-height: 30px;
+}
+.uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-tab-item .fa-account-down-uap, .uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-tab-item .fa-account-right-uap{
+	width:23px;
+}
+.uap-ap-theme-3 .uap-ap-menu a{
+	text-decoration: none !important;
+	box-shadow:none;
+    
+    line-height: 30px;
+    border: none;
+    padding: 8px 25px 8px 20px;
+    box-sizing: border-box;
+    display: inline-block;
+	
+}
+.uap-ap-theme-3 .uap-ap-menu  .uap-ap-menu-item a{
+	color:#607D8B;
+}
+.uap-ap-theme-3 .uap-ap-menu  .uap-ap-menu-tab-item a{
+	color:#fff;
+	color: #e8e8e8;
+}
+.uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-item:hover a, .uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-item-selected a{
+	color: #fff;
+	color: #e8e8e8;
+}
+.uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-tab-item:hover a, .uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-tab-item-selected a{
+	color: #fff;
+	color: #e8e8e8;
+}
+.uap-ap-theme-3 .uap-user-page-content{
+	padding-left:30px;
+	padding-right:10px;
+	box-sizing:border-box;
+	margin: 35px 0 20px 0;
+	font-family:Arial,Verdana,sans-serif;font-size:16px;
+	font-size:15px;
+	color:#333;
+	min-width:200px;
+	
+}
+.uap-ap-theme-3 #uap_account_page_tab_content{
+	padding-top:15px;
+	padding-bottom:35px;
+    min-height: 400px;
+}
+.uap-ap-theme-3 .uap-user-page-box .uap-user-page-box-title{
+	font-size:21px;
+	border-width:0px;
+}
+.uap-ap-theme-3 .uap-user-page-wrapper{
+	padding:0px;
+}
+.uap-ap-theme-3 .uap-account-content-title{
+	font-size: 21px;
+    line-height: 40px;
+    color: #555;
+    text-transform: uppercase;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.uap-ap-theme-3 .uap-account-subscr-list{
+	margin-top:20px;
+	color:#888;
+	font-size:13px;
+    margin-bottom: 40px;
+}
+.uap-ap-theme-3 .uap-account-subscr-list thead{
+	    color: #555;
+    text-transform: uppercase;
+    font-family: 'Oswald', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    margin-bottom: 30px;
+    border-bottom: 4px solid #33b5e5;
+	font-size: 14px;
+}
+.uap-ap-theme-3 .uap-account-subscr-list thead td{
+	padding: 6px 10px 6px 0;
+}
+.uap-ap-theme-3 .uap-account-subscr-list tbody td{
+	vertical-align:top;
+	padding:0px;
+	padding-left:5px;
+}
+.uap-ap-theme-3 .uap-account-subscr-list .uap-level-name{
+	font-family: 'Oswald', Arial, Helvetica, sans-serif;
+    font-weight: 400;
+	color:#21759b;
+	font-size:14px;
+}
+.uap-ap-theme-3 .uap-account-subscr-list .uap-level-name-wrapp{
+	padding-left:15px;
+	font-size:12px;
+	color:#21759b;
+}
+.uap-ap-theme-3 .uap-account-subscr-list tr:nth-child(even){
+	background-color:#fafafa;
+}
+.uap-ap-theme-3 .uap-account-tranz-list tr:nth-child(even){
+	background-color:rgba(90, 186, 198, 0.05);
+}
+.uap-ap-theme-3 .uap-account-tranz-list thead{
+    border-bottom: 2px solid #33b5e5;
+}
+.uap-ap-theme-3 .uap-account-tranz-list th{
+	text-align:center;
+}
+.uap-ap-theme-3 .uap-account-tranz-list td{
+	text-align:center;
+}
+.uap-ap-theme-3 .uap_account_level_status{
+	font-family: Oswald, arial, sans-serif !important;
+	color:#222;
+}
+
+/*==============SUBSCRIPTION PAGE===============*/
+/*==============LOGIN BUTTONS===============*/
+.uap-sm-template-2{
+}
+.uap-sm-template-2 .uap-sm-item{
+	padding:0px;
+	padding-right:0px;
+	transition: all 0.4s;
+	-moz-transition: all 0.4s;
+	-webkit-transition: all 0.4s;
+	position:relative;
+}
+.uap-sm-template-2 .fa-uap-sm{
+	width:36px;
+	height:36px;
+	text-align:center;
+	background-color:rgba(0,0,0,0.2);
+	border-right:1px solid rgba(0,0,0,0.3);
+	line-height:36px;
+	font-size:20px;
+	position:relative;
+	overflow:hidden;
+}
+.uap-sm-template-2 .fa-uap-sm:before,.uap-sm-template-2 .fa-uap-sm:after{
+	transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	position:relative;
+}
+.uap-sm-template-2 .fa-uap-sm:after{
+	display:block;
+	left:-100%;
+	position:absolute;
+}
+.uap-sm-template-2 .fa-uap-sm:before{
+	left:0px;
+	position:relative;
+}
+.uap-sm-template-2 .uap-sm-item-label{
+	line-height:36px;
+	padding-right:0px;
+	margin-left:0px;
+	padding-left:6px;
+	padding-right:15px;
+	border-left:1px solid rgba(255,255,255,0.2);
+}
+.uap-sm-template-2 .uap-sm-item:hover .fa-uap-sm{
+	background-color:rgba(255,255,255,0.1);
+	transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+}
+.uap-sm-template-2 .uap-sm-item:hover .fa-uap-sm:before{
+	left:100%;
+	position:absolute;
+}
+.uap-sm-template-2 .uap-sm-item:hover .fa-uap-sm:after{
+	left:0px;
+	position:relative;
+}
+.uap-sm-template-3{
+}
+.uap-sm-template-3 .uap-sm-item{
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	-webkit-transform: translateZ(0);
+	transform: translateZ(0);
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	-moz-osx-font-smoothing: grayscale;
+	position: relative;
+	-webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+	-webkit-transition-property: transform;
+	transition-property: transform;
+	padding: 8px 10px;
+	color: #484f59;
+	text-shadow: 1px 1px 0px rgba(255, 255, 255, 1);
+	margin-top:12px;
+	-moz-box-shadow: 0 1px 1px rgba(0, 0, 0, .15), 0 2px 3px rgba(0, 0, 0, .1);
+	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .15), 0 2px 3px rgba(0, 0, 0, .1);
+	box-shadow: 0 1px 1px rgba(0, 0, 0, .15), 0 2px 3px rgba(0, 0, 0, .1);
+}
+.uap-sm-template-3 .uap-sm-item:before {
+	content: "";
+	position: absolute;
+	z-index: -1;
+	top: 0;
+	bottom: 2px;
+	left: 0;
+	right: 0;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#f4f4f4), to(#e7e8ea));
+	background-image: -webkit-linear-gradient(top, #f4f4f4, #e7e8ea);
+	background-image: -moz-linear-gradient(top, #f4f4f4, #e7e8ea);
+	background-image: -ms-linear-gradient(top, #f4f4f4, #e7e8ea);
+	background-image: -o-linear-gradient(top, #f4f4f4, #e7e8ea);
+	background-image: linear-gradient(top, #f4f4f4, #e7e8ea);
+	
+	-webkit-transform: scaleY(1);
+	transform: scaleY(1);
+	-webkit-transform-origin: 50%;
+	transform-origin: 50%;
+	-webkit-transition-property: transform;
+	transition-property: transform;
+	-webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+	-webkit-transition-timing-function: ease-out;
+	transition-timing-function: ease-out;
+}
+.uap-sm-template-3 .uap-sm-item:after {
+	content: "";
+	position: absolute;
+	z-index: -1;
+	left: 0;
+	right: 100%;
+	bottom: 0;
+	-webkit-border-radius: 4px 4px 0 0;
+	-moz-border-radius: 4px 4px 0 0;
+	border-radius: 4px 4px 0 0;
+	background-color: rgba(0,0,0,0.2);
+	height: 4px;
+	-webkit-transition-property: right;
+	transition-property: right;
+	-webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
+	-webkit-transition-timing-function: ease-out;
+	transition-timing-function: ease-out;
+}
+.uap-sm-template-3 .uap-sm-item:hover{
+	-webkit-transform: translateY(-6px);
+	transform: translateY(-6px);
+	overflow:visible;
+	color:#FFF;
+	text-shadow: 1px 1px 0px rgba(255, 255, 255, 0);
+}
+.uap-sm-template-3 .uap-sm-item:hover:before, .uap-sm-template-3 .uap-sm-item:focus:before, .uap-sm-template-3 .uap-sm-item:active:before {
+	-webkit-transform: scaleY(0);
+	transform: scaleY(0);
+}
+.uap-sm-template-3 .uap-sm-item:hover:after {
+	right: 0;
+}
+
+.uap-sm-template-3 .uap-sm-item-label{
+	padding-right:20px;
+}
+.uap-sm-template-4{
+}
+.uap-sm-template-4 .uap-sm-item{
+	border-radius:5px;
+	padding:3px;
+	-webkit-box-shadow: 1px 1px 8px 0px rgba(0,0,0,0.24);
+	-moz-box-shadow: 1px 1px 8px 0px rgba(0,0,0,0.24);
+	box-shadow: 1px 1px 8px 0px rgba(0,0,0,0.24);
+}
+.uap-sm-template-4 .uap-sm-item:hover{
+	opacity:0.8;
+}
+
+.uap-sm-template-4 .fa-uap-sm{
+	width:27px;
+	text-align:center;
+}
+.uap-sm-template-4 .uap-sm-item-label{
+	padding-right:10px;
+}
+.uap-sm-template-5{
+}
+.uap-sm-template-5 .uap-sm-item{
+	border-radius:27px;
+	background-color: white;
+	padding:3px;
+	-webkit-box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.24);
+	-moz-box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.24);
+	box-shadow: 1px 1px 3px 0px rgba(0,0,0,0.24);
+	margin:7px;
+	
+}
+.uap-sm-template-5 .uap-sm-item-label{
+	padding-right:6px;
+}
+.uap-sm-template-5 .uap-sm-item:hover .uap-sm-item-label{
+	color:#fff !important;
+	-webkit-transition: all 0.3s;
+	   -moz-transition: all 0.3s;
+	     -o-transition: all 0.3s;
+	        transition: all 0.3s;
+}
+.uap-sm-template-5 .uap-sm-item:hover .fa-uap-sm{
+	color:#fff !important;
+	-webkit-transition: all 0.3s;
+	   -moz-transition: all 0.3s;
+	     -o-transition: all 0.3s;
+	        transition: all 0.3s;
+}
+.uap-sm-template-5 .uap-sm-item{
+	background: rgba(255,255,255,1);
+	background: -moz-linear-gradient(-45deg, rgba(255,255,255,1) 0%, rgba(245,245,245,1) 100%);
+	background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(100%, rgba(245,245,245,1)));
+	background: -webkit-linear-gradient(-45deg, rgba(255,255,255,1) 0%, rgba(245,245,245,1) 100%);
+	background: -o-linear-gradient(-45deg, rgba(255,255,255,1) 0%, rgba(245,245,245,1) 100%);
+	background: -ms-linear-gradient(-45deg, rgba(255,255,255,1) 0%, rgba(245,245,245,1) 100%);
+	background: linear-gradient(135deg, rgba(255,255,255,1) 0%, rgba(245,245,245,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f5f5f5', GradientType=1 );
+	-webkit-transition: all 0.3s;
+	   -moz-transition: all 0.3s;
+	     -o-transition: all 0.3s;
+	        transition: all 0.3s;
+}
+.uap-sm-template-5 .uap-fb .fa-uap-sm, .uap-sm-template-5 .uap-fb .uap-sm-item-label{
+	color:rgb(59, 89, 152);
+}
+.uap-sm-template-5 .uap-tw .fa-uap-sm, .uap-sm-template-5 .uap-tw .uap-sm-item-label{
+	color: #4099FF;
+}
+.uap-sm-template-5 .uap-in .fa-uap-sm, .uap-sm-template-5 .uap-in .uap-sm-item-label{
+	color: #0074a2;	
+}
+.uap-sm-template-5 .uap-goo .fa-uap-sm, .uap-sm-template-5 .uap-goo .uap-sm-item-label{
+    color: rgb(217, 82, 50);	
+}
+.uap-sm-template-5 .uap-vk .fa-uap-sm, .uap-sm-template-5 .uap-vk .uap-sm-item-label{
+    color: #5d83aa;	
+}
+.uap-sm-template-5 .uap-ig .fa-uap-sm, .uap-sm-template-5 .uap-ig .uap-sm-item-label{
+	color: #125688;	
+}
+.uap-sm-template-5 .uap-tbr .fa-uap-sm, .uap-sm-template-5 .uap-tbr .uap-sm-item-label{
+	color: #2c4762;	
+}
+.uap-sm-template-5 .uap-sm-item.uap-fb:hover{
+	background: rgb(59, 89, 152);	
+}
+.uap-sm-template-5 .uap-sm-item.uap-tw:hover{
+	background: #4099FF;
+}
+.uap-sm-template-5 .uap-sm-item.uap-in:hover{
+	background: #0074a2;	
+}
+.uap-sm-template-5 .uap-sm-item.uap-goo:hover{
+    background: rgb(217, 82, 50);	
+}
+.uap-sm-template-5 .uap-sm-item.uap-vk:hover{
+    background: #5d83aa;	
+}
+.uap-sm-template-5 .uap-sm-item.uap-ig:hover{
+	background: #125688;	
+}
+.uap-sm-template-5 .uap-sm-item.uap-tbr:hover{
+	background: #2c4762;	
+}
+/*==============LOGIN BUTTONS===============*/
+.uap-public-wrapp-visitor-user .uap-user-page-avatar{
+	width:50%;
+}
+.uap-public-wrapp-visitor-user .uap-user-page-avatar img {
+    border-bottom-color: rgb(136, 136, 136);
+    border-bottom-style: none;
+    border-bottom-width: 0px;
+    border-image-outset: 0px;
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    border-image-width: 1;
+    border-left-color: rgb(136, 136, 136);
+    border-left-style: none;
+    border-left-width: 0px;
+    border-right-color: rgb(136, 136, 136);
+    border-right-style: none;
+    border-right-width: 2px;
+    border-top-color: rgb(136, 136, 136);
+    border-top-style: none;
+    border-top-width: 0px;
+    display: block;
+    max-width: 100%;
+    width: 100% !important;
+    margin: 0 auto;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    border-radius: 100%;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.3);
+    border: 1px solid #fff;
+}
+.uap-public-wrapp-visitor-user .uap-account-page-top-mess{
+	border-bottom:1px solid #ededed;
+	margin-bottom:15px;
+	padding-bottom:10px;
+}
+.uap-public-wrapp-visitor-user .uap-account-page-top-mess p{
+	margin-bottom:10px;
+}
+.uap-public-wrapp-visitor-user .uap-account-page-top-mess .uap-ap-sm-top-icons-wrap{
+	float:none;
+    padding-left: 2px;
+}
+.uap-ap-sm-top-icons-wrap .uap-account-page-sm-icon {
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    border: 2px solid #fff;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
+    opacity: 0.9;
+	color:#fff;
+}
+.uap-ap-sm-top-icons-wrap .uap-account-page-sm-icon .fa-uap-sm {
+    width: 27px;
+}
+.uap-ap-top-theme-1 #js_uap_edit_top_ap_banner{
+	height:100%;
+}
+.uap-ap-top-theme-1 .cropControls{
+	right:auto !important;
+	left:20px !important;
+}

@@ -1,0 +1,527 @@
+/*!
+ *  Font Awesome 4.5.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+/* FONT PATH
+ * -------------------------- */
+@font-face {
+  font-family: 'FontAwesome-uap';
+  src: url('../fonts/fontawesome-webfont.eot?v=4.5.0');
+  src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.5.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.5.0') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.5.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.5.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.5.0#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.fa-uap {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome-uap;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-uap-menu {
+    font-size: 30px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.fa-affiliates-uap:before {
+    content: "\f007";
+}
+
+.fa-referrals-uap:before {
+    content: "\f0c0";
+}
+
+.fa-ranks-uap:before {
+    content: "\f005";
+}
+
+.fa-payments-uap:before{
+	content: "\f0d6";
+}
+
+.fa-notifications-uap:before {
+    content: "\f0f3";
+}
+
+.fa-settings-uap:before {
+    content: "\f013";
+}
+
+.fa-showcases-uap:before {
+    content: "\f109";
+}
+
+.fa-reports-uap:before {
+    content: "\f080";
+}
+.fa-help-uap:before {
+    content: "\f059";
+}
+.fa-offers-uap:before {
+    content: "\f06b";
+}
+
+.fa-banners-uap:before {
+    content: "\f03e";
+}
+.fa-visits-uap:before{
+	content: "\f25a";
+}
+.fa-trash-uap:before{
+	content: "\f014";
+	cursor: pointer;
+}
+.fa-edit-uap:before{
+	content: "\f044";
+    color: #666;
+    font-size: 14px;
+    padding-left: 4px;
+}
+.fa-remove-uap:before{
+	content: "\f014";
+    color: #666;
+    font-size: 14px;
+    padding-left: 4px;
+}
+.fa-arrows-uap:before{
+    content: "\f047";
+    cursor: move;
+    color: #666;
+    font-size: 14px;
+    padding-left: 4px;
+}
+.fa-sign-in-uap:before {
+    content: "\f090";
+    line-height: 120px;
+    font-size: 70px;
+}
+.fa-user-uap:before {
+    content: "\f007";
+    line-height: 120px;
+    font-size: 70px;
+}
+.fa-user-plus-uap:before {
+    content: "\f234";
+    line-height: 120px;
+    font-size: 70px;
+}
+.fa-sign-in-uap, .fa-user-uap, .fa-user-plus-uap{
+	display: block;
+}
+.fa-add-new-item-uap:before{
+	content: "\f0fe";
+}
+.fa-web-uap:before{
+	content: "\f108";
+    font-size: 18px;
+    color: #333;
+}
+.fa-mobile-uap:before{
+	content: "\f10b";
+    font-size: 18px;
+    color: #333;
+}
+.fa-magic_features-uap:before{
+	content: "\f0d0";
+}
+.fa-search-uap:before{
+	content: "\f002";
+}
+.fa-dashboard-visits-uap:before{
+	content: "\f0c0";
+	margin-right: 0px;
+    width: 66px;
+    height: 66px;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 50%;
+    font-size: 28px;
+    float: left!important;
+    box-sizing: border-box;
+    background-color: #4cc0c1 !important;
+}
+.fa-dashboard-referrals-uap:before{
+	content: "\f0c0";
+	margin-right: 0px;
+    width: 66px;
+    height: 66px;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 50%;
+    font-size: 28px;
+    float: left!important;
+    box-sizing: border-box;
+    background-color: rgba(240, 80, 80, 1.0) !important;
+}
+.fa-dashboard-paid-referrals-uap:before{
+	content: "\f0c0";
+	margin-right: 0px;
+    width: 66px;
+    height: 66px;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 50%;
+    font-size: 28px;
+    float: left!important;
+    box-sizing: border-box;
+    background-color: #0a9fd8 !important;;
+}
+.fa-dashboard-payments-paid-uap:before{
+	content: "\f0d6";
+	margin-right: 0px;
+    width: 66px;
+    height: 66px;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 50%;
+    font-size: 28px;
+    float: left!important;
+    box-sizing: border-box;
+    background-color: #fa8564 !important;
+	background-color: #f8ba01 !important;
+}
+.fa-dashboard-payments-unpaid-uap:before{
+	content: "\f155";
+	margin-right: 0px;
+    width: 66px;
+    height: 66px;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 50%;
+    font-size: 28px;
+    float: left!important;
+    box-sizing: border-box;
+    background-color: #fa8564 !important;
+}
+.fa-dashboard-payments-paided-uap:before{
+	content: "\f155";
+	margin-right: 0px;
+    width: 66px;
+    height: 66px;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 50%;
+    font-size: 28px;
+    float: left!important;
+    box-sizing: border-box;
+    background-color: #0bb586 !important;
+}
+.fa-visits-reports-uap:before{
+	content: "\f25a";
+	margin-right: 0px;
+    width: 66px;
+    height: 66px;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 50%;
+    font-size: 28px;
+    float: left!important;
+    box-sizing: border-box;
+    background-color: #94c523 !important;
+}
+.fa-dashboard-rank-uap:before{
+	content: "\f005";
+	margin-right: 0px;
+    width: 66px;
+    height: 66px;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 50%;
+    font-size: 28px;
+    float: left!important;
+    box-sizing: border-box;
+	background-color: rgb(66, 66, 66) !important;
+}
+.fa-success-rate-uap:before{
+	content: "\f295";
+	margin-right: 0px;
+    width: 66px;
+    height: 66px;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 50%;
+    font-size: 28px;
+    float: left!important;
+    box-sizing: border-box;
+	background-color: #f8ba01 !important;
+}
+.fa-success-number-uap:before{
+	content: "\f164";
+	margin-right: 0px;
+    width: 66px;
+    height: 66px;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 50%;
+    font-size: 28px;
+    float: left!important;
+    box-sizing: border-box;
+	background-color: #f8ba01 !important;
+}
+
+.fa-list-uap:before{
+	content: "\f0ca";
+    line-height: 17px;
+    color: #fff;
+    font-size: 27px;
+    color: #fff;
+    margin: 3px 6px 0 0;
+}
+.fa-icon-pop-list-uap:before{
+	content: "\f10c";
+    font-size: 14px;
+    line-height: 17px;
+    vertical-align: top;
+    color: #fff;
+}
+.fa-unlock-uap:before {
+  content: "\f09c";
+}
+.fa-sign-out-uap:before {
+  content: "\f08b";
+}
+.fa-add-uap:before {
+  content: "\f067";
+}
+.fa-sign-in-ref-uap:before {
+    content: "\f090";
+}
+.fa-hourglass-start-uap:before {
+    content: "\f251";
+}
+.fa-history-uap:before {
+    content: "\f021";
+}
+.fa-share-alt-uap:before {
+    content: "\f1e0";
+}
+.fa-paypal-uap:before {
+    content: "\f1ed";
+}
+.fa-university-uap:before {
+    content: "\f19c";
+}
+.fa-life-ring-uap:before {
+    content: "\f1cd";
+}
+.fa-money-uap:before {
+    content: "\f0d6";
+}
+.fa-opt_in-uap:before{
+	content: "\f0e0";
+}
+.fa-overview-account-uap:before{
+	 content: "\f015";
+}
+.fa-edit_account-account-uap:before{
+	    content: "\f007";
+}
+.fa-change_pass-account-uap:before{
+	     content: "\f09c";
+}
+.fa-logout-account-uap:before{
+	 content: "\f08b";
+}
+.fa-affiliate_link-account-uap:before{
+	 content: "\f0c1";
+}
+.fa-campaigns-account-uap:before{
+	 content: "\f0a1";
+}
+.fa-banners-account-uap:before{
+	 content: "\f03e";
+}
+.fa-coupons-account-uap:before{
+	 content: "\f145";
+}
+.fa-visits-account-uap:before{
+	 content: "\f25a";
+}
+.fa-referrals-account-uap:before{
+	 content: "\f0c0";
+}
+.fa-campaign_reports-account-uap:before{
+	 content: "\f201";
+}
+.fa-reports-account-uap:before{
+	content: "\f080";
+}
+.fa-payments-account-uap:before{
+	 content: "\f0d6";
+}
+.fa-account-down-uap:before{
+	     content: "\f107";
+}
+.fa-account-right-uap:before{
+	     content: "\f105";
+
+}
+
+.fa-payments_settings-account-uap:before {
+    content: "\f0d6";
+}
+.fa-help-account-uap:before {
+	content: "\f059";
+}
+.fa-referrals_history-account-uap:before{
+	content: "\f253";
+}
+.fa-mlm-account-uap:before{
+	content: "\f0c0";
+}
+.fa-stripe-uap:before{
+	content: "\f1f5";
+}
+.fa-landing_commissions-uap:before{
+	content: "\f055";
+}
+.fa-coupons-uap:before{
+	content: "\f145";
+}
+.uap-icon-remove-e:before{
+	content: "\f014";
+    color: #666;
+    font-size: 14px;
+    padding-left: 4px;
+}
+.fa-friendly_links-uap:before{
+	content: "\f0c1";
+}
+.fa-custom_affiliate_slug-uap:before{
+	content: "\f21b";
+}
+.fa-custom_affiliate_slug-account-uap:before{
+	content: "\f21b";
+}
+.fa-wallet-uap:before{
+	content: "\f260";
+}
+.fa-wallet-account-uap:before{
+	content: "\f260";
+}
+.fa-checkout_select_referral-uap:before{
+	content: "\f1ec";
+}
+.fa-top-affiliates-uap:before{
+    content: "\f091";
+}
+.fa-bp-uap:before{
+	content: "\f29a";
+}
+.fa-woo-uap:before{
+	content: "\f19a";
+}
+.fa-referral_notifications-uap:before{
+	content: "\f0f3";
+}
+.fa-referral_notifications-account-uap:before{
+	content: "\f0f3";
+}
+.fa-periodically_reports-uap:before{
+	content: "\f017";
+}
+.fa-qr-uap:before{
+	content: "\f029";
+}
+.fa-email_verification-uap:before{
+	content: "\f132";
+}
+.fa-custom_currencies-uap:before{
+	content: "\f155";
+}
+.fa-source_details-uap:before{
+	content: "\f022";
+}
+.fa-register_lite-uap:before{
+	content: "\f234";
+}
+
+.fa-wp_social_login-uap:before{
+	content: "\f1d7";
+}
+.fa-pass-uap:before {
+    content: "\f023";
+}
+.fa-username-uap:before {
+    content: "\f007";
+}
+
+.fa-pushover-uap:before{
+	content: "\f10b";
+}
+
+.fa-pushover_notifications-account-uap:before{
+	content: "\f0f3";
+}
+
+.fa-pushover-on-uap:before{
+	color:#66cbff !important;
+	font-size:26px;
+	content: "\f0f3";
+}
+.fa-export-csv:before{
+	content: "\f019";
+}
+
+.fa-max_amount-uap:before{
+	content: "\f0e4";
+}
+
+.fa-simple_links-uap:before{
+	content: "\f14c";
+}
+.fa-simple_links-account-uap:before{
+	content: "\f08e";
+}
+.fa-account_page_menu-uap:before{
+	content: "\f0c9";
+}
+.fa-arrow-uap:before{
+    content: "\f0d7";
+}
+.fa-import_export-uap:before{
+	content: "\f0ec";
+}
+.fa-migrate_affiliates_pro-uap:before{
+	content: "\f0ec";
+}
+.fa-migrate_wp_affiliates-uap:before{
+	content: "\f0ec";
+}
+.fa-migrate_affiliate_wp-uap:before{
+	content: "\f0ec";
+}
+.fa-ranks_pro-uap:before{
+	content: "\f0e7";
+}
+.fa-landing_pages-uap:before{
+	content: "\f21d";
+}
+.fa-pay_per_click-uap:before{
+	content: "\f260";
+}
+.fa-cpm_commission-uap:before{
+	content: "\f012";
+}
+.fa-landing_pages-account-uap:before{
+	content: "\f21d";
+}
+.fa-pushover_referral_notifications-uap:before{
+  content: "\f0f3";
+}
+.fa-rest_api-uap:before{
+  content: "\f085";
+}

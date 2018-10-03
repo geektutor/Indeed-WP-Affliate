@@ -1,0 +1,6946 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: uao\n"
+"POT-Creation-Date: 2018-05-30 11:09+0300\n"
+"PO-Revision-Date: 2018-05-30 11:09+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ..\n"
+
+#: ../admin/Uap_Main_Admin.class.php:172
+msgid "Cron is disabled!"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:180 ../admin/Uap_Main_Admin.class.php:184
+msgid "PayPal is not set properly!"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:192 ../admin/Uap_Main_Admin.class.php:196
+msgid "Stripe is not set properly!"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:202
+msgid ""
+"Some Affiliates users do not have assigned a Rank and they may not be "
+"rewarded. Check your stage "
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:202 ../admin/views/settings-captcha.php:12
+#: ../admin/views/wp_social_login.php:14
+msgid "here"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:440 ../admin/views/dashboard.php:81
+msgid "Affiliates"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:441 ../admin/views/ranks-list.php:5
+#: ../indeed-affiliate-pro.php:185
+msgid "Ranks"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:442 ../admin/views/offers-list.php:2
+msgid "Offers"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:443
+#: ../admin/views/landing_commissions-list.php:2
+msgid "Landing Commissions"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:444 ../classes/Uap_Db.class.php:1714
+#: ../classes/Uap_Db.class.php:1715 ../classes/Uap_Db.class.php:8117
+#: ../public/views/account_page-header.php:159
+msgid "Banners"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:445 ../indeed-affiliate-pro.php:183
+msgid "Showcases"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:446 ../admin/views/affiliates-list.php:98
+#: ../admin/views/affiliates-list.php:119 ../admin/views/reports.php:70
+#: ../admin/views/top_affiliates.php:74 ../admin/views/top_affiliates.php:386
+#: ../admin/views/visits.php:2
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:42
+#: ../classes/Uap_Db.class.php:8135
+msgid "Visits"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:447 ../admin/views/affiliates-list.php:100
+#: ../admin/views/affiliates-list.php:121 ../admin/views/dashboard.php:87
+#: ../admin/views/referrals-list.php:2 ../admin/views/top_affiliates.php:72
+#: ../admin/views/top_affiliates.php:385 ../classes/Uap_Db.class.php:1720
+#: ../classes/Uap_Db.class.php:1721 ../classes/Uap_Db.class.php:8123
+#: ../public/views/account_page-campaign_reports.php:18
+#: ../public/views/account_page-campaign_reports.php:26
+#: ../public/views/account_page-header.php:39
+#: ../public/views/account_page-referrals.php:20
+#: ../public/views/wallet-add_new.php:23
+msgid "Referrals"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:448
+#: ../admin/views/notifications-add_edit.php:24
+#: ../classes/Uap_Db.class.php:1729 ../classes/Uap_Db.class.php:1730
+#: ../classes/Uap_Db.class.php:8126
+msgid "Payments"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:449 ../indeed-affiliate-pro.php:184
+msgid "Magic Features"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:450 ../admin/Uap_Main_Admin.class.php:1799
+#: ../admin/views/notifications-list.php:2 ../classes/Uap_Db.class.php:1756
+#: ../classes/Uap_Db.class.php:1757 ../classes/Uap_Db.class.php:8147
+#: ../indeed-affiliate-pro.php:186
+msgid "Notifications"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:451 ../admin/Uap_Main_Admin.class.php:1735
+#: ../admin/views/affiliates-list.php:255 ../admin/views/reports.php:2
+#: ../classes/Uap_Db.class.php:8132 ../classes/Uap_Db.class.php:8209
+#: ../public/views/account_page-header.php:198
+msgid "Reports"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:452
+msgid "General Options"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:455 ../indeed-affiliate-pro.php:187
+msgid "Shortcodes"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:456
+msgid "Import/Export"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:457 ../admin/views/help.php:2
+#: ../classes/Uap_Db.class.php:1735 ../classes/Uap_Db.class.php:1736
+#: ../classes/Uap_Db.class.php:8150 ../public/views/account_page-header.php:254
+msgid "Help"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:703
+msgid "You cannot have less than one rank."
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:784
+msgid ""
+"Be sure that you have filled all the reguired fields: Name, Amount, Date "
+"Range."
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:816
+msgid "Be sure that you have filled all the required fields: Slug and Amount."
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:852
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:1102
+#: ../public/Uap_Login.class.php:57 ../public/Uap_Login.class.php:68
+msgid "Error"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:937 ../admin/Uap_Main_Admin.class.php:1757
+msgid "View Referrals for"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:968
+#: ../admin/views/referral_list_details.php:107
+#: ../admin/views/referrals-list.php:167 ../admin/views/referrals-list.php:180
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:167
+#: ../public/Affiliate_Account_Page.class.php:605
+#: ../public/views/account_page-referrals.php:68
+#: ../public/views/account_page-referrals_history.php:55
+msgid "Refuse"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:969 ../admin/views/bonus_on_rank.php:43
+#: ../admin/views/landing_commissions-add_edit.php:56
+#: ../admin/views/referrals-list.php:171 ../admin/views/referrals-list.php:180
+#: ../admin/views/sign_up_referrals.php:34
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:170
+#: ../public/Affiliate_Account_Page.class.php:606
+#: ../public/views/account_page-referrals.php:70
+#: ../public/views/account_page-referrals_history.php:57
+msgid "Unverified"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:970 ../admin/views/affiliates-list.php:189
+#: ../admin/views/affiliates-list.php:236 ../admin/views/bonus_on_rank.php:43
+#: ../admin/views/landing_commissions-add_edit.php:56
+#: ../admin/views/referral_list_details.php:113
+#: ../admin/views/referrals-list.php:175 ../admin/views/referrals-list.php:180
+#: ../admin/views/sign_up_referrals.php:34
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:173
+#: ../public/Affiliate_Account_Page.class.php:607
+#: ../public/views/account_page-referrals.php:72
+#: ../public/views/account_page-referrals_history.php:59
+msgid "Verified"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:977
+#: ../admin/views/account_page_menu.php:80
+#: ../admin/views/account_page_menu.php:88
+#: ../admin/views/affiliates-list.php:83 ../admin/views/affiliates-list.php:184
+#: ../admin/views/banners-list.php:8 ../admin/views/banners-list.php:38
+#: ../admin/views/banners-list.php:49 ../admin/views/coupons-list.php:53
+#: ../admin/views/landing_commissions-list.php:30
+#: ../admin/views/lifetime_commissions.php:82
+#: ../admin/views/notifications-list.php:54 ../admin/views/offers-list.php:28
+#: ../admin/views/ranks-list.php:37 ../admin/views/referrals-list.php:101
+#: ../admin/views/simple_links.php:122 ../admin/views/transactions.php:143
+#: ../admin/views/visits.php:37 ../admin/views/visits.php:73
+#: ../admin/views/visits.php:97
+#: ../public/views/account_page-simple_links.php:55
+#: ../public/views/wallet.php:44
+msgid "Delete"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:978
+msgid "Mark as Refuse"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:979
+msgid "Mark as Unverified"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:980
+msgid "Mark as Verified"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1084
+msgid "Payments For Affiliates"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1085
+msgid "All UnPaid Referrals"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1086
+msgid "All Paid Referrals"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1087 ../admin/views/payments.php:89
+#: ../admin/views/payments.php:99
+msgid "All Transactions"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1249
+msgid "View Transactions for"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1301
+msgid "View UnPaid Referrals for"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1346
+msgid "View Paid Referrals for"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1672
+msgid "Affiliate Register - Admin Notification"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1673
+msgid "Affiliate Register - User Notification"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1674
+msgid "Affiliate - Approve Account"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1675
+msgid "Affiliate - Delete Account"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1676
+msgid "User Profile Updates"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1677
+msgid "Affiliate get new Rank"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1678
+msgid "Reset Password - Start Process"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1679
+msgid "Reset Password - New Password"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1680 ../classes/Uap_Db.class.php:1704
+#: ../classes/Uap_Db.class.php:1705 ../classes/Uap_Db.class.php:8099
+#: ../public/views/account_page-header.php:94
+msgid "Change Password"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1681
+msgid "Admin - Affiliate get new Rank"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1682
+msgid "Admin - Affiliate update profile"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1683
+msgid "Affiliate - Payment Inform - Fail"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1684
+msgid "Affiliate - Payment Inform - Pending"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1685
+msgid "Affiliate - Payment Inform - Complete"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1686
+msgid "Affiliate - Send generated password"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1687
+msgid "Affiliate - Double E-mail Verification Request"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1688
+msgid "Affiliate - Double E-mail Verification Validated"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1698
+#: ../admin/views/notifications-list.php:66 ../admin/views/transactions.php:19
+#: ../classes/Uap_Db.class.php:3374
+msgid "All"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1736 ../admin/views/achievements.php:2
+msgid "Achievements"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1745
+msgid "Today"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1746
+msgid "Yesterday"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1747
+msgid "Last Week"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1748
+msgid "Last Month"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1749
+msgid "All Time"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1796 ../admin/views/settings-general.php:4
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1797
+msgid "Admin Workflow"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1798
+msgid "Public Workflow"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1800
+msgid "Default Pages"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1801
+#: ../admin/views/settings-redirects.php:8
+msgid "Default Redirects"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1802
+msgid "Access"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1803
+msgid "Captcha"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1804
+msgid "Upload Settings"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1898
+msgid "Register Showcase"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1899
+#: ../admin/Uap_Main_Admin.class.php:1980
+#: ../admin/views/register-custom_messages.php:3
+msgid "Custom Messages"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1900
+msgid "Custom Fields"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1901 ../admin/views/opt_in.php:5
+msgid "Opt-In Settings"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1940
+msgid "Text"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1941
+msgid "Textarea"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1942
+msgid "Date Picker"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1943
+msgid "Number"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1944 ../public/views/wallet-add_new.php:29
+msgid "Select"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1945
+msgid "Multiselect Box"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1946
+msgid "Checkbox"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1947
+msgid "Radio"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1948
+msgid "File Upload"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1949
+msgid "Plain Text"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1950
+msgid "Verification Code"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:1979
+msgid "Login Showcase"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2000
+#: ../admin/views/register-settings.php:15
+msgid "Standard Theme"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2001
+#: ../admin/views/register-settings.php:16
+msgid "Basic Theme"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2002
+msgid "BlueBox Theme"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2003
+msgid "Simple Green Theme"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2004
+msgid "Labels Theme"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2005
+msgid "Premium Theme"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2006
+msgid "Double Long Theme"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2007
+msgid "Border Pink Theme"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2008
+msgid "Radius Gradient Theme"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2009
+msgid "Simple BootStrap Theme"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2028
+#: ../admin/Uap_Main_Admin.class.php:2033
+msgid "Theme 1"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2029
+#: ../admin/Uap_Main_Admin.class.php:2034
+msgid "Theme 2"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2030
+#: ../admin/Uap_Main_Admin.class.php:2035
+msgid "Theme 3"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2088
+msgid "View Visits for"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2509
+msgid ""
+"Be sure that you have filled all the reguired fields: Code, Affiliate, "
+"Amount Value."
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2550
+msgid "The Unilevel Plan"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2551
+msgid "The Force Matrix Plan"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2552
+msgid "Binary Plan"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2736
+#: ../admin/Uap_Main_Admin.class.php:2756
+msgid "Shortcode Generator"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:2737
+#: ../admin/Uap_Main_Admin.class.php:2757 ../admin/views/import_export.php:17
+#: ../admin/views/register-settings.php:56
+msgid "Settings"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3137
+msgid "Affiliates - Login Page"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3140
+msgid "Affiliates - Register Page"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3143
+msgid "Affiliates - Lost Password"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3146
+msgid "Affiliates - LogOut Page"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3149
+msgid "Affiliates - User Page"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3152
+msgid "Affiliates - TOS"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3174
+msgid "Affiliates Pro - Default Pages"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3190 ../classes/Uap_Db.class.php:5718
+#: ../indeed-affiliate-pro.php:197
+msgid "Login"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3191
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:208
+#: ../classes/Uap_Db.class.php:5719 ../classes/Uap_Register_Lite.class.php:48
+#: ../indeed-affiliate-pro.php:198 ../public/views/login_form.php:58
+#: ../public/views/login_form.php:123 ../public/views/login_form.php:179
+#: ../public/views/login_form.php:220 ../public/views/login_form.php:269
+#: ../public/views/login_form.php:334 ../public/views/login_form.php:403
+#: ../public/views/login_form.php:556
+msgid "Register"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3192 ../classes/Uap_Db.class.php:5720
+#: ../indeed-affiliate-pro.php:199
+msgid "Lost Password"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3193 ../classes/Uap_Db.class.php:1707
+#: ../classes/Uap_Db.class.php:5721 ../classes/Uap_Db.class.php:8153
+#: ../indeed-affiliate-pro.php:200 ../public/views/account_page-header.php:261
+msgid "LogOut"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3194 ../classes/Uap_Db.class.php:5722
+msgid "User Account"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3195 ../classes/Uap_Db.class.php:5723
+#: ../indeed-affiliate-pro.php:202
+msgid "TOS"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3281
+#: ../admin/views/affiliate-payment-settings.php:32
+#: ../admin/views/affiliate-payment-settings.php:34
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:82
+#: ../classes/Uap_Db.class.php:7800 ../classes/Uap_Db.class.php:7802
+#: ../public/Affiliate_Account_Page.class.php:967
+#: ../public/views/account_page-payment_settings.php:180
+msgid "First Name"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3282
+#: ../admin/views/affiliate-payment-settings.php:33
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:81
+#: ../classes/Uap_Db.class.php:7801
+#: ../public/Affiliate_Account_Page.class.php:968
+#: ../public/views/account_page-payment_settings.php:185
+msgid "Last Name"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3283
+#: ../public/Affiliate_Account_Page.class.php:969
+msgid "Phone"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3284 ../admin/views/affiliates-list.php:96
+#: ../admin/views/affiliates-list.php:117 ../admin/views/payment-form.php:84
+#: ../admin/views/payment-form.php:95 ../admin/views/payment-form.php:173
+#: ../admin/views/payment-form.php:184
+#: ../classes/Uap_Payments_Export.class.php:99
+#: ../public/Affiliate_Account_Page.class.php:970
+#: ../public/views/account_page-referral_notifications.php:17
+msgid "E-mail"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3285
+#: ../public/Affiliate_Account_Page.class.php:971
+msgid "Order Date"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3286
+#: ../public/Affiliate_Account_Page.class.php:972
+msgid "Order Amount"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3287
+#: ../public/Affiliate_Account_Page.class.php:973
+msgid "Shipping Address"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3288
+#: ../public/Affiliate_Account_Page.class.php:974
+msgid "Billing Address"
+msgstr ""
+
+#: ../admin/Uap_Main_Admin.class.php:3289
+#: ../public/Affiliate_Account_Page.class.php:975
+msgid "Cart Items"
+msgstr ""
+
+#: ../admin/utilities.php:21
+msgid "Current Rank"
+msgstr ""
+
+#: ../admin/utilities.php:39
+msgid "Field "
+msgstr ""
+
+#: ../admin/utilities.php:56
+msgid "Bank Transfer Details: "
+msgstr ""
+
+#: ../admin/utilities.php:58 ../admin/utilities.php:65
+#: ../admin/utilities.php:79
+msgid "Incomplete Payment Settings"
+msgstr ""
+
+#: ../admin/utilities.php:63
+msgid "PayPal E-mail Address: "
+msgstr ""
+
+#: ../admin/utilities.php:73
+msgid "Name on Card: "
+msgstr ""
+
+#: ../admin/utilities.php:74
+msgid "Card Number: "
+msgstr ""
+
+#: ../admin/utilities.php:76
+msgid "Expiration: "
+msgstr ""
+
+#: ../admin/views/access.php:3
+msgid "Roles allowed to enter into WordPress Admin Dashboard:"
+msgstr ""
+
+#: ../admin/views/access.php:7
+msgid "Administrator"
+msgstr ""
+
+#: ../admin/views/access.php:47
+#: ../admin/views/admin_referral_notifications.php:72
+#: ../admin/views/allow_own_referrence.php:20
+#: ../admin/views/banners-add_edit.php:44 ../admin/views/bonus_on_rank.php:55
+#: ../admin/views/bp_account_page.php:60
+#: ../admin/views/checkout_select_referral.php:124
+#: ../admin/views/coupons-add_edit.php:77 ../admin/views/coupons-list.php:19
+#: ../admin/views/custom_affiliate_slug.php:48
+#: ../admin/views/custom_affiliate_slug.php:73
+#: ../admin/views/edit_affiliate_referral_relation.php:22
+#: ../admin/views/email_verification.php:107
+#: ../admin/views/friendly_links.php:22
+#: ../admin/views/landing_commissions-add_edit.php:133
+#: ../admin/views/lifetime_commissions.php:54
+#: ../admin/views/login-custom_messages.php:45 ../admin/views/login.php:28
+#: ../admin/views/login.php:60 ../admin/views/login.php:69
+#: ../admin/views/mlm.php:124 ../admin/views/notification_settings.php:12
+#: ../admin/views/notifications-add_edit.php:111
+#: ../admin/views/notifications-add_edit.php:137
+#: ../admin/views/offers-add_edit.php:156 ../admin/views/paypal.php:61
+#: ../admin/views/periodically_reports.php:91 ../admin/views/qr_code.php:44
+#: ../admin/views/ranks-add_edit.php:200 ../admin/views/ranks-add_edit.php:218
+#: ../admin/views/ranks-add_edit.php:239 ../admin/views/ranks-add_edit.php:273
+#: ../admin/views/ranks-add_edit.php:305 ../admin/views/ranks-add_edit.php:347
+#: ../admin/views/reccuring_referrals.php:52
+#: ../admin/views/referral_notifications.php:70
+#: ../admin/views/referrals-add_edit.php:99
+#: ../admin/views/register-custom_fields.php:10
+#: ../admin/views/register-custom_fields.php:196
+#: ../admin/views/register-custom_fields_add_edit.php:133
+#: ../admin/views/register-custom_messages.php:82
+#: ../admin/views/register-settings.php:49
+#: ../admin/views/register-settings.php:154
+#: ../admin/views/register-settings.php:166
+#: ../admin/views/register-settings.php:180
+#: ../admin/views/rewrite_referrals.php:21
+#: ../admin/views/settings-admin_workflow.php:86
+#: ../admin/views/settings-captcha.php:14
+#: ../admin/views/settings-custom_currencies.php:16
+#: ../admin/views/settings-default_pages.php:114
+#: ../admin/views/settings-general.php:196
+#: ../admin/views/settings-public_workflow.php:79
+#: ../admin/views/settings-redirects.php:65
+#: ../admin/views/settings-redirects.php:165
+#: ../admin/views/settings-uploads.php:29
+#: ../admin/views/sign_up_referrals.php:69 ../admin/views/social_share.php:45
+#: ../admin/views/source_details.php:20 ../admin/views/source_details.php:40
+#: ../admin/views/source_details.php:61 ../admin/views/source_details.php:82
+#: ../admin/views/source_details.php:110 ../admin/views/stripe.php:77
+#: ../admin/views/stripe_v2.php:78 ../admin/views/wallet.php:60
+#: ../admin/views/woo_account_page.php:60
+#: ../public/views/account_page-campaigns.php:29
+#: ../public/views/account_page-change_password.php:23
+#: ../public/views/account_page-custom_affiliate_slug.php:16
+#: ../public/views/account_page-payment_settings.php:256
+#: ../public/views/account_page-pushover_notifications.php:14
+#: ../public/views/account_page-referral_notifications.php:56
+#: ../public/views/account_page-simple_links.php:15
+msgid "Save"
+msgstr ""
+
+#: ../admin/views/account-page.php:23
+msgid "Accont Page"
+msgstr ""
+
+#: ../admin/views/account-page.php:35
+msgid "Top Section:"
+msgstr ""
+
+#: ../admin/views/account-page.php:40 ../admin/views/account-page.php:175
+msgid "Select Template:"
+msgstr ""
+
+#: ../admin/views/account-page.php:58
+msgid "Show Avatar Image:"
+msgstr ""
+
+#: ../admin/views/account-page.php:67
+msgid "Show Earning:"
+msgstr ""
+
+#: ../admin/views/account-page.php:76
+msgid "Show Referrals:"
+msgstr ""
+
+#: ../admin/views/account-page.php:85
+msgid "Show Achievement:"
+msgstr ""
+
+#: ../admin/views/account-page.php:94
+msgid "Show Rank:"
+msgstr ""
+
+#: ../admin/views/account-page.php:99
+msgid "Welcome Message:"
+msgstr ""
+
+#: ../admin/views/account-page.php:104 ../admin/views/account-page.php:266
+#: ../admin/views/account-page.php:306
+msgid "Regular constants"
+msgstr ""
+
+#: ../admin/views/account-page.php:130 ../admin/views/account-page.php:276
+#: ../admin/views/account-page.php:331
+#: ../admin/views/admin_referral_notifications.php:59
+#: ../admin/views/notifications-add_edit.php:99
+#: ../admin/views/periodically_reports.php:58
+#: ../admin/views/referral_notifications.php:58
+msgid "Custom Fields constants"
+msgstr ""
+
+#: ../admin/views/account-page.php:144
+msgid "Background/Banner Image:"
+msgstr ""
+
+#: ../admin/views/account-page.php:145
+msgid "The cover or background image, based on what theme you have chosen"
+msgstr ""
+
+#: ../admin/views/account-page.php:157
+msgid "Remove Background Image"
+msgstr ""
+
+#: ../admin/views/account-page.php:164 ../admin/views/account-page.php:292
+#: ../admin/views/account-page.php:343 ../admin/views/account-page.php:352
+#: ../admin/views/account_page_menu.php:27
+#: ../admin/views/account_page_menu.php:64
+#: ../admin/views/account_page_menu.php:132 ../admin/views/max_amount.php:55
+#: ../admin/views/opt_in.php:46 ../admin/views/opt_in.php:83
+#: ../admin/views/opt_in.php:93 ../admin/views/opt_in.php:152
+#: ../admin/views/opt_in.php:199 ../admin/views/opt_in.php:246
+#: ../admin/views/opt_in.php:293 ../admin/views/opt_in.php:365
+#: ../admin/views/opt_in.php:423 ../admin/views/opt_in.php:461
+#: ../admin/views/opt_in.php:499 ../admin/views/opt_in.php:536
+#: ../admin/views/pushover.php:66 ../admin/views/pushover.php:104
+#: ../admin/views/simple_links.php:35 ../admin/views/simple_links.php:60
+#: ../admin/views/wp_social_login.php:94
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:211
+msgid "Save Changes"
+msgstr ""
+
+#: ../admin/views/account-page.php:171
+msgid "Content Section:"
+msgstr ""
+
+#: ../admin/views/account-page.php:188
+msgid "Menu Tabs:"
+msgstr ""
+
+#: ../admin/views/account-page.php:205
+msgid "Activate the Tab:"
+msgstr ""
+
+#: ../admin/views/account-page.php:214 ../admin/views/bp_account_page.php:22
+#: ../admin/views/woo_account_page.php:22
+msgid "Menu Label"
+msgstr ""
+
+#: ../admin/views/account-page.php:220
+msgid "Title"
+msgstr ""
+
+#: ../admin/views/account-page.php:230 ../admin/views/account_page_menu.php:49
+#: ../admin/views/account_page_menu.php:79
+#: ../admin/views/account_page_menu.php:87
+msgid "Icon"
+msgstr ""
+
+#: ../admin/views/account-page.php:298
+msgid "Footer Section:"
+msgstr ""
+
+#: ../admin/views/account-page.php:301
+msgid "Footer Content:"
+msgstr ""
+
+#: ../admin/views/account-page.php:347
+msgid "Additional Settings:"
+msgstr ""
+
+#: ../admin/views/account-page.php:349 ../admin/views/register-settings.php:172
+msgid "Custom CSS:"
+msgstr ""
+
+#: ../admin/views/account_page_menu.php:13
+msgid "Account Page - Customize Menu"
+msgstr ""
+
+#: ../admin/views/account_page_menu.php:17
+msgid "Activate/Hold Customize Menu"
+msgstr ""
+
+#: ../admin/views/account_page_menu.php:35
+msgid "Add new Menu Item"
+msgstr ""
+
+#: ../admin/views/account_page_menu.php:41
+#: ../admin/views/account_page_menu.php:77
+#: ../admin/views/account_page_menu.php:85
+#: ../admin/views/custom_affiliate_slug.php:67
+#: ../admin/views/custom_affiliate_slug.php:85
+#: ../admin/views/custom_affiliate_slug.php:92
+#: ../admin/views/landing_commissions-add_edit.php:26
+#: ../admin/views/ranks-add_edit.php:28
+#: ../admin/views/register-custom_fields.php:17
+#: ../admin/views/register-custom_fields.php:31
+msgid "Slug"
+msgstr ""
+
+#: ../admin/views/account_page_menu.php:45
+#: ../admin/views/account_page_menu.php:78
+#: ../admin/views/account_page_menu.php:86
+#: ../admin/views/checkout_select_referral.php:25
+#: ../admin/views/ranks-add_edit.php:38 ../admin/views/ranks-list.php:15
+#: ../admin/views/ranks-list.php:23
+#: ../admin/views/register-custom_fields.php:18
+#: ../admin/views/register-custom_fields.php:32
+msgid "Label"
+msgstr ""
+
+#: ../admin/views/account_page_menu.php:71
+msgid "ReOrder Menu Items"
+msgstr ""
+
+#: ../admin/views/achievements.php:5
+msgid "Affiliate Username: "
+msgstr ""
+
+#: ../admin/views/achievements.php:6 ../admin/views/affiliates-list.php:57
+#: ../admin/views/lifetime_commissions.php:68 ../admin/views/mlm.php:156
+#: ../admin/views/simple_links.php:79
+msgid "Search"
+msgstr ""
+
+#: ../admin/views/achievements.php:12
+msgid "Last 50 Achievements"
+msgstr ""
+
+#: ../admin/views/achievements.php:17 ../admin/views/achievements.php:18
+#: ../admin/views/ranks-list.php:70 ../admin/views/register-settings.php:63
+#: ../admin/views/wp_social_login.php:68
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:348
+#: ../classes/Uap_Db.class.php:2524 ../classes/Uap_Db.class.php:2531
+#: ../classes/Uap_Db.class.php:2559 ../classes/Uap_Db.class.php:2564
+#: ../public/views/account_page-reports.php:78
+#: ../public/views/account_page-reports.php:79
+msgid "None"
+msgstr ""
+
+#: ../admin/views/achievements.php:20
+#: ../public/views/account_page-generate_links.php:66
+#: ../public/views/account_page-reports.php:81
+msgid "On"
+msgstr ""
+
+#: ../admin/views/achievements.php:20
+msgid "has moved from "
+msgstr ""
+
+#: ../admin/views/achievements.php:20 ../admin/views/offers-list.php:40
+#: ../public/views/account_page-reports.php:81
+msgid "to"
+msgstr ""
+
+#: ../admin/views/admin_referral_notifications.php:3
+#: ../admin/views/referral_notifications.php:3 ../classes/Uap_Db.class.php:7345
+msgid "Referral Notifications"
+msgstr ""
+
+#: ../admin/views/admin_referral_notifications.php:8
+#: ../admin/views/referral_notifications.php:8
+msgid "Activate/Hold Referral Notifications"
+msgstr ""
+
+#: ../admin/views/admin_referral_notifications.php:9
+msgid ""
+"If this module is activated, admins have the option to receive instant "
+"notifications when an affiliate gets a new referral."
+msgstr ""
+
+#: ../admin/views/admin_referral_notifications.php:21
+#: ../admin/views/referral_notifications.php:21
+msgid "Notification Subject"
+msgstr ""
+
+#: ../admin/views/admin_referral_notifications.php:28
+#: ../admin/views/referral_notifications.php:28
+msgid "Notification Content"
+msgstr ""
+
+#: ../admin/views/admin_referral_notifications.php:33
+#: ../admin/views/referral_notifications.php:33
+msgid "Referral details constants"
+msgstr ""
+
+#: ../admin/views/admin_referral_notifications.php:37
+msgid "WooCommerce Order Details"
+msgstr ""
+
+#: ../admin/views/admin_referral_notifications.php:39
+#: ../admin/views/periodically_reports.php:38
+#: ../admin/views/referral_notifications.php:38
+msgid "Native Fields constants"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:3
+msgid "Affiliate Payment Settings"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:8
+msgid "Payment Type:"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:12
+msgid "Name on Card:"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:13
+msgid "Card Number:"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:14
+msgid "CVC:"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:15
+msgid "Expiration:"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:16
+msgid "Type:"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:21
+msgid "Bank Transfer Details:"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:26
+msgid "PayPal E-mail Address:"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:35
+#: ../classes/Uap_Db.class.php:7803
+msgid "Birth day"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:36
+#: ../classes/Uap_Db.class.php:7804
+msgid "Month"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:37
+#: ../classes/Uap_Db.class.php:7805
+msgid "Year"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:38
+#: ../classes/Uap_Db.class.php:7806
+#: ../public/views/account_page-payment_settings.php:107
+msgid "Country"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:39
+#: ../classes/Uap_Db.class.php:7807
+#: ../public/views/account_page-payment_settings.php:140
+msgid "State"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:40
+#: ../classes/Uap_Db.class.php:7808
+#: ../public/views/account_page-payment_settings.php:145
+msgid "City"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:41
+#: ../classes/Uap_Db.class.php:7809
+msgid "Line1"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:42
+#: ../classes/Uap_Db.class.php:7810
+#: ../public/views/account_page-payment_settings.php:195
+msgid "Postal Code"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:43
+#: ../classes/Uap_Db.class.php:7811
+msgid "User Type"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:44
+#: ../classes/Uap_Db.class.php:7812
+#: ../public/views/account_page-payment_settings.php:155
+msgid "Routing Number"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:45
+#: ../classes/Uap_Db.class.php:7813
+#: ../public/views/account_page-payment_settings.php:160
+msgid "Account Number"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:46
+#: ../classes/Uap_Db.class.php:7814
+msgid "SSN last 4"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:47
+#: ../classes/Uap_Db.class.php:7815
+msgid "Personal id number"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:48
+#: ../classes/Uap_Db.class.php:7816
+msgid "Business name"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:49
+#: ../classes/Uap_Db.class.php:7817
+msgid "Business tax id"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:50
+#: ../classes/Uap_Db.class.php:7818
+msgid "Personal Address City"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:51
+#: ../classes/Uap_Db.class.php:7819
+msgid "Personal Address Line1"
+msgstr ""
+
+#: ../admin/views/affiliate-payment-settings.php:52
+#: ../classes/Uap_Db.class.php:7820
+#: ../public/views/account_page-payment_settings.php:230
+msgid "Personal Address Postal Code"
+msgstr ""
+
+#: ../admin/views/affiliates-add_edit.php:3
+msgid "Add/Edit Affiliate"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:2
+msgid "Listing Affiliates"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:3
+msgid "Add new Affiliate"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:8
+msgid "Add Filters"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:21
+msgid "Search by Name or Username"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:44 ../admin/views/affiliates-list.php:95
+#: ../admin/views/affiliates-list.php:116
+#: ../admin/views/banners-add_edit.php:10 ../admin/views/banners-list.php:14
+#: ../admin/views/banners-list.php:23 ../admin/views/offers-add_edit.php:26
+#: ../admin/views/payment-form.php:80 ../admin/views/payment-form.php:91
+#: ../admin/views/payment-form.php:169 ../admin/views/payment-form.php:180
+#: ../classes/Uap_Payments_Export.class.php:98
+#: ../public/views/account_page-campaign_reports.php:15
+#: ../public/views/account_page-campaign_reports.php:23
+msgid "Name"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:45
+#: ../admin/views/checkout_select_referral.php:50
+#: ../admin/views/custom_affiliate_slug.php:84
+#: ../admin/views/custom_affiliate_slug.php:91
+#: ../admin/views/offers-add_edit.php:107 ../admin/views/opt_in.php:305
+#: ../admin/views/opt_in.php:377 ../admin/views/payment-form.php:79
+#: ../admin/views/payment-form.php:90 ../admin/views/payment-form.php:168
+#: ../admin/views/payment-form.php:179 ../admin/views/transactions.php:65
+#: ../admin/views/transactions.php:77
+#: ../public/views/account_page-generate_links.php:73
+#: ../public/views/login_form.php:36 ../public/views/login_form.php:89
+#: ../public/views/login_form.php:145 ../public/views/login_form.php:197
+#: ../public/views/login_form.php:253 ../public/views/login_form.php:311
+#: ../public/views/login_form.php:369 ../public/views/login_form.php:423
+#: ../public/views/login_form.php:479 ../public/views/login_form.php:534
+msgid "Username"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:46
+msgid "Email"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:47 ../admin/views/referrals-list.php:62
+#: ../admin/views/referrals-list.php:76
+msgid "ID"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:48
+msgid "Registered Time"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:51
+msgid "ASC"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:52
+msgid "DESC"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:65
+msgid "Number of Users to Display:"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:84
+msgid "Update Rank"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:93 ../admin/views/affiliates-list.php:114
+msgid "Affiliate ID"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:94 ../admin/views/affiliates-list.php:115
+#: ../admin/views/top_affiliates.php:76
+msgid "UserName"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:97 ../admin/views/affiliates-list.php:118
+#: ../admin/views/payment-form.php:83 ../admin/views/payment-form.php:94
+#: ../admin/views/payment-form.php:172 ../admin/views/payment-form.php:183
+msgid "Rank"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:99 ../admin/views/affiliates-list.php:120
+#: ../admin/views/visits.php:89 ../public/views/account_page-list_visits.php:28
+#: ../public/views/account_page-list_visits.php:37
+msgid "Converted"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:101
+#: ../admin/views/affiliates-list.php:122 ../admin/views/payments.php:87
+#: ../admin/views/payments.php:97 ../admin/views/reports.php:30
+msgid "Paid Amount"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:102
+#: ../admin/views/affiliates-list.php:123 ../admin/views/reports.php:40
+msgid "UnPaid Amount"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:103
+#: ../admin/views/affiliates-list.php:124
+msgid "Wp Role"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:105
+#: ../admin/views/affiliates-list.php:126
+msgid "E-mail Status"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:107
+#: ../admin/views/affiliates-list.php:128
+msgid "Affiliate Since"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:108
+#: ../admin/views/affiliates-list.php:129
+msgid "Details"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:148 ../admin/views/payment-form.php:38
+#: ../admin/views/payments_list_all_unpaid.php:54
+#: ../classes/Uap_Db.class.php:6008 ../classes/Uap_Db.class.php:7224
+msgid "PayPal"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:156 ../admin/views/payment-form.php:42
+#: ../admin/views/payment-form.php:116 ../admin/views/payment-form.php:207
+#: ../admin/views/payments.php:124
+#: ../admin/views/payments_list_all_unpaid.php:60
+#: ../admin/views/transactions.php:20 ../classes/Uap_Db.class.php:6007
+#: ../classes/Uap_Payments_Export.class.php:145
+msgid "Bank Transfer"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:164 ../admin/views/payment-form.php:46
+#: ../admin/views/payments_list_all_unpaid.php:66
+#: ../admin/views/transactions.php:22 ../classes/Uap_Db.class.php:6009
+#: ../classes/Uap_Db.class.php:7233
+msgid "Stripe"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:172 ../admin/views/payment-form.php:51
+msgid "Stripe V2"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:184 ../admin/views/coupons-list.php:53
+#: ../admin/views/landing_commissions-list.php:29
+#: ../admin/views/lifetime_commissions.php:82
+#: ../admin/views/notifications-list.php:52 ../admin/views/offers-list.php:27
+#: ../admin/views/ranks-list.php:35 ../admin/views/referrals-list.php:99
+msgid "Edit"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:186
+msgid "Approve Affiliate"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:190
+msgid "Approve E-mail"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:203
+#: ../admin/views/affiliates-list.php:214
+#: ../admin/views/affiliates-list.php:220 ../admin/views/payments.php:150
+#: ../admin/views/payments.php:158 ../admin/views/payments.php:176
+#: ../public/views/account_page-referrals.php:57
+msgid "View"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:226
+msgid "Proceed"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:226 ../admin/views/payments.php:169
+msgid "Pay All"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:238
+msgid "Unapproved"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:251 ../admin/views/transactions.php:2
+msgid "Transactions"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:253 ../admin/views/mlm.php:20
+msgid "MLM Matrix"
+msgstr ""
+
+#: ../admin/views/affiliates-list.php:271
+msgid "No Affiliates Stored!"
+msgstr ""
+
+#: ../admin/views/allow_own_referrence.php:3
+msgid "Allow Own Referrence"
+msgstr ""
+
+#: ../admin/views/allow_own_referrence.php:7
+msgid "Activate/Hold Allow Own Referrence"
+msgstr ""
+
+#: ../admin/views/allow_own_referrence.php:8
+msgid ""
+"Affiliates will be able to earn a commission on their own purchases via "
+"their own referral links."
+msgstr ""
+
+#: ../admin/views/banners-add_edit.php:4
+msgid "Manage Banners"
+msgstr ""
+
+#: ../admin/views/banners-add_edit.php:20
+#: ../admin/views/referral_list_details.php:27
+#: ../admin/views/referrals-add_edit.php:32
+#: ../public/views/account_page-banners.php:20
+msgid "Description:"
+msgstr ""
+
+#: ../admin/views/banners-add_edit.php:21 ../admin/views/ranks-add_edit.php:49
+msgid "Some details..."
+msgstr ""
+
+#: ../admin/views/banners-add_edit.php:28
+msgid "Banner Options:"
+msgstr ""
+
+#: ../admin/views/banners-add_edit.php:29
+msgid ""
+"Predefined URL And Image for your Custom Banner available for Affiliates"
+msgstr ""
+
+#: ../admin/views/banners-add_edit.php:31
+msgid "URL:"
+msgstr ""
+
+#: ../admin/views/banners-add_edit.php:34
+msgid "Banner Image:"
+msgstr ""
+
+#: ../admin/views/banners-add_edit.php:37
+msgid "Remove Banner Image"
+msgstr ""
+
+#: ../admin/views/banners-list.php:2
+msgid "Listing Banners"
+msgstr ""
+
+#: ../admin/views/banners-list.php:3
+msgid "Add New Banner"
+msgstr ""
+
+#: ../admin/views/banners-list.php:4
+msgid "...create Banners for your Affiliates"
+msgstr ""
+
+#: ../admin/views/banners-list.php:15 ../admin/views/banners-list.php:24
+msgid "Image"
+msgstr ""
+
+#: ../admin/views/banners-list.php:16 ../admin/views/banners-list.php:25
+#: ../admin/views/pushover.php:40 ../admin/views/visits.php:46
+#: ../admin/views/visits.php:59
+msgid "URL"
+msgstr ""
+
+#: ../admin/views/banners-list.php:17 ../admin/views/banners-list.php:26
+msgid "Create Time"
+msgstr ""
+
+#: ../admin/views/banners-list.php:54
+msgid "No Banners Available!"
+msgstr ""
+
+#: ../admin/views/bonus_on_rank.php:3 ../classes/Uap_Db.class.php:7273
+msgid "Bonus On Ranks"
+msgstr ""
+
+#: ../admin/views/bonus_on_rank.php:7
+msgid "Activate/Hold Bonus On Ranks"
+msgstr ""
+
+#: ../admin/views/bonus_on_rank.php:8
+msgid ""
+"Affiliates will receive a bonus flat amount each time they will reach a "
+"specific rank."
+msgstr ""
+
+#: ../admin/views/bonus_on_rank.php:23 ../admin/views/sign_up_referrals.php:49
+msgid "Amount For Each Rank"
+msgstr ""
+
+#: ../admin/views/bonus_on_rank.php:24
+msgid ""
+"Set a special bonus amount for each rank. This option will also become "
+"available in the “Rank Settings” page."
+msgstr ""
+
+#: ../admin/views/bonus_on_rank.php:41 ../admin/views/sign_up_referrals.php:32
+msgid "Default Referral Status"
+msgstr ""
+
+#: ../admin/views/bp_account_page.php:3
+msgid "BuddyPress Account Page"
+msgstr ""
+
+#: ../admin/views/bp_account_page.php:8 ../admin/views/woo_account_page.php:8
+msgid "Activate/Hold Affiliate Section"
+msgstr ""
+
+#: ../admin/views/bp_account_page.php:9
+msgid ""
+"Fully integrate a user’s “Affiliate Account” in their “BuddyPress Profile”. "
+"Once activated, a new tab in their “BuddyPress” menu will show up."
+msgstr ""
+
+#: ../admin/views/bp_account_page.php:31 ../admin/views/woo_account_page.php:31
+msgid "Menu Position"
+msgstr ""
+
+#: ../admin/views/bp_account_page.php:39 ../admin/views/woo_account_page.php:39
+msgid "Non-Affiliate Users"
+msgstr ""
+
+#: ../admin/views/bp_account_page.php:40 ../admin/views/woo_account_page.php:40
+msgid ""
+"Even the non-affiliate users will see the new option but instead of "
+"“Affiliate Account Page”, custom content will show up."
+msgstr ""
+
+#: ../admin/views/bp_account_page.php:52 ../admin/views/woo_account_page.php:52
+msgid "Custom Content for Non-Affiliate Users:"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:3
+#: ../classes/Uap_Db.class.php:7321
+msgid "Fair Checkout Reward"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:7
+msgid "Activate/Hold  Checkout Reward"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:8
+msgid ""
+"Once activated the customer will have the option to select an affiliate for "
+"commission during the checkout process."
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:22
+msgid "Form Label field"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:23
+msgid ""
+"The label name for the additional field available inside the checkout form."
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:34
+msgid "Field Settings"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:36
+msgid "Selection Type"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:38
+msgid "Client select Affiliate from list"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:38
+msgid "Client write the Username of Affiliate"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:47
+msgid "Affiliate Name Display"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:48
+msgid "How affiliates will be displayed."
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:50
+msgid "Display Name"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:50
+msgid "User Nicename"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:63
+msgid "Affiliate List"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:64
+msgid ""
+"Choose specific affiliates to show up in checkout selection if you do not "
+"want to display all of them."
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:74
+#: ../admin/views/offers-add_edit.php:118
+msgid "Removing tag"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:89 ../admin/views/qr_code.php:21
+msgid "Additional Settings"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:91
+msgid "Rewrite current Affiliate"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:92
+msgid ""
+"If there is an affiliate already assigned for the current visitor/customer "
+"this one can be ignored. If not, the checkout option will not show up."
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:103
+msgid "Require select Affiliate"
+msgstr ""
+
+#: ../admin/views/checkout_select_referral.php:104
+msgid ""
+"Force the customer to select an affiliate to continue the checkout process. "
+"The additional field will be set as required."
+msgstr ""
+
+#: ../admin/views/coupons-add_edit.php:5
+msgid "Add/Edit Coupons"
+msgstr ""
+
+#: ../admin/views/coupons-add_edit.php:11 ../admin/views/offers-add_edit.php:74
+#: ../public/views/account_page-coupons.php:14
+#: ../public/views/account_page-coupons.php:21
+msgid "Source"
+msgstr ""
+
+#: ../admin/views/coupons-add_edit.php:23 ../public/views/wallet.php:41
+msgid "Coupon Code"
+msgstr ""
+
+#: ../admin/views/coupons-add_edit.php:28 ../admin/views/coupons-list.php:36
+#: ../admin/views/coupons-list.php:44
+#: ../admin/views/custom_affiliate_slug.php:62
+#: ../admin/views/payments_list_all_paid.php:19
+#: ../admin/views/payments_list_all_paid.php:28
+#: ../admin/views/payments_list_all_unpaid.php:20
+#: ../admin/views/payments_list_all_unpaid.php:29
+#: ../admin/views/referrals-list.php:61 ../admin/views/referrals-list.php:75
+#: ../admin/views/simple_links.php:48 ../admin/views/simple_links.php:91
+#: ../admin/views/simple_links.php:99 ../classes/Uap_Db.class.php:1933
+#: ../classes/Uap_Db.class.php:1942 ../utilities.php:1024
+msgid "Affiliate"
+msgstr ""
+
+#: ../admin/views/coupons-add_edit.php:41
+msgid "Activate/Hold Coupon"
+msgstr ""
+
+#: ../admin/views/coupons-add_edit.php:42
+msgid "Activate or deactivate a coupon without needing to delete it."
+msgstr ""
+
+#: ../admin/views/coupons-add_edit.php:55
+msgid "Coupon Amount"
+msgstr ""
+
+#: ../admin/views/coupons-add_edit.php:56
+msgid ""
+"A special amount for this specific coupon needs to be set which will replace "
+"the standard amount rank."
+msgstr ""
+
+#: ../admin/views/coupons-add_edit.php:68
+#: ../admin/views/landing_commissions-add_edit.php:41 ../admin/views/mlm.php:98
+#: ../admin/views/offers-add_edit.php:49 ../admin/views/ranks-add_edit.php:88
+#: ../admin/views/ranks-add_edit.php:129 ../admin/views/ranks-add_edit.php:266
+#: ../admin/views/ranks-add_edit.php:299 ../admin/views/ranks-add_edit.php:323
+msgid "Value"
+msgstr ""
+
+#: ../admin/views/coupons-list.php:3
+msgid "Affiliates Coupons"
+msgstr ""
+
+#: ../admin/views/coupons-list.php:7
+msgid "Activate/Hold Coupons option for your Affiliates"
+msgstr ""
+
+#: ../admin/views/coupons-list.php:8 ../admin/views/lifetime_commissions.php:8
+#: ../admin/views/reccuring_referrals.php:8
+#: ../admin/views/sign_up_referrals.php:8
+msgid "You can activate this option to take place in your affiliate system."
+msgstr ""
+
+#: ../admin/views/coupons-list.php:26
+msgid "Listing Coupons"
+msgstr ""
+
+#: ../admin/views/coupons-list.php:27
+msgid "Add new Coupon"
+msgstr ""
+
+#: ../admin/views/coupons-list.php:34 ../admin/views/coupons-list.php:42
+msgid "Coupon"
+msgstr ""
+
+#: ../admin/views/coupons-list.php:35 ../admin/views/coupons-list.php:43
+#: ../public/views/account_page-payment_settings.php:71
+#: ../public/views/account_page-payment_settings.php:92
+#: ../public/views/wallet.php:42
+msgid "Type"
+msgstr ""
+
+#: ../admin/views/coupons-list.php:37 ../admin/views/coupons-list.php:45
+#: ../admin/views/ranks-list.php:18 ../admin/views/ranks-list.php:26
+#: ../admin/views/referrals-list.php:68 ../admin/views/referrals-list.php:82
+#: ../admin/views/simple_links.php:93 ../admin/views/simple_links.php:101
+#: ../admin/views/transactions.php:71 ../admin/views/transactions.php:83
+#: ../admin/views/visits.php:50 ../admin/views/visits.php:63
+#: ../public/views/account_page-payments.php:26
+#: ../public/views/account_page-payments.php:35
+#: ../public/views/account_page-referrals.php:36
+#: ../public/views/account_page-referrals_history.php:23
+#: ../public/views/account_page-simple_links.php:32
+#: ../public/views/account_page-simple_links.php:39
+msgid "Status"
+msgstr ""
+
+#: ../admin/views/coupons-list.php:58
+msgid "Enabled"
+msgstr ""
+
+#: ../admin/views/coupons-list.php:59
+msgid "Disabled"
+msgstr ""
+
+#: ../admin/views/custom_affiliate_slug.php:7 ../classes/Uap_Db.class.php:1744
+#: ../classes/Uap_Db.class.php:7305 ../classes/Uap_Db.class.php:8102
+#: ../public/views/account_page-generate_links.php:79
+#: ../public/views/account_page-header.php:110
+msgid "Custom Affiliate Slug"
+msgstr ""
+
+#: ../admin/views/custom_affiliate_slug.php:11
+msgid "Activate/Hold Custom Affiliate Slug"
+msgstr ""
+
+#: ../admin/views/custom_affiliate_slug.php:12
+msgid ""
+"Provides personal slugs besides the default username or ID so affiliates can "
+"hide their identity or company name behind a custom slug."
+msgstr ""
+
+#: ../admin/views/custom_affiliate_slug.php:23
+msgid ""
+"Establish conditional requirements when affiliates want to set their "
+"personal custom slug. Hint: The custom slug is unique and future users may "
+"not register it as their username or custom slug."
+msgstr ""
+
+#: ../admin/views/custom_affiliate_slug.php:29
+msgid "Minimum number of characters"
+msgstr ""
+
+#: ../admin/views/custom_affiliate_slug.php:33
+msgid "Maximum number of characters"
+msgstr ""
+
+#: ../admin/views/custom_affiliate_slug.php:37
+msgid "Slug characters rule"
+msgstr ""
+
+#: ../admin/views/custom_affiliate_slug.php:39
+#: ../admin/views/register-settings.php:122
+msgid "Standard"
+msgstr ""
+
+#: ../admin/views/custom_affiliate_slug.php:39
+#: ../admin/views/register-settings.php:123
+msgid "Characters and digits"
+msgstr ""
+
+#: ../admin/views/custom_affiliate_slug.php:39
+#: ../admin/views/register-settings.php:124
+msgid "Characters, digits, minimum one uppercase letter"
+msgstr ""
+
+#: ../admin/views/custom_affiliate_slug.php:56
+msgid "Add/Edit Slug"
+msgstr ""
+
+#: ../admin/views/custom_affiliate_slug.php:60
+msgid ""
+"You can add or edit a custom slug for a specific affiliate from your side."
+msgstr ""
+
+#: ../admin/views/custom_affiliate_slug.php:86
+#: ../admin/views/custom_affiliate_slug.php:93
+#: ../admin/views/notifications-list.php:15
+#: ../admin/views/notifications-list.php:26 ../admin/views/simple_links.php:94
+#: ../admin/views/simple_links.php:102 ../admin/views/transactions.php:72
+#: ../admin/views/transactions.php:84
+#: ../public/views/account_page-simple_links.php:33
+#: ../public/views/account_page-simple_links.php:40
+msgid "Action"
+msgstr ""
+
+#: ../admin/views/dashboard.php:5
+msgid "Dashboard Overall"
+msgstr ""
+
+#: ../admin/views/dashboard.php:14 ../admin/views/payments.php:11
+#: ../admin/views/reports.php:50
+msgid "Total Affiliates"
+msgstr ""
+
+#: ../admin/views/dashboard.php:24 ../admin/views/payments.php:21
+#: ../admin/views/reports.php:60
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:43
+#: ../public/views/account_page-overview.php:11
+msgid "Total Referrals"
+msgstr ""
+
+#: ../admin/views/dashboard.php:34 ../admin/views/payments.php:31
+msgid "Total UnPaid Referrals"
+msgstr ""
+
+#: ../admin/views/dashboard.php:44
+msgid "Top Rank"
+msgstr ""
+
+#: ../admin/views/dashboard.php:56
+msgid "Total Affiliates per Rank"
+msgstr ""
+
+#: ../admin/views/dashboard.php:65
+msgid "Last 5 Referrals"
+msgstr ""
+
+#: ../admin/views/dashboard.php:69
+msgid " for "
+msgstr ""
+
+#: ../admin/views/dashboard.php:69
+msgid " on "
+msgstr ""
+
+#: ../admin/views/dashboard.php:81
+msgid "Top"
+msgstr ""
+
+#: ../admin/views/dashboard.php:87
+msgid "Total Amount"
+msgstr ""
+
+#: ../admin/views/edit_affiliate_referral_relation.php:3
+#: ../admin/views/lifetime_commissions.php:3 ../classes/Uap_Db.class.php:7199
+msgid "LifeTime Commissions"
+msgstr ""
+
+#: ../admin/views/edit_affiliate_referral_relation.php:6
+msgid "Referral Username:"
+msgstr ""
+
+#: ../admin/views/edit_affiliate_referral_relation.php:10
+msgid "Affiliate Username:"
+msgstr ""
+
+#: ../admin/views/edit_wp_user.php:3
+msgid "Become Affiliate"
+msgstr ""
+
+#: ../admin/views/edit_wp_user.php:6
+msgid "Already registered as Affiliate."
+msgstr ""
+
+#: ../admin/views/edit_wp_user.php:8
+msgid "Remove from Affiliates list"
+msgstr ""
+
+#: ../admin/views/edit_wp_user.php:11
+msgid "Make This User Affiliate"
+msgstr ""
+
+#: ../admin/views/email_verification.php:3 ../classes/Uap_Db.class.php:7377
+msgid "E-mail Verification"
+msgstr ""
+
+#: ../admin/views/email_verification.php:7
+msgid "Activate/Hold Email Verification"
+msgstr ""
+
+#: ../admin/views/email_verification.php:8
+msgid ""
+"Requires the email address for new Affiliates to be verified before they "
+"will be able to login. If the email address is not confirmed, the user "
+"account may be automatically deleted after a certain time."
+msgstr ""
+
+#: ../admin/views/email_verification.php:17
+msgid ""
+"Be sure that your notifications for “<strong>Double Email Verification</"
+"strong>” are properly set."
+msgstr ""
+
+#: ../admin/views/email_verification.php:27
+msgid "Activation Link Expire Time:"
+msgstr ""
+
+#: ../admin/views/email_verification.php:49
+msgid "Success Redirect:"
+msgstr ""
+
+#: ../admin/views/email_verification.php:65
+msgid "Error Redirect:"
+msgstr ""
+
+#: ../admin/views/email_verification.php:81
+msgid "Delete User if is not verified:"
+msgstr ""
+
+#: ../admin/views/empty_progress_bar.php:3
+msgid "Do not refresh or leave this page until the process it's over!"
+msgstr ""
+
+#: ../admin/views/friendly_links.php:3
+msgid "Friendly Links"
+msgstr ""
+
+#: ../admin/views/friendly_links.php:7
+msgid "Activate/Hold Friendly Affiliate Links"
+msgstr ""
+
+#: ../admin/views/friendly_links.php:8
+msgid ""
+"Affiliates will be able to use friendly links instead of the default one. "
+"They have a better looking structure and are easier to read. Ex: www."
+"yourwebsite.com/ref/smith"
+msgstr ""
+
+#: ../admin/views/friendly_links.php:18
+msgid ""
+"This feature is recommended only when the referral format is based on "
+"username. Affiliates will not be able to build custom links into a friendly "
+"structure with variables inside. Ex: ?order=true"
+msgstr ""
+
+#: ../admin/views/friendly_links.php:19
+msgid "Refreshing the WP permalinks may be required."
+msgstr ""
+
+#: ../admin/views/global_errors.php:2
+msgid ""
+"<p>This is a Trial Version of <strong>Ultimate Affiliate Pro</strong> "
+"plugin. Please add your purchase code into Licence section to enable the "
+"Full Ultimate Affiliate Pro Version. Check your "
+msgstr ""
+
+#: ../admin/views/global_errors.php:2
+msgid "licence section"
+msgstr ""
+
+#: ../admin/views/header.php:3
+msgid "Are you sure you want to delete this Referral?"
+msgstr ""
+
+#: ../admin/views/header.php:4
+msgid "Delete This "
+msgstr ""
+
+#: ../admin/views/header.php:5
+msgid "Delete selected Affiliates"
+msgstr ""
+
+#: ../admin/views/header.php:6
+msgid ""
+"An E-mail was sent to your Admin address. Check your inbox or Spam/Junk "
+"Folder!"
+msgstr ""
+
+#: ../admin/views/help.php:6
+msgid "Activate Ultimate Affiliate Pro"
+msgstr ""
+
+#: ../admin/views/help.php:11
+msgid "cURL is disabled. You need to enable if for further activation request."
+msgstr ""
+
+#: ../admin/views/help.php:14
+msgid "Purchase Code"
+msgstr ""
+
+#: ../admin/views/help.php:20
+msgid "Activate"
+msgstr ""
+
+#: ../admin/views/help.php:27
+msgid "You've activated the Ultimate Affiliate Pro plugin!"
+msgstr ""
+
+#: ../admin/views/help.php:31
+msgid ""
+"You have entered an invalid purchase code or the Envato API could be down "
+"for a moment."
+msgstr ""
+
+#: ../admin/views/help.php:37
+msgid "A valid purchase code Activate the Full Version of"
+msgstr ""
+
+#: ../admin/views/help.php:37
+msgid ""
+"plugin and provides access on support system. A purchase code can only be "
+"used for "
+msgstr ""
+
+#: ../admin/views/help.php:37
+msgid "ONE"
+msgstr ""
+
+#: ../admin/views/help.php:37
+msgid "for WordPress installation on"
+msgstr ""
+
+#: ../admin/views/help.php:37
+msgid ""
+"WordPress site at a time. If you previosly activated your purchase code on "
+"another website, then you have to get a"
+msgstr ""
+
+#: ../admin/views/help.php:37
+msgid "new Licence"
+msgstr ""
+
+#: ../admin/views/help.php:38
+msgid "Where can I find my Purchase Code?"
+msgstr ""
+
+#: ../admin/views/help.php:50
+msgid "Contact Support"
+msgstr ""
+
+#: ../admin/views/help.php:55
+msgid ""
+"In order to contact Indeed support team you need to create a ticket "
+"providing all the necessary details via our support system:"
+msgstr ""
+
+#: ../admin/views/help.php:58
+msgid "Submit Ticket"
+msgstr ""
+
+#: ../admin/views/help.php:67
+msgid "Documentation"
+msgstr ""
+
+#: ../admin/views/import_export.php:4 ../admin/views/import_export.php:29
+msgid "Export"
+msgstr ""
+
+#: ../admin/views/import_export.php:9
+msgid "Users"
+msgstr ""
+
+#: ../admin/views/import_export.php:39 ../admin/views/import_export.php:47
+msgid "Import"
+msgstr ""
+
+#: ../admin/views/import_export.php:42
+msgid "File"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:5
+msgid "Landing Commission Shortcode"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:10
+msgid "Activate/Hold Shortcode"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:11
+msgid "Activate or deactivate a shortcode without needing to delete it."
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:27
+msgid "unique slug"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:29
+msgid ""
+"Be sure that you set a Unique Slug based only on lowercase characters and no "
+"additional symbols or spaces"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:38
+msgid "Commission Price"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:39
+msgid ""
+"Based on the landing commission price, the referral amount will be "
+"calculated depending on each affiliate rank amount."
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:45
+msgid "Additional dynamic Workflow"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:46
+msgid ""
+"You can come out with a Dynamic reference Price via GET or POST if the  "
+"\"lc_amount\" variable is sent where the Landing Commission shortcode is set."
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:53
+msgid "Referral Default Status"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:73
+msgid "Source Name"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:84
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:59
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:61
+msgid "Referral Description"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:93
+msgid "Cookie Expire Time"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:94
+msgid "Set time interval"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:97
+msgid "Hours"
+msgstr ""
+
+#: ../admin/views/landing_commissions-add_edit.php:106
+msgid "Color"
+msgstr ""
+
+#: ../admin/views/landing_commissions-list.php:3
+msgid "Add New Landing Commission"
+msgstr ""
+
+#: ../admin/views/landing_commissions-list.php:4
+msgid "...create your Landing Commission Shortcode"
+msgstr ""
+
+#: ../admin/views/landing_commissions-list.php:11
+msgid ""
+"Just copy the landing commission shortcode into any successful page (ex: "
+"Thank You Register page) and the affiliate will receive a certain commission "
+"based on generated referral."
+msgstr ""
+
+#: ../admin/views/landing_commissions-list.php:25
+msgid "Source Name:"
+msgstr ""
+
+#: ../admin/views/landing_commissions-list.php:52
+msgid "No Shortcode to show. Please, add your first Shortcode. "
+msgstr ""
+
+#: ../admin/views/lifetime_commissions.php:7
+msgid "Activate/Hold LifeTime Commissions"
+msgstr ""
+
+#: ../admin/views/lifetime_commissions.php:23
+msgid "LifeTime Amount For Each Rank"
+msgstr ""
+
+#: ../admin/views/lifetime_commissions.php:24
+msgid ""
+"Set a special lifetime amount for each rank that will replace the default "
+"amount rank. This option will also become available in the “Rank Settings” "
+"page."
+msgstr ""
+
+#: ../admin/views/lifetime_commissions.php:27
+#: ../admin/views/reccuring_referrals.php:25
+msgid "Rank Name"
+msgstr ""
+
+#: ../admin/views/lifetime_commissions.php:28
+#: ../admin/views/reccuring_referrals.php:26
+msgid "Default Amount Rank"
+msgstr ""
+
+#: ../admin/views/lifetime_commissions.php:29
+msgid "LifeTime Amount"
+msgstr ""
+
+#: ../admin/views/lifetime_commissions.php:62
+msgid "Search Lifetime User-Affiliates"
+msgstr ""
+
+#: ../admin/views/lifetime_commissions.php:66
+#: ../admin/views/lifetime_commissions.php:74 ../admin/views/mlm.php:154
+#: ../admin/views/simple_links.php:75 ../admin/views/visits.php:44
+#: ../admin/views/visits.php:57
+msgid "Affiliate Username"
+msgstr ""
+
+#: ../admin/views/lifetime_commissions.php:67
+#: ../admin/views/lifetime_commissions.php:75
+msgid "Referral Username"
+msgstr ""
+
+#: ../admin/views/lifetime_commissions.php:76
+msgid "Actions"
+msgstr ""
+
+#: ../admin/views/login-custom_messages.php:3
+msgid "Messages:"
+msgstr ""
+
+#: ../admin/views/login-custom_messages.php:6
+msgid "Login Messages"
+msgstr ""
+
+#: ../admin/views/login-custom_messages.php:8
+#: ../admin/views/login-custom_messages.php:28
+msgid "Successfully Message:"
+msgstr ""
+
+#: ../admin/views/login-custom_messages.php:12
+msgid "Default message for pending users:"
+msgstr ""
+
+#: ../admin/views/login-custom_messages.php:16
+#: ../admin/views/login-custom_messages.php:33
+#: ../admin/views/login-custom_messages.php:38
+#: ../admin/views/register-custom_fields_add_edit.php:61
+msgid "Error Message:"
+msgstr ""
+
+#: ../admin/views/login-custom_messages.php:20
+msgid "E-mail Pending:"
+msgstr ""
+
+#: ../admin/views/login-custom_messages.php:26
+msgid "Reset Password Messages"
+msgstr ""
+
+#: ../admin/views/login.php:2 ../admin/views/popup-shortcodes.php:11
+#: ../admin/views/shortcodes.php:9 ../admin/views/showcases.php:13
+#: ../indeed-affiliate-pro.php:191
+msgid "Login Form"
+msgstr ""
+
+#: ../admin/views/login.php:12
+msgid "Showcase Display"
+msgstr ""
+
+#: ../admin/views/login.php:15
+msgid "Login Template:"
+msgstr ""
+
+#: ../admin/views/login.php:37
+msgid "Additional Display Options"
+msgstr ""
+
+#: ../admin/views/login.php:42 ../public/views/login_form.php:46
+#: ../public/views/login_form.php:111 ../public/views/login_form.php:154
+#: ../public/views/login_form.php:209 ../public/views/login_form.php:287
+#: ../public/views/login_form.php:323 ../public/views/login_form.php:378
+#: ../public/views/login_form.php:432 ../public/views/login_form.php:488
+#: ../public/views/login_form.php:544
+msgid "Remember Me"
+msgstr ""
+
+#: ../admin/views/login.php:47
+msgid "Register Link"
+msgstr ""
+
+#: ../admin/views/login.php:51
+msgid "Lost your password"
+msgstr ""
+
+#: ../admin/views/login.php:56
+msgid "Show ReCaptcha"
+msgstr ""
+
+#: ../admin/views/login.php:65 ../admin/views/top_affiliates_settings.php:59
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/views/max_amount.php:3 ../classes/Uap_Db.class.php:7417
+msgid "Maximum Amount"
+msgstr ""
+
+#: ../admin/views/max_amount.php:8
+msgid "Activate/Hold Maximum Amount"
+msgstr ""
+
+#: ../admin/views/max_amount.php:9
+msgid ""
+"Set a maximum amount that can not be passed for a referral. It is a safety "
+"limit decided by the Admin for avoiding big referrals that have to be paid."
+msgstr ""
+
+#: ../admin/views/max_amount.php:24
+msgid "Default Amount Limit"
+msgstr ""
+
+#: ../admin/views/max_amount.php:25
+msgid ""
+"Set the default flat amount limit that will be used when no special limit is "
+"set for a certain rank."
+msgstr ""
+
+#: ../admin/views/max_amount.php:27
+msgid "Max Amount Limit"
+msgstr ""
+
+#: ../admin/views/max_amount.php:39
+msgid "Max Amount Limit for Each Rank"
+msgstr ""
+
+#: ../admin/views/max_amount.php:40
+msgid ""
+"Set a special max amount limit for each rank. This option will also become "
+"available in the “Rank Settings” page."
+msgstr ""
+
+#: ../admin/views/migrate_affiliate_wp.php:8
+#: ../admin/views/migrate_affiliates_pro.php:8
+#: ../admin/views/migrate_wp_affiliates.php:8
+msgid "Assign rank:"
+msgstr ""
+
+#: ../admin/views/migrate_affiliate_wp.php:19
+#: ../admin/views/migrate_affiliates_pro.php:19
+#: ../admin/views/migrate_wp_affiliates.php:19
+msgid "Trigger"
+msgstr ""
+
+#: ../admin/views/migrate_affiliate_wp.php:35
+#: ../admin/views/migrate_affiliates_pro.php:35
+#: ../admin/views/migrate_wp_affiliates.php:35
+msgid "Process completed!"
+msgstr ""
+
+#: ../admin/views/mlm-view_affiliate_children.php:2
+msgid "Display MLM Matrix"
+msgstr ""
+
+#: ../admin/views/mlm-view_affiliate_children.php:40
+#: ../public/views/account_page-mlm.php:48
+#: ../public/views/account_page-mlm.php:56
+msgid "Subaffiliate"
+msgstr ""
+
+#: ../admin/views/mlm-view_affiliate_children.php:41 ../admin/views/mlm.php:104
+#: ../admin/views/mlm.php:134 ../admin/views/ranks-add_edit.php:322
+#: ../admin/views/ranks-add_edit.php:329
+#: ../public/views/account_page-mlm.php:50
+#: ../public/views/account_page-mlm.php:58
+msgid "Level"
+msgstr ""
+
+#: ../admin/views/mlm-view_affiliate_children.php:42
+#: ../admin/views/payment-form.php:85 ../admin/views/payment-form.php:96
+#: ../admin/views/payment-form.php:174 ../admin/views/payment-form.php:185
+#: ../admin/views/payments_list_all_paid.php:21
+#: ../admin/views/payments_list_all_paid.php:30
+#: ../admin/views/payments_list_all_unpaid.php:22
+#: ../admin/views/payments_list_all_unpaid.php:31
+#: ../admin/views/ranks-list.php:16 ../admin/views/ranks-list.php:24
+#: ../admin/views/referrals-list.php:66 ../admin/views/referrals-list.php:80
+#: ../admin/views/transactions.php:66 ../admin/views/transactions.php:78
+#: ../classes/Uap_Payments_Export.class.php:100
+#: ../public/views/account_page-coupons.php:15
+#: ../public/views/account_page-coupons.php:22
+#: ../public/views/account_page-mlm.php:51
+#: ../public/views/account_page-mlm.php:59
+#: ../public/views/account_page-payments.php:22
+#: ../public/views/account_page-payments.php:31
+#: ../public/views/account_page-referrals.php:29
+#: ../public/views/account_page-referrals_history.php:18
+#: ../public/views/wallet-add_new.php:30 ../public/views/wallet.php:43
+msgid "Amount"
+msgstr ""
+
+#: ../admin/views/mlm-view_affiliate_children.php:54
+#: ../public/views/account_page-mlm.php:73
+msgid "No Children Yet!"
+msgstr ""
+
+#: ../admin/views/mlm.php:3
+msgid "Multi-Level Marketing"
+msgstr ""
+
+#: ../admin/views/mlm.php:7
+msgid "Activate/Hold Multi-Level Marketing"
+msgstr ""
+
+#: ../admin/views/mlm.php:8
+msgid ""
+"You can activate this option to take in place into your Affiliate system."
+msgstr ""
+
+#: ../admin/views/mlm.php:21
+msgid "There are multiple ways the MLM system may work."
+msgstr ""
+
+#: ../admin/views/mlm.php:34
+msgid "Matrix Options"
+msgstr ""
+
+#: ../admin/views/mlm.php:37
+msgid "Children Limit"
+msgstr ""
+
+#: ../admin/views/mlm.php:41
+msgid "Matrix Depth(Levels)"
+msgstr ""
+
+#: ../admin/views/mlm.php:49
+msgid "MLM Worflow Concept"
+msgstr ""
+
+#: ../admin/views/mlm.php:50
+msgid ""
+"By default, a MLM system rewards the uplines affiliates based on the main "
+"affiliate referral amount, no matter the source of the Referral. An "
+"additional workflow is available and let you relate the MLM rewards directly "
+"to Product price/Order amount when the main Referral is based on a purchased "
+"from integrated Systems (WooCommerce, Ultimate Membership Pro, EDD)"
+msgstr ""
+
+#: ../admin/views/mlm.php:54
+msgid "Child Referral amount"
+msgstr ""
+
+#: ../admin/views/mlm.php:55
+msgid "Product Price"
+msgstr ""
+
+#: ../admin/views/mlm.php:71 ../admin/views/sign_up_referrals.php:21
+msgid "Default Amount"
+msgstr ""
+
+#: ../admin/views/mlm.php:72
+msgid ""
+"Set the default amount that will be used when no special amount is set for a "
+"certain rank."
+msgstr ""
+
+#: ../admin/views/mlm.php:92
+msgid "Amount For Each Level"
+msgstr ""
+
+#: ../admin/views/mlm.php:93
+msgid ""
+"Set a special MLM amount for each level of your ranks. This option will also "
+"become available in the “Rank Settings” page."
+msgstr ""
+
+#: ../admin/views/mlm.php:97
+msgid "#"
+msgstr ""
+
+#: ../admin/views/mlm.php:150
+msgid "Search MLM Relations"
+msgstr ""
+
+#: ../admin/views/notification_settings.php:3
+msgid "Notifications Settings"
+msgstr ""
+
+#: ../admin/views/notification_settings.php:6
+msgid "'From' E-mail Address:"
+msgstr ""
+
+#: ../admin/views/notification_settings.php:9
+msgid "'From' Name:"
+msgstr ""
+
+#: ../admin/views/notifications-add_edit.php:12
+msgid "Add/Edit Notification"
+msgstr ""
+
+#: ../admin/views/notifications-add_edit.php:15
+msgid "Action:"
+msgstr ""
+
+#: ../admin/views/notifications-add_edit.php:21
+msgid "Register Process"
+msgstr ""
+
+#: ../admin/views/notifications-add_edit.php:27 ../admin/views/opt_in.php:385
+#: ../public/views/login_form.php:39 ../public/views/login_form.php:92
+#: ../public/views/login_form.php:148 ../public/views/login_form.php:200
+#: ../public/views/login_form.php:256 ../public/views/login_form.php:314
+#: ../public/views/login_form.php:372 ../public/views/login_form.php:426
+#: ../public/views/login_form.php:482 ../public/views/login_form.php:537
+msgid "Password"
+msgstr ""
+
+#: ../admin/views/notifications-add_edit.php:30
+msgid "Profile Update"
+msgstr ""
+
+#: ../admin/views/notifications-add_edit.php:33
+msgid "Admin"
+msgstr ""
+
+#: ../admin/views/notifications-add_edit.php:36
+msgid "Double E-mail Verification"
+msgstr ""
+
+#: ../admin/views/notifications-add_edit.php:58
+msgid "Target Rank:"
+msgstr ""
+
+#: ../admin/views/notifications-add_edit.php:67
+msgid "Subject:"
+msgstr ""
+
+#: ../admin/views/notifications-add_edit.php:71
+#: ../admin/views/register-custom_fields_add_edit.php:67
+msgid "Content:"
+msgstr ""
+
+#: ../admin/views/notifications-add_edit.php:119
+#: ../admin/views/notifications-add_edit.php:122
+#: ../classes/Uap_Db.class.php:8108
+msgid "Pushover Notification"
+msgstr ""
+
+#: ../admin/views/notifications-add_edit.php:132
+msgid "Pushover Message:"
+msgstr ""
+
+#: ../admin/views/notifications-add_edit.php:134
+msgid "Only Plain Text and up to "
+msgstr ""
+
+#: ../admin/views/notifications-add_edit.php:134
+msgid " characters are available!"
+msgstr ""
+
+#: ../admin/views/notifications-list.php:3
+msgid "Activate New Notification"
+msgstr ""
+
+#: ../admin/views/notifications-list.php:4
+msgid "Check Mail Server"
+msgstr ""
+
+#: ../admin/views/notifications-list.php:14
+#: ../admin/views/notifications-list.php:25
+msgid "Subject"
+msgstr ""
+
+#: ../admin/views/notifications-list.php:16
+#: ../admin/views/notifications-list.php:27
+msgid "Goes to"
+msgstr ""
+
+#: ../admin/views/notifications-list.php:17
+#: ../admin/views/notifications-list.php:28
+msgid "Target Ranks"
+msgstr ""
+
+#: ../admin/views/notifications-list.php:19
+#: ../admin/views/notifications-list.php:30
+msgid "Mobile Notifications"
+msgstr ""
+
+#: ../admin/views/notifications-list.php:86
+msgid "No Notification Available!"
+msgstr ""
+
+#: ../admin/views/offers-add_edit.php:5
+msgid "Manage Offers"
+msgstr ""
+
+#: ../admin/views/offers-add_edit.php:10
+msgid "Activate/Hold Offer"
+msgstr ""
+
+#: ../admin/views/offers-add_edit.php:11
+msgid "Activate or deactivate an offer without needing to delete it."
+msgstr ""
+
+#: ../admin/views/offers-add_edit.php:36
+msgid "Offer Amount"
+msgstr ""
+
+#: ../admin/views/offers-add_edit.php:37
+msgid ""
+"A special amount for this specific offer needs to be set which will replace "
+"the standard amount rank."
+msgstr ""
+
+#: ../admin/views/offers-add_edit.php:60
+msgid "Date Range"
+msgstr ""
+
+#: ../admin/views/offers-add_edit.php:61
+msgid ""
+"The offer will be active during a certain time interval based on your "
+"selling strategy."
+msgstr ""
+
+#: ../admin/views/offers-add_edit.php:72
+msgid "Targeting"
+msgstr ""
+
+#: ../admin/views/offers-add_edit.php:73
+msgid ""
+"Based on referral source and only for certain affiliates, the offer will be "
+"available."
+msgstr ""
+
+#: ../admin/views/offers-add_edit.php:87
+msgid "Products"
+msgstr ""
+
+#: ../admin/views/offers-add_edit.php:104
+msgid "Specific Affiliate"
+msgstr ""
+
+#: ../admin/views/offers-add_edit.php:105
+msgid ""
+"Choose certain affiliates or type \"All\" to provide this offer for all of "
+"your affiliate users."
+msgstr ""
+
+#: ../admin/views/offers-add_edit.php:130
+msgid "Offer Color"
+msgstr ""
+
+#: ../admin/views/offers-list.php:3
+msgid "Add New Offer"
+msgstr ""
+
+#: ../admin/views/offers-list.php:4
+msgid "...create your Offers for specific Products or Affiliates"
+msgstr ""
+
+#: ../admin/views/offers-list.php:22
+msgid "Target Affiliates:"
+msgstr ""
+
+#: ../admin/views/offers-list.php:40 ../admin/views/referrals-list.php:63
+#: ../admin/views/referrals-list.php:77
+#: ../public/views/account_page-referrals.php:30
+#: ../public/views/account_page-referrals_history.php:19
+#: ../public/views/wallet-add_new.php:31
+msgid "From"
+msgstr ""
+
+#: ../admin/views/offers-list.php:51
+msgid "No Offers to show. Please, add your first Offer. "
+msgstr ""
+
+#: ../admin/views/opt_in.php:8
+msgid "Enable Opt-In"
+msgstr ""
+
+#: ../admin/views/opt_in.php:17
+msgid "Opt-In Destination:"
+msgstr ""
+
+#: ../admin/views/opt_in.php:25
+msgid "E-mail List"
+msgstr ""
+
+#: ../admin/views/opt_in.php:44
+msgid ""
+"During the registration process, the affiliate email address is sent to your "
+"OptIn destination."
+msgstr ""
+
+#: ../admin/views/opt_in.php:58
+msgid "Api URL"
+msgstr ""
+
+#: ../admin/views/opt_in.php:66 ../admin/views/opt_in.php:519
+msgid "Api Key:"
+msgstr ""
+
+#: ../admin/views/opt_in.php:74
+msgid "List ID:"
+msgstr ""
+
+#: ../admin/views/opt_in.php:89
+msgid "Additional Main E-Mail"
+msgstr ""
+
+#: ../admin/views/opt_in.php:106
+msgid "Auth Code"
+msgstr ""
+
+#: ../admin/views/opt_in.php:119
+msgid "Get Your Auth Code From Here"
+msgstr ""
+
+#: ../admin/views/opt_in.php:125
+msgid "Unique List ID:"
+msgstr ""
+
+#: ../admin/views/opt_in.php:136
+msgid "Get Unique List ID"
+msgstr ""
+
+#: ../admin/views/opt_in.php:145
+msgid "Connect"
+msgstr ""
+
+#: ../admin/views/opt_in.php:164 ../admin/views/opt_in.php:211
+#: ../admin/views/opt_in.php:258
+msgid "API Key"
+msgstr ""
+
+#: ../admin/views/opt_in.php:175 ../admin/views/opt_in.php:222
+msgid "Where can I find my API Key?"
+msgstr ""
+
+#: ../admin/views/opt_in.php:181
+msgid "ID List"
+msgstr ""
+
+#: ../admin/views/opt_in.php:192 ../admin/views/opt_in.php:286
+msgid "Where can I find List ID?"
+msgstr ""
+
+#: ../admin/views/opt_in.php:228
+msgid "Campaign Token"
+msgstr ""
+
+#: ../admin/views/opt_in.php:239
+msgid "Where can I find Campaign Token?"
+msgstr ""
+
+#: ../admin/views/opt_in.php:269
+msgid "Where can I find API Key ?"
+msgstr ""
+
+#: ../admin/views/opt_in.php:275 ../admin/views/opt_in.php:338
+msgid "List ID"
+msgstr ""
+
+#: ../admin/views/opt_in.php:313
+msgid "App ID"
+msgstr ""
+
+#: ../admin/views/opt_in.php:324
+msgid "Where can I get my App ID?"
+msgstr ""
+
+#: ../admin/views/opt_in.php:330
+msgid "App Password"
+msgstr ""
+
+#: ../admin/views/opt_in.php:350
+msgid "Click on the list name:"
+msgstr ""
+
+#: ../admin/views/opt_in.php:354
+msgid "Click on the list name and get the ID from the URL"
+msgstr ""
+
+#: ../admin/views/opt_in.php:396
+msgid "Get Lists"
+msgstr ""
+
+#: ../admin/views/opt_in.php:402
+msgid "List"
+msgstr ""
+
+#: ../admin/views/opt_in.php:435
+msgid "Select Wysija List:"
+msgstr ""
+
+#: ../admin/views/opt_in.php:454
+msgid "No List available "
+msgstr ""
+
+#: ../admin/views/opt_in.php:473
+msgid "Select MyMail List:"
+msgstr ""
+
+#: ../admin/views/opt_in.php:492
+msgid "No List available"
+msgstr ""
+
+#: ../admin/views/opt_in.php:511
+msgid "Username Or Email:"
+msgstr ""
+
+#: ../admin/views/opt_in.php:527
+msgid "List Name:"
+msgstr ""
+
+#: ../admin/views/opt_in.php:542
+msgid "Saved E-mail List"
+msgstr ""
+
+#: ../admin/views/page-meta_box.php:2
+msgid "Set the Page as:"
+msgstr ""
+
+#: ../admin/views/page-meta_box.php:9
+msgid "Page"
+msgstr ""
+
+#: ../admin/views/page-meta_box.php:20
+msgid "Default "
+msgstr ""
+
+#: ../admin/views/page-meta_box.php:20
+msgid "Page <b>Not Set!</b>"
+msgstr ""
+
+#: ../admin/views/payment-form.php:3
+msgid "Payment Form"
+msgstr ""
+
+#: ../admin/views/payment-form.php:34
+msgid "Pay With"
+msgstr ""
+
+#: ../admin/views/payment-form.php:35
+msgid ""
+"Choose one of the Payment Gateway Option. \"Bank Transfer\" is an offline "
+"alternative payment."
+msgstr ""
+
+#: ../admin/views/payment-form.php:60
+msgid "Payment Status"
+msgstr ""
+
+#: ../admin/views/payment-form.php:61
+msgid ""
+"As \"Bank Transfer\" payment option you can set for now the a temporary "
+"Payment status."
+msgstr ""
+
+#: ../admin/views/payment-form.php:63
+#: ../admin/views/payments_list_all_paid.php:53
+#: ../admin/views/referral_list_details.php:127
+#: ../admin/views/simple_links.php:115 ../admin/views/transactions.php:114
+#: ../public/Affiliate_Account_Page.class.php:667
+#: ../public/views/account_page-payments.php:54
+#: ../public/views/account_page-referrals_history.php:46
+#: ../public/views/account_page-simple_links.php:51
+msgid "Pending"
+msgstr ""
+
+#: ../admin/views/payment-form.php:66
+#: ../admin/views/payments_list_all_paid.php:56
+#: ../admin/views/referral_list_details.php:130
+#: ../admin/views/transactions.php:123
+#: ../public/Affiliate_Account_Page.class.php:668
+#: ../public/views/account_page-payments.php:59
+msgid "Complete"
+msgstr ""
+
+#: ../admin/views/payment-form.php:72
+msgid "Submit"
+msgstr ""
+
+#: ../admin/views/payment-form.php:73
+msgid "Cancel"
+msgstr ""
+
+#: ../admin/views/payment-form.php:81 ../admin/views/payment-form.php:92
+#: ../admin/views/payment-form.php:170 ../admin/views/payment-form.php:181
+#: ../admin/views/payments_list_all_paid.php:72
+#: ../admin/views/transactions.php:17 ../admin/views/transactions.php:67
+#: ../admin/views/transactions.php:79
+#: ../classes/Uap_Payments_Export.class.php:102
+#: ../public/views/account_page-payment_settings.php:11
+#: ../public/views/account_page-payments.php:23
+#: ../public/views/account_page-payments.php:32
+msgid "Payment Type"
+msgstr ""
+
+#: ../admin/views/payment-form.php:82 ../admin/views/payment-form.php:93
+#: ../admin/views/payment-form.php:171 ../admin/views/payment-form.php:182
+#: ../admin/views/payments_list_all_paid.php:67
+#: ../classes/Uap_Payments_Export.class.php:103
+msgid "Payment Details"
+msgstr ""
+
+#: ../admin/views/payments.php:2 ../admin/views/payments_list_all_unpaid.php:2
+#: ../public/views/account_page-overview.php:27
+msgid "UnPaid Referrals"
+msgstr ""
+
+#: ../admin/views/payments.php:41
+msgid "Total Paid Referrals"
+msgstr ""
+
+#: ../admin/views/payments.php:51
+msgid "Total number of Paid Referrals"
+msgstr ""
+
+#: ../admin/views/payments.php:61
+msgid "Total number of UnPaid Referrals"
+msgstr ""
+
+#: ../admin/views/payments.php:71
+msgid "Total number of Transactions"
+msgstr ""
+
+#: ../admin/views/payments.php:84 ../admin/views/payments.php:94
+msgid "Affiliate UserName"
+msgstr ""
+
+#: ../admin/views/payments.php:85 ../admin/views/payments.php:95
+#: ../admin/views/payments_list_all_paid.php:2
+#: ../public/views/account_page-overview.php:19
+msgid "Paid Referrals"
+msgstr ""
+
+#: ../admin/views/payments.php:86 ../admin/views/payments.php:96
+msgid "Unpaid Referrals"
+msgstr ""
+
+#: ../admin/views/payments.php:88 ../admin/views/payments.php:98
+msgid "Unpaid Amount"
+msgstr ""
+
+#: ../admin/views/payments_list_all_paid.php:20
+#: ../admin/views/payments_list_all_paid.php:29
+#: ../admin/views/payments_list_all_unpaid.php:21
+#: ../admin/views/payments_list_all_unpaid.php:30
+#: ../admin/views/referrals-list.php:64
+msgid "Reference"
+msgstr ""
+
+#: ../admin/views/payments_list_all_paid.php:22
+#: ../admin/views/payments_list_all_paid.php:31
+#: ../admin/views/payments_list_all_unpaid.php:23
+#: ../admin/views/payments_list_all_unpaid.php:32
+#: ../admin/views/referrals-list.php:67 ../admin/views/referrals-list.php:81
+#: ../admin/views/visits.php:49 ../admin/views/visits.php:62
+#: ../public/views/account_page-list_visits.php:27
+#: ../public/views/account_page-list_visits.php:36
+#: ../public/views/account_page-referrals.php:35
+#: ../public/views/account_page-referrals_history.php:21
+msgid "Date"
+msgstr ""
+
+#: ../admin/views/payments_list_all_paid.php:23
+#: ../admin/views/payments_list_all_paid.php:32
+#: ../public/views/account_page-referrals_history.php:49
+msgid "Paid"
+msgstr ""
+
+#: ../admin/views/payments_list_all_paid.php:50
+#: ../public/views/account_page-referrals_history.php:43
+msgid "UnPaid"
+msgstr ""
+
+#: ../admin/views/payments_list_all_unpaid.php:14
+msgid "Pay selected Referrals"
+msgstr ""
+
+#: ../admin/views/payments_list_all_unpaid.php:85
+msgid "Pay"
+msgstr ""
+
+#: ../admin/views/paypal.php:3
+msgid "PayPal - Payouts"
+msgstr ""
+
+#: ../admin/views/paypal.php:8
+msgid "Activate/Hold PayPal Gateway"
+msgstr ""
+
+#: ../admin/views/paypal.php:9
+msgid ""
+"Once activated you can process payments to your affiliate users via PayPal "
+"directly from the affiliate system."
+msgstr ""
+
+#: ../admin/views/paypal.php:21 ../admin/views/stripe.php:20
+#: ../admin/views/stripe_v2.php:21
+msgid "Sandbox"
+msgstr ""
+
+#: ../admin/views/paypal.php:34
+msgid "Sandbox Client ID"
+msgstr ""
+
+#: ../admin/views/paypal.php:38
+msgid "Sandbox Client Secret"
+msgstr ""
+
+#: ../admin/views/paypal.php:42
+msgid "Client ID"
+msgstr ""
+
+#: ../admin/views/paypal.php:46
+msgid "Client Secret"
+msgstr ""
+
+#: ../admin/views/paypal.php:54 ../admin/views/pushover.php:57
+msgid "1. Go to "
+msgstr ""
+
+#: ../admin/views/paypal.php:54
+msgid "and login with your PayPal email and password."
+msgstr ""
+
+#: ../admin/views/paypal.php:55
+msgid "2. After you have successfully logged in go to: "
+msgstr ""
+
+#: ../admin/views/paypal.php:55
+msgid " and create a new REST API application."
+msgstr ""
+
+#: ../admin/views/paypal.php:56
+msgid ""
+"3. After you have created a new application, the \"Client ID\" and \"Client "
+"Secret\" will be available."
+msgstr ""
+
+#: ../admin/views/paypal.php:65
+msgid "Your current version of PHP is "
+msgstr ""
+
+#: ../admin/views/paypal.php:65
+msgid ". To use this feature You need >= PHP 5.4."
+msgstr ""
+
+#: ../admin/views/periodically_reports.php:3 ../classes/Uap_Db.class.php:7361
+msgid "Periodically Reports"
+msgstr ""
+
+#: ../admin/views/periodically_reports.php:8
+msgid "Activate/Hold Periodical Reports"
+msgstr ""
+
+#: ../admin/views/periodically_reports.php:9
+msgid ""
+"If this module is activated, affiliates will receive periodical reports "
+"about their affiliate account and rewards. Each affiliate may decide the "
+"frequency of these reports (daily, weekly, monthly) from his “Account Page”."
+msgstr ""
+
+#: ../admin/views/periodically_reports.php:21
+msgid "Report Subject"
+msgstr ""
+
+#: ../admin/views/periodically_reports.php:28
+msgid "Report Content"
+msgstr ""
+
+#: ../admin/views/periodically_reports.php:33
+msgid "Referral Reports constants"
+msgstr ""
+
+#: ../admin/views/periodically_reports.php:71
+msgid "Send Notification Time"
+msgstr ""
+
+#: ../admin/views/periodically_reports.php:72
+msgid ""
+"Decide when it\\’s the best time of day for your website to start managing "
+"email reports. The script runs daily on the back-end and checks the report "
+"period for each affiliate and how much time has passed since the last "
+"report. Based on this new reports are managed automatically by the system."
+msgstr ""
+
+#: ../admin/views/periodically_reports.php:86
+msgid ""
+"Keep in mind that it may be necessary to send a big number of emails and "
+"your hosting provider may restrict this action. Be sure that you are able to "
+"manage email reports for all of your affiliates."
+msgstr ""
+
+#: ../admin/views/popup-shortcodes.php:10
+#: ../admin/views/register-settings.php:2 ../admin/views/shortcodes.php:8
+#: ../admin/views/showcases.php:12 ../indeed-affiliate-pro.php:190
+msgid "Register Form"
+msgstr ""
+
+#: ../admin/views/popup-shortcodes.php:12 ../admin/views/shortcodes.php:10
+msgid "Logout Button"
+msgstr ""
+
+#: ../admin/views/popup-shortcodes.php:13 ../admin/views/shortcodes.php:11
+msgid "Password Recovery"
+msgstr ""
+
+#: ../admin/views/popup-shortcodes.php:14
+msgid "User Page"
+msgstr ""
+
+#: ../admin/views/pushover.php:3 ../classes/Uap_Db.class.php:1750
+#: ../classes/Uap_Db.class.php:1751 ../classes/Uap_Db.class.php:7409
+#: ../public/views/account_page-header.php:118
+msgid "Pushover Notifications"
+msgstr ""
+
+#: ../admin/views/pushover.php:7
+msgid "Activate/Hold Pushover Notifications"
+msgstr ""
+
+#: ../admin/views/pushover.php:19
+msgid "App Token"
+msgstr ""
+
+#: ../admin/views/pushover.php:28
+msgid "Admin Personal User Token"
+msgstr ""
+
+#: ../admin/views/pushover.php:32
+msgid "Use this to get 'Admin Notifications' on your own device."
+msgstr ""
+
+#: ../admin/views/pushover.php:49
+msgid "URL Title"
+msgstr ""
+
+#: ../admin/views/pushover.php:57
+msgid " login with your credentials or sign up for a new account."
+msgstr ""
+
+#: ../admin/views/pushover.php:58
+msgid "2. After that go to "
+msgstr ""
+
+#: ../admin/views/pushover.php:58
+msgid " and create new App."
+msgstr ""
+
+#: ../admin/views/pushover.php:59
+msgid "3. Set the type of App at 'Application'."
+msgstr ""
+
+#: ../admin/views/pushover.php:60
+msgid "4. Copy and paste API Token/Key."
+msgstr ""
+
+#: ../admin/views/pushover.php:73
+msgid "Notification Sound"
+msgstr ""
+
+#: ../admin/views/pushover.php:76
+msgid "Default Sound for mobile notification"
+msgstr ""
+
+#: ../admin/views/pushover.php:80
+msgid "Bike"
+msgstr ""
+
+#: ../admin/views/pushover.php:81
+msgid "Bugle"
+msgstr ""
+
+#: ../admin/views/pushover.php:82
+msgid "Cash Register"
+msgstr ""
+
+#: ../admin/views/pushover.php:83
+msgid "Classical"
+msgstr ""
+
+#: ../admin/views/pushover.php:84
+msgid "Cosmic"
+msgstr ""
+
+#: ../admin/views/pushover.php:85
+msgid "Falling"
+msgstr ""
+
+#: ../admin/views/pushover.php:86
+msgid "Gamelan"
+msgstr ""
+
+#: ../admin/views/pushover.php:87
+msgid "Incoming"
+msgstr ""
+
+#: ../admin/views/pushover.php:88
+msgid "Intermission"
+msgstr ""
+
+#: ../admin/views/pushover.php:89
+msgid "Magic"
+msgstr ""
+
+#: ../admin/views/pushover.php:90
+msgid "Mechanical"
+msgstr ""
+
+#: ../admin/views/pushover.php:91
+msgid "Piano Bar"
+msgstr ""
+
+#: ../admin/views/pushover.php:92
+msgid "Siren"
+msgstr ""
+
+#: ../admin/views/pushover.php:93
+msgid "Space Alarm"
+msgstr ""
+
+#: ../admin/views/pushover.php:94
+msgid "Tug Boat"
+msgstr ""
+
+#: ../admin/views/qr_code.php:3 ../classes/Uap_Db.class.php:7369
+msgid "QR Codes"
+msgstr ""
+
+#: ../admin/views/qr_code.php:8
+msgid "Activate/Hold QR Codes into Account Page"
+msgstr ""
+
+#: ../admin/views/qr_code.php:9
+msgid ""
+"Affiliates may download and share their QR codes anywhere out of the website."
+msgstr ""
+
+#: ../admin/views/qr_code.php:23
+msgid " QRCode Image Size"
+msgstr ""
+
+#: ../admin/views/qr_code.php:24
+msgid ""
+"Decides the image size for the QR code. Bigger is much easier to scan, but "
+"has an increased load time."
+msgstr ""
+
+#: ../admin/views/qr_code.php:31
+msgid "ECC Data Level"
+msgstr ""
+
+#: ../admin/views/qr_code.php:32
+msgid ""
+"Error Code Correction is their ability to sustain \"damage\" and continue to "
+"function even when a part of the QR code image is obscured. Level L or Level "
+"M represent the best compromise between density and ruggedness for general "
+"marketing use. "
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:3
+msgid "Manage Rank"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:10
+msgid "Activate/Hold Rank"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:11
+msgid "Activate or deactivate a specific rank without needing to delete it."
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:25 ../admin/views/register-settings.php:59
+msgid "Rank Settings"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:26
+msgid "The slug needs to be unique and set only with lowercase characters."
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:29
+msgid "unique rank name"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:48 ../admin/views/referrals-list.php:65
+#: ../admin/views/referrals-list.php:79
+#: ../public/views/account_page-referrals.php:34
+#: ../public/views/account_page-referrals_history.php:20
+#: ../public/views/wallet-add_new.php:32
+msgid "Description"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:58
+msgid "Position"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:59
+msgid ""
+"Based on rank position an affiliate may jump to the next rank if the "
+"achievement conditions are met."
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:63
+msgid "Order"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:74
+msgid "Rank Amount"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:75
+msgid ""
+"The default rank amount may be overwritten by specific offers or other "
+"special settings."
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:99
+msgid "Achievement"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:100
+msgid ""
+"To jump into current rank, affiliates need to accomplish the required "
+"achievements."
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:173
+msgid "Rank Color"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:206
+msgid "Bonus"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:210
+msgid "Achievement Bonus"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:211
+msgid ""
+"Affiliates will receive a bonus of a flat amount each time they will reach a "
+"higher rank."
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:226 ../admin/views/ranks-add_edit.php:230
+#: ../admin/views/sign_up_referrals.php:3 ../classes/Uap_Db.class.php:7191
+msgid "SignUp Referrals"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:231
+msgid ""
+"Available for membership system, awarding commission when referred user "
+"signs up."
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:247
+msgid "LifeTime"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:251
+msgid "LifeTime Comission"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:252
+msgid ""
+"Allow for your affiliate to receive commission for all lifetime referrals."
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:281 ../admin/views/ranks-add_edit.php:285
+msgid "Reccurring Referrals"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:286
+msgid "Award commissions for recurring subscriptions into membership systems."
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:313 ../admin/views/ranks-add_edit.php:317
+msgid "MLM Referrals For Each MLM Level"
+msgstr ""
+
+#: ../admin/views/ranks-add_edit.php:318
+msgid "Set a multi-level marketing system for your affiliates."
+msgstr ""
+
+#: ../admin/views/ranks-list.php:6
+msgid "Add new Rank"
+msgstr ""
+
+#: ../admin/views/ranks-list.php:7
+msgid "...create your Rank with new achievements!"
+msgstr ""
+
+#: ../admin/views/ranks-list.php:17 ../admin/views/ranks-list.php:25
+msgid "Achieve"
+msgstr ""
+
+#: ../admin/views/ranks-list.php:59
+msgid "From: "
+msgstr ""
+
+#: ../admin/views/ranks-list.php:77 ../admin/views/simple_links.php:113
+#: ../public/views/account_page-simple_links.php:49
+msgid "Active"
+msgstr ""
+
+#: ../admin/views/ranks-list.php:78
+msgid "Inactive"
+msgstr ""
+
+#: ../admin/views/ranks-list.php:90
+msgid "No Ranks Available!"
+msgstr ""
+
+#: ../admin/views/reccuring_referrals.php:3 ../classes/Uap_Db.class.php:7207
+msgid "Recurring Referrals"
+msgstr ""
+
+#: ../admin/views/reccuring_referrals.php:7
+msgid "Activate/Hold Reccuring Referrals"
+msgstr ""
+
+#: ../admin/views/reccuring_referrals.php:21
+msgid "Recurring Amount For Each Rank"
+msgstr ""
+
+#: ../admin/views/reccuring_referrals.php:22
+msgid ""
+"Set a special recurring amount for each rank that will replace the default "
+"amount rank. This option will also become available in the “Rank Settings” "
+"page."
+msgstr ""
+
+#: ../admin/views/reccuring_referrals.php:27
+msgid "Recurring Amount"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:3
+msgid "View Referral Details"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:7
+#: ../admin/views/referrals-add_edit.php:9
+msgid "Visit Id:"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:12
+#: ../admin/views/referrals-add_edit.php:13
+msgid "Referral User WP Id:"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:17
+#: ../admin/views/referrals-add_edit.php:17
+#: ../public/views/account_page-generate_links.php:52
+msgid "Campaign:"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:22
+#: ../admin/views/referrals-add_edit.php:21
+msgid "Affiliate:"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:32
+#: ../admin/views/referrals-add_edit.php:36
+msgid "Source:"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:37
+#: ../admin/views/referrals-add_edit.php:40
+msgid "Reference:"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:78
+#: ../admin/views/referrals-add_edit.php:44
+msgid "Reference Details:"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:83
+#: ../admin/views/referrals-add_edit.php:48
+msgid "Referral Parent:"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:88
+#: ../admin/views/referrals-add_edit.php:52
+msgid "Referral Child:"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:93
+#: ../admin/views/referrals-add_edit.php:56
+#: ../public/views/account_page-source_details.php:5
+msgid "Amount:"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:98
+#: ../admin/views/referrals-add_edit.php:72
+msgid "Date:"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:103
+#: ../admin/views/referrals-add_edit.php:76
+msgid "Status:"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:110
+msgid "Unverfied"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:120
+msgid "Payment Status:"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:124
+msgid "Unpaid"
+msgstr ""
+
+#: ../admin/views/referral_list_details.php:138
+msgid "No details available!"
+msgstr ""
+
+#: ../admin/views/referral_notifications.php:9
+msgid ""
+"If this module is activated, affiliates have the option to receive instant "
+"notifications when they get new referrals. The affiliate can decide from his "
+"“Account Page” which type of referrals he will be notified of via email."
+msgstr ""
+
+#: ../admin/views/referrals-add_edit.php:5
+msgid "Add/Edit Referral"
+msgstr ""
+
+#: ../admin/views/referrals-add_edit.php:60
+#: ../admin/views/settings-general.php:114
+msgid "Currency:"
+msgstr ""
+
+#: ../admin/views/referrals-add_edit.php:87
+msgid "Payment:"
+msgstr ""
+
+#: ../admin/views/referrals-list.php:14
+msgid "Add New Referral"
+msgstr ""
+
+#: ../admin/views/referrals-list.php:15
+msgid "...add manual Referrals for specific Affiliate"
+msgstr ""
+
+#: ../admin/views/referrals-list.php:32 ../admin/views/referrals-list.php:217
+#: ../utilities.php:1045
+msgid "Apply"
+msgstr ""
+
+#: ../admin/views/referrals-list.php:36
+msgid "Number of Referrals to Display:"
+msgstr ""
+
+#: ../admin/views/referrals-list.php:60 ../admin/views/referrals-list.php:74
+msgid "User ID"
+msgstr ""
+
+#: ../admin/views/referrals-list.php:78
+msgid "Referance"
+msgstr ""
+
+#: ../admin/views/referrals-list.php:95 ../admin/views/visits.php:80
+msgid "Unknown"
+msgstr ""
+
+#: ../admin/views/referrals-list.php:187
+msgid "Mark as "
+msgstr ""
+
+#: ../admin/views/referrals-list.php:222
+msgid "No Referrals Stored!"
+msgstr ""
+
+#: ../admin/views/register-custom_fields.php:4
+msgid "Add New Register Form Field"
+msgstr ""
+
+#: ../admin/views/register-custom_fields.php:7
+msgid "Registration Form"
+msgstr ""
+
+#: ../admin/views/register-custom_fields.php:19
+#: ../admin/views/register-custom_fields.php:33
+msgid "Field Type"
+msgstr ""
+
+#: ../admin/views/register-custom_fields.php:20
+#: ../admin/views/register-custom_fields.php:34
+msgid "On Admin"
+msgstr ""
+
+#: ../admin/views/register-custom_fields.php:21
+#: ../admin/views/register-custom_fields.php:35
+msgid "On Register Page"
+msgstr ""
+
+#: ../admin/views/register-custom_fields.php:22
+#: ../admin/views/register-custom_fields.php:36
+msgid "On Account Page"
+msgstr ""
+
+#: ../admin/views/register-custom_fields.php:23
+#: ../admin/views/register-custom_fields.php:37
+msgid "Required"
+msgstr ""
+
+#: ../admin/views/register-custom_fields.php:24
+#: ../admin/views/register-custom_fields.php:38
+msgid "WP Native"
+msgstr ""
+
+#: ../admin/views/register-custom_fields.php:101
+#: ../admin/views/register-custom_fields.php:113
+#: ../admin/views/register-custom_fields.php:125
+#: ../admin/views/register-custom_fields.php:139
+msgid "Always"
+msgstr ""
+
+#: ../admin/views/register-custom_fields.php:141
+msgid "Required When Selected"
+msgstr ""
+
+#: ../admin/views/register-custom_fields.php:155
+#: ../admin/views/register-custom_fields_add_edit.php:103
+msgid "Yes"
+msgstr ""
+
+#: ../admin/views/register-custom_fields.php:157
+#: ../admin/views/register-custom_fields_add_edit.php:104
+msgid "No"
+msgstr ""
+
+#: ../admin/views/register-custom_fields_add_edit.php:3
+msgid "User Custom Fields"
+msgstr ""
+
+#: ../admin/views/register-custom_fields_add_edit.php:6
+#: ../public/views/account_page-custom_affiliate_slug.php:12
+msgid "Slug:"
+msgstr ""
+
+#: ../admin/views/register-custom_fields_add_edit.php:10
+msgid "Field Type:"
+msgstr ""
+
+#: ../admin/views/register-custom_fields_add_edit.php:27
+msgid "Values"
+msgstr ""
+
+#: ../admin/views/register-custom_fields_add_edit.php:52
+msgid "Add New Value"
+msgstr ""
+
+#: ../admin/views/register-custom_fields_add_edit.php:57
+msgid "Right Answer:"
+msgstr ""
+
+#: ../admin/views/register-custom_fields_add_edit.php:84
+msgid "Labels"
+msgstr ""
+
+#: ../admin/views/register-custom_fields_add_edit.php:86
+msgid "Field Label:"
+msgstr ""
+
+#: ../admin/views/register-custom_fields_add_edit.php:89
+msgid "SubLabel:"
+msgstr ""
+
+#: ../admin/views/register-custom_fields_add_edit.php:93
+msgid "Style Class:"
+msgstr ""
+
+#: ../admin/views/register-custom_fields_add_edit.php:99
+msgid "Conditional Logic"
+msgstr ""
+
+#: ../admin/views/register-custom_fields_add_edit.php:101
+msgid "Show:"
+msgstr ""
+
+#: ../admin/views/register-custom_fields_add_edit.php:109
+msgid "If Field:"
+msgstr ""
+
+#: ../admin/views/register-custom_fields_add_edit.php:119
+msgid "Is"
+msgstr ""
+
+#: ../admin/views/register-custom_fields_add_edit.php:120
+msgid "Contains"
+msgstr ""
+
+#: ../admin/views/register-custom_messages.php:8
+msgid "Error - Username is taken:"
+msgstr ""
+
+#: ../admin/views/register-custom_messages.php:13
+msgid "Error - Invalid Username:"
+msgstr ""
+
+#: ../admin/views/register-custom_messages.php:18
+msgid "Error - Email is taken:"
+msgstr ""
+
+#: ../admin/views/register-custom_messages.php:23
+msgid "Error - Invalid Email Address:"
+msgstr ""
+
+#: ../admin/views/register-custom_messages.php:28
+msgid "Error - Email Addresses did not Match:"
+msgstr ""
+
+#: ../admin/views/register-custom_messages.php:33
+msgid "Error - Password did not match:"
+msgstr ""
+
+#: ../admin/views/register-custom_messages.php:38
+msgid "Error - Password Only Characters and Digits:"
+msgstr ""
+
+#: ../admin/views/register-custom_messages.php:45
+msgid "Error - Password Min Length:"
+msgstr ""
+
+#: ../admin/views/register-custom_messages.php:47
+msgid "Where {X} will be the minimum length of password."
+msgstr ""
+
+#: ../admin/views/register-custom_messages.php:51
+msgid "Error - Password Characters, Digits and minimum one uppercase letter:"
+msgstr ""
+
+#: ../admin/views/register-custom_messages.php:56
+msgid "Error - Pending User:"
+msgstr ""
+
+#: ../admin/views/register-custom_messages.php:61
+msgid "Error - Empty Required Fields:"
+msgstr ""
+
+#: ../admin/views/register-custom_messages.php:66
+msgid "Error - ReCaptcha:"
+msgstr ""
+
+#: ../admin/views/register-custom_messages.php:71
+msgid "Error - TOS:"
+msgstr ""
+
+#: ../admin/views/register-custom_messages.php:76
+msgid "Success Message:"
+msgstr ""
+
+#: ../admin/views/register-settings.php:11
+msgid "Design"
+msgstr ""
+
+#: ../admin/views/register-settings.php:17
+msgid "Blue Box Theme"
+msgstr ""
+
+#: ../admin/views/register-settings.php:18
+msgid "PlaceHolder Theme"
+msgstr ""
+
+#: ../admin/views/register-settings.php:19
+msgid "Strong Theme"
+msgstr ""
+
+#: ../admin/views/register-settings.php:20
+msgid "Double Strong Theme"
+msgstr ""
+
+#: ../admin/views/register-settings.php:21
+msgid "BackBox Theme"
+msgstr ""
+
+#: ../admin/views/register-settings.php:22
+msgid "Simple Border Theme"
+msgstr ""
+
+#: ../admin/views/register-settings.php:23
+msgid "Radius Theme"
+msgstr ""
+
+#: ../admin/views/register-settings.php:24
+msgid "BootStrap Theme"
+msgstr ""
+
+#: ../admin/views/register-settings.php:25
+msgid "Double Simple Border Theme"
+msgstr ""
+
+#: ../admin/views/register-settings.php:26
+msgid "Dobule Radius Theme"
+msgstr ""
+
+#: ../admin/views/register-settings.php:27
+msgid "Double BootStrap Theme"
+msgstr ""
+
+#: ../admin/views/register-settings.php:30
+msgid "Register Template:"
+msgstr ""
+
+#: ../admin/views/register-settings.php:61
+msgid "Default rank assigned to a new user"
+msgstr ""
+
+#: ../admin/views/register-settings.php:78
+#: ../admin/views/wp_social_login.php:40
+msgid "WP Role"
+msgstr ""
+
+#: ../admin/views/register-settings.php:79
+msgid "Predefined Wordpress role assigned to new users:"
+msgstr ""
+
+#: ../admin/views/register-settings.php:93
+msgid ""
+"If the \"Pending\" Role is set the user cannot login until the Admin "
+"manually approves the user."
+msgstr ""
+
+#: ../admin/views/register-settings.php:97
+msgid "After Approve Wordpress Role:"
+msgstr ""
+
+#: ../admin/views/register-settings.php:115
+msgid "Form Settings"
+msgstr ""
+
+#: ../admin/views/register-settings.php:116
+msgid "Password Minimum Length"
+msgstr ""
+
+#: ../admin/views/register-settings.php:120
+msgid "Password Strength Options"
+msgstr ""
+
+#: ../admin/views/register-settings.php:129
+msgid "Admin Notification"
+msgstr ""
+
+#: ../admin/views/register-settings.php:136
+msgid "Notify admin address on every new registration"
+msgstr ""
+
+#: ../admin/views/register-settings.php:137
+msgid ""
+"When a new user has registered, the WP Admin is notified using the default "
+"Email Admin address set into current WordPress Instance"
+msgstr ""
+
+#: ../admin/views/register-settings.php:141
+msgid "Other Settings"
+msgstr ""
+
+#: ../admin/views/register-settings.php:149
+msgid "Auto Login after Registration"
+msgstr ""
+
+#: ../admin/views/register-settings.php:160
+msgid "Terms & Conditions (TOS) Label"
+msgstr ""
+
+#: ../admin/views/reports.php:10
+msgid "Select reports from:"
+msgstr ""
+
+#: ../admin/views/reports.php:16
+msgid "Check Results"
+msgstr ""
+
+#: ../admin/views/reports.php:80
+msgid "Successful Conversions"
+msgstr ""
+
+#: ../admin/views/reports.php:90
+msgid "Succesfully Rate"
+msgstr ""
+
+#: ../admin/views/reports.php:151
+msgid "All Visits"
+msgstr ""
+
+#: ../admin/views/reports.php:155 ../public/views/account_page-reports.php:53
+msgid "Converted Visits"
+msgstr ""
+
+#: ../admin/views/reports.php:259
+msgid "All Referrals"
+msgstr ""
+
+#: ../admin/views/reports.php:263
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:47
+msgid "Refuse Referrals"
+msgstr ""
+
+#: ../admin/views/reports.php:267
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:46
+msgid "Unverified Referrals"
+msgstr ""
+
+#: ../admin/views/reports.php:271
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:45
+msgid "Verified Referrals"
+msgstr ""
+
+#: ../admin/views/rewrite_referrals.php:3
+msgid "ReWrite Referrals"
+msgstr ""
+
+#: ../admin/views/rewrite_referrals.php:7
+msgid "Activate/Hold ReWrite Referrals"
+msgstr ""
+
+#: ../admin/views/rewrite_referrals.php:8
+msgid ""
+"Decides if a new customer is re-assigned to the first or last linked "
+"affiliate. If the same customer is referred to a different affiliate than "
+"the first one, you can decide if the reference will be changed or not.\n"
+"Example: John is a customer that is linked to Smith (affiliate). John enters "
+"the website but doesn’t buy anything. Later, John enters the website through "
+"Bob’s link (affiliate) and makes a purchase. You can decide if John will be "
+"linked to the first affiliate (Smith), or the last one (Bob), therefore "
+"deciding which affiliate will receive referral."
+msgstr ""
+
+#: ../admin/views/settings-admin_workflow.php:4
+msgid "Admin Workflow Settings"
+msgstr ""
+
+#: ../admin/views/settings-admin_workflow.php:10
+msgid "Updates"
+msgstr ""
+
+#: ../admin/views/settings-admin_workflow.php:12
+msgid "Update Affiliates Rank:"
+msgstr ""
+
+#: ../admin/views/settings-admin_workflow.php:15
+#: ../admin/views/settings-admin_workflow.php:32
+msgid "Hourly"
+msgstr ""
+
+#: ../admin/views/settings-admin_workflow.php:16
+#: ../admin/views/settings-admin_workflow.php:33
+msgid "At every 12hours"
+msgstr ""
+
+#: ../admin/views/settings-admin_workflow.php:17
+#: ../admin/views/settings-admin_workflow.php:34
+msgid "Daily"
+msgstr ""
+
+#: ../admin/views/settings-admin_workflow.php:29
+msgid "Update Payments Status:"
+msgstr ""
+
+#: ../admin/views/settings-admin_workflow.php:53
+msgid "Keep Referral Status as Unverified"
+msgstr ""
+
+#: ../admin/views/settings-admin_workflow.php:55
+msgid "Don't change the Referral Status to Verified"
+msgstr ""
+
+#: ../admin/views/settings-admin_workflow.php:68
+msgid "Show Dashboard Notifications"
+msgstr ""
+
+#: ../admin/views/settings-admin_workflow.php:70
+msgid "New Affiliates & Referrals"
+msgstr ""
+
+#: ../admin/views/settings-captcha.php:7
+msgid "Public Key:"
+msgstr ""
+
+#: ../admin/views/settings-captcha.php:10
+msgid "Private Key:"
+msgstr ""
+
+#: ../admin/views/settings-captcha.php:12
+msgid "Get Public and Private Keys from"
+msgstr ""
+
+#: ../admin/views/settings-custom_currencies.php:4
+msgid "Add new Currency"
+msgstr ""
+
+#: ../admin/views/settings-custom_currencies.php:7
+msgid "Code:"
+msgstr ""
+
+#: ../admin/views/settings-custom_currencies.php:9
+msgid "Insert a valid Currency Code, ex: "
+msgstr ""
+
+#: ../admin/views/settings-custom_currencies.php:9
+msgid "USD, EUR, CAD."
+msgstr ""
+
+#: ../admin/views/settings-custom_currencies.php:12
+msgid "Name:"
+msgstr ""
+
+#: ../admin/views/settings-default_pages.php:8
+msgid "Default Pages:"
+msgstr ""
+
+#: ../admin/views/settings-default_pages.php:12
+msgid "Register:"
+msgstr ""
+
+#: ../admin/views/settings-default_pages.php:29
+msgid "Login Page:"
+msgstr ""
+
+#: ../admin/views/settings-default_pages.php:46
+msgid "Logout Page:"
+msgstr ""
+
+#: ../admin/views/settings-default_pages.php:63
+msgid "User Account Page:"
+msgstr ""
+
+#: ../admin/views/settings-default_pages.php:80
+msgid "TOS Page:"
+msgstr ""
+
+#: ../admin/views/settings-default_pages.php:97
+msgid "Lost Password:"
+msgstr ""
+
+#: ../admin/views/settings-general.php:9
+msgid "Which Amount should be used for Referral?"
+msgstr ""
+
+#: ../admin/views/settings-general.php:10
+msgid ""
+"If there are multiple Amounts set for the same action, like Ranks&Offers or "
+"multiple Offers decide which one will be taken in consideration"
+msgstr ""
+
+#: ../admin/views/settings-general.php:13
+msgid "Lowest Amount"
+msgstr ""
+
+#: ../admin/views/settings-general.php:13
+msgid "Biggest Amount"
+msgstr ""
+
+#: ../admin/views/settings-general.php:28
+msgid "Redirect"
+msgstr ""
+
+#: ../admin/views/settings-general.php:29
+msgid "Redirect Same Page Without URL parameters:"
+msgstr ""
+
+#: ../admin/views/settings-general.php:43
+msgid "Referral Settings"
+msgstr ""
+
+#: ../admin/views/settings-general.php:45
+msgid "Set the referral Variable name"
+msgstr ""
+
+#: ../admin/views/settings-general.php:54
+msgid "Base Referral Link"
+msgstr ""
+
+#: ../admin/views/settings-general.php:60
+msgid ""
+"Please insert a link from the website on which this plugin is installed.\n"
+"Do not enter a link from a different website."
+msgstr ""
+
+#: ../admin/views/settings-general.php:69
+msgid "Referral Format:"
+msgstr ""
+
+#: ../admin/views/settings-general.php:87
+msgid "Cookie Expiration:"
+msgstr ""
+
+#: ../admin/views/settings-general.php:89
+msgid "Days"
+msgstr ""
+
+#: ../admin/views/settings-general.php:99
+msgid "Campaign Settings"
+msgstr ""
+
+#: ../admin/views/settings-general.php:101
+msgid "Set the Campaign Variable name"
+msgstr ""
+
+#: ../admin/views/settings-general.php:112
+msgid "Amount Value Settings"
+msgstr ""
+
+#: ../admin/views/settings-general.php:126
+msgid "Currency position:"
+msgstr ""
+
+#: ../admin/views/settings-general.php:128
+msgid "Left"
+msgstr ""
+
+#: ../admin/views/settings-general.php:128
+msgid "Right"
+msgstr ""
+
+#: ../admin/views/settings-general.php:139
+msgid "Exclude Shipping"
+msgstr ""
+
+#: ../admin/views/settings-general.php:149
+msgid "Exclude Tax"
+msgstr ""
+
+#: ../admin/views/settings-general.php:167
+msgid "Automatically Affiliate"
+msgstr ""
+
+#: ../admin/views/settings-general.php:168
+msgid "All new Users become Affiliates"
+msgstr ""
+
+#: ../admin/views/settings-general.php:183
+msgid "Empty Referrals"
+msgstr ""
+
+#: ../admin/views/settings-general.php:184
+msgid "Save Empty Referrals"
+msgstr ""
+
+#: ../admin/views/settings-public_workflow.php:4
+msgid "Public Workflow Settings"
+msgstr ""
+
+#: ../admin/views/settings-public_workflow.php:11
+msgid "Hide Payment Warnings"
+msgstr ""
+
+#: ../admin/views/settings-public_workflow.php:23
+msgid "Default Payment System"
+msgstr ""
+
+#: ../admin/views/settings-public_workflow.php:24
+msgid "When a new Affiliate SignUp this will be his payment system."
+msgstr ""
+
+#: ../admin/views/settings-public_workflow.php:40
+msgid "Disable Bank Transfer"
+msgstr ""
+
+#: ../admin/views/settings-public_workflow.php:41
+msgid "Affiliates will not be able to use Bank Transfer anymore."
+msgstr ""
+
+#: ../admin/views/settings-public_workflow.php:53
+msgid "Sources custom names"
+msgstr ""
+
+#: ../admin/views/settings-redirects.php:11
+msgid "After LogOut:"
+msgstr ""
+
+#: ../admin/views/settings-redirects.php:13
+#: ../admin/views/settings-redirects.php:31
+#: ../admin/views/settings-redirects.php:49
+#: ../admin/views/settings-redirects.php:77
+#: ../admin/views/settings-redirects.php:95
+#: ../admin/views/settings-redirects.php:113
+#: ../admin/views/settings-redirects.php:131
+#: ../admin/views/settings-redirects.php:149
+msgid "Do Not Redirect"
+msgstr ""
+
+#: ../admin/views/settings-redirects.php:29
+msgid "After Registration:"
+msgstr ""
+
+#: ../admin/views/settings-redirects.php:47
+msgid "After Login:"
+msgstr ""
+
+#: ../admin/views/settings-redirects.php:71
+msgid "Extra Redirects"
+msgstr ""
+
+#: ../admin/views/settings-redirects.php:75
+msgid "Account Page - Non Logged Affiliates"
+msgstr ""
+
+#: ../admin/views/settings-redirects.php:93
+msgid "Login Page - Affiliates Logged"
+msgstr ""
+
+#: ../admin/views/settings-redirects.php:111
+msgid "Register Page - Affiliates Logged"
+msgstr ""
+
+#: ../admin/views/settings-redirects.php:129
+msgid "LogOut Page - Non Logged Affiliates"
+msgstr ""
+
+#: ../admin/views/settings-redirects.php:147
+msgid "Lost Password Page - Non Logged Affiliates"
+msgstr ""
+
+#: ../admin/views/settings-uploads.php:4
+msgid "Uploads Settings"
+msgstr ""
+
+#: ../admin/views/settings-uploads.php:7
+msgid "Upload File Accepted Extensions:"
+msgstr ""
+
+#: ../admin/views/settings-uploads.php:10
+msgid "Write the extensions with comma between values! ex: pdf,jpg,mp3"
+msgstr ""
+
+#: ../admin/views/settings-uploads.php:15
+msgid "Upload File Maximum File Size:"
+msgstr ""
+
+#: ../admin/views/settings-uploads.php:22
+msgid "Avatar Maximum File Size:"
+msgstr ""
+
+#: ../admin/views/shortcodes.php:3
+msgid "Main ShortCodes"
+msgstr ""
+
+#: ../admin/views/shortcodes.php:12 ../admin/views/showcases.php:14
+#: ../indeed-affiliate-pro.php:193
+msgid "Account Page"
+msgstr ""
+
+#: ../admin/views/shortcodes.php:22
+msgid "User ShortCodes"
+msgstr ""
+
+#: ../admin/views/shortcodes.php:29
+msgid "Field"
+msgstr ""
+
+#: ../admin/views/shortcodes.php:30
+msgid "Private Shortcode"
+msgstr ""
+
+#: ../admin/views/shortcodes.php:31
+msgid "Public Shortcode"
+msgstr ""
+
+#: ../admin/views/shortcodes.php:82
+msgid "Other ShortCodes"
+msgstr ""
+
+#: ../admin/views/shortcodes.php:87
+msgid "User Become Affiliate Button"
+msgstr ""
+
+#: ../admin/views/shortcodes.php:89
+msgid "Show content only for affiliate users."
+msgstr ""
+
+#: ../admin/views/shortcodes.php:89 ../admin/views/shortcodes.php:91
+msgid "Your content here!"
+msgstr ""
+
+#: ../admin/views/shortcodes.php:91
+msgid "Show content only for non-affiliate users."
+msgstr ""
+
+#: ../admin/views/showcases.php:6
+msgid "Front-End Showcases"
+msgstr ""
+
+#: ../admin/views/showcases.php:12
+msgid "Templates, Custom Fields, Special Settings, Custom Messages"
+msgstr ""
+
+#: ../admin/views/showcases.php:13
+msgid "Templates, Display Options, Custom Messages"
+msgstr ""
+
+#: ../admin/views/showcases.php:14
+msgid "Templates, ShowUp fields, ShowUp Tabs, Predefined Overview"
+msgstr ""
+
+#: ../admin/views/showcases.php:15 ../indeed-affiliate-pro.php:192
+msgid "Top Affiliates"
+msgstr ""
+
+#: ../admin/views/showcases.php:15
+msgid "Public Affiliates List ordered by Earnings, Referrals or Visits"
+msgstr ""
+
+#: ../admin/views/sign_up_referrals.php:7
+msgid "Activate/Hold SignUp Referrals"
+msgstr ""
+
+#: ../admin/views/sign_up_referrals.php:22
+msgid ""
+"Set the default flat amount that will be used when no special amount is set "
+"for certain a rank."
+msgstr ""
+
+#: ../admin/views/sign_up_referrals.php:50
+msgid ""
+"Set a special sign up amount for each rank. This option will also become "
+"available in the “Rank Settings” page."
+msgstr ""
+
+#: ../admin/views/simple_links.php:5 ../classes/Uap_Db.class.php:7425
+msgid "Referrer Links"
+msgstr ""
+
+#: ../admin/views/simple_links.php:9
+msgid "Activate/Hold Simple Links"
+msgstr ""
+
+#: ../admin/views/simple_links.php:10
+msgid ""
+"An affiliate\\’s name can now be masked by creating custom links. Users will "
+"no longer avoid links that could benefit a certain affiliate."
+msgstr ""
+
+#: ../admin/views/simple_links.php:24
+msgid "Referrer Links Limit"
+msgstr ""
+
+#: ../admin/views/simple_links.php:25
+msgid ""
+"The number of links that can be submitted by an affiliate in his “Account "
+"Page”."
+msgstr ""
+
+#: ../admin/views/simple_links.php:27
+msgid "Links Limit per Affiliate"
+msgstr ""
+
+#: ../admin/views/simple_links.php:42
+msgid "Add New Referrer Link"
+msgstr ""
+
+#: ../admin/views/simple_links.php:46
+msgid ""
+"Attach a referrer link to a specific affiliate user directly from the “UAP "
+"Dashboard”."
+msgstr ""
+
+#: ../admin/views/simple_links.php:53 ../admin/views/simple_links.php:92
+#: ../admin/views/simple_links.php:100
+msgid "Referrer Link"
+msgstr ""
+
+#: ../admin/views/simple_links.php:70
+msgid "Search Links for Affiliate"
+msgstr ""
+
+#: ../admin/views/simple_links.php:120
+msgid "Approve"
+msgstr ""
+
+#: ../admin/views/social_share.php:6 ../classes/Uap_Db.class.php:7215
+msgid "Social Share"
+msgstr ""
+
+#: ../admin/views/social_share.php:11
+msgid "Activate/Hold Social Share"
+msgstr ""
+
+#: ../admin/views/social_share.php:12
+msgid ""
+"This Feature will work only if You have '<strong>Social Share & Locker Pro "
+"Wordpress Plugin</strong>' installed and activated."
+msgstr ""
+
+#: ../admin/views/social_share.php:24
+msgid "Custom Share Message"
+msgstr ""
+
+#: ../admin/views/social_share.php:25
+msgid ""
+"For a better share action, you may set a custom message that will be listed "
+"besides the affiliate links."
+msgstr ""
+
+#: ../admin/views/social_share.php:33
+msgid "Shortcode"
+msgstr ""
+
+#: ../admin/views/social_share.php:34
+msgid ""
+"You can generate the social share shortcode from the “Social Share & Locker” "
+"dashboard and paste it here."
+msgstr ""
+
+#: ../admin/views/social_share.php:37
+msgid "Click here"
+msgstr ""
+
+#: ../admin/views/social_share.php:37
+msgid " to grab a new shortcode."
+msgstr ""
+
+#: ../admin/views/source_details.php:6 ../classes/Uap_Db.class.php:7393
+#: ../public/views/account_page-referrals.php:32
+msgid "Source Details"
+msgstr ""
+
+#: ../admin/views/source_details.php:10
+msgid "Activate/Hold Source Details into Account Page"
+msgstr ""
+
+#: ../admin/views/source_details.php:27
+msgid "WooCommerce Show Fields"
+msgstr ""
+
+#: ../admin/views/source_details.php:48
+msgid "Easy Download Digital Show Fields"
+msgstr ""
+
+#: ../admin/views/source_details.php:69
+msgid "Ultimate Membership Pro Show Fields"
+msgstr ""
+
+#: ../admin/views/source_details.php:97
+msgid "SignUp Show Fields"
+msgstr ""
+
+#: ../admin/views/stripe.php:3
+msgid "Stripe - Payouts"
+msgstr ""
+
+#: ../admin/views/stripe.php:7 ../admin/views/stripe_v2.php:7
+msgid "Activate/Hold Stripe Gateway"
+msgstr ""
+
+#: ../admin/views/stripe.php:8 ../admin/views/stripe_v2.php:8
+msgid ""
+"Once activated you can process payments to your affiliate users via Stripe "
+"directly from the affiliate system."
+msgstr ""
+
+#: ../admin/views/stripe.php:33 ../admin/views/stripe_v2.php:34
+msgid "Sandbox Secret Key"
+msgstr ""
+
+#: ../admin/views/stripe.php:39 ../admin/views/stripe_v2.php:40
+msgid "Sandbox Publishable Key"
+msgstr ""
+
+#: ../admin/views/stripe.php:45 ../admin/views/stripe_v2.php:46
+msgid "Live Secret Key"
+msgstr ""
+
+#: ../admin/views/stripe.php:51 ../admin/views/stripe_v2.php:52
+msgid "Live Publishable Key"
+msgstr ""
+
+#: ../admin/views/stripe.php:67 ../admin/views/stripe_v2.php:68
+msgid "1. Go to"
+msgstr ""
+
+#: ../admin/views/stripe.php:67 ../admin/views/stripe_v2.php:68
+msgid " and login with username and password."
+msgstr ""
+
+#: ../admin/views/stripe.php:68 ../admin/views/stripe_v2.php:69
+msgid ""
+"2. Click on \"Dashboard\", and then select \"Your account\" -> \"Account "
+"settings\"."
+msgstr ""
+
+#: ../admin/views/stripe.php:69 ../admin/views/stripe_v2.php:70
+msgid ""
+"3. A popup will appear and you must go to API Keys, here you will find the "
+"“Secret Key” and “Publishable Key”."
+msgstr ""
+
+#: ../admin/views/stripe.php:70 ../admin/views/stripe_v2.php:71
+msgid "4. Don't forget to set Your Webhook at: "
+msgstr ""
+
+#: ../admin/views/stripe.php:71 ../admin/views/stripe_v2.php:72
+msgid ""
+"5. Be sure you use the same currency in the Stripe account and in the "
+"“Ultimate Affiliate Pro” settings."
+msgstr ""
+
+#: ../admin/views/stripe.php:72 ../admin/views/stripe_v2.php:73
+msgid "For testing purposes, you can find card credentials here: "
+msgstr ""
+
+#: ../admin/views/stripe_v2.php:3
+msgid "Stripe v2 - Payouts"
+msgstr ""
+
+#: ../admin/views/stripe_v2.php:15
+msgid ""
+"This Payout option is in Beta Mode. If for some reason the new Stripe Payout "
+"system is not working properly, use the first Stripe Payout system."
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:39
+#: ../admin/views/top_affiliates_settings.php:2
+msgid "Top Affiliates List"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:43
+msgid "ShortCode Generator"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:55
+msgid "Display Entries"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:58
+msgid "Number Of Entries:"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:62
+msgid "Entries Per Page:"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:67
+msgid "Order By:"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:73 ../admin/views/top_affiliates.php:384
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:44
+#: ../public/views/account_page-header.php:33
+#: ../public/views/account_page-header.php:184
+msgid "Earnings"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:75
+msgid "Register Date"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:77 ../public/views/account_page-mlm.php:49
+#: ../public/views/account_page-mlm.php:57
+msgid "E-mail Address"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:78
+msgid "Random"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:91
+msgid "Order Type:"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:108
+msgid "Filter By Rank"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:114
+msgid "User's Ranks:"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:149
+msgid "Select Theme"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:152 ../admin/views/top_affiliates.php:153
+#: ../admin/views/top_affiliates.php:154 ../admin/views/top_affiliates.php:155
+#: ../admin/views/top_affiliates.php:156 ../admin/views/top_affiliates.php:157
+#: ../admin/views/top_affiliates.php:158 ../admin/views/top_affiliates.php:159
+#: ../admin/views/top_affiliates.php:160 ../admin/views/top_affiliates.php:161
+msgid "Theme"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:173
+msgid "Color Scheme"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:194
+msgid "Columns"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:200
+#: ../admin/views/top_affiliates_settings.php:11
+#: ../admin/views/top_affiliates_settings.php:12
+#: ../admin/views/top_affiliates_settings.php:13
+#: ../admin/views/top_affiliates_settings.php:14
+#: ../admin/views/top_affiliates_settings.php:15
+#: ../admin/views/top_affiliates_settings.php:16
+msgid " Columns"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:207 ../admin/views/top_affiliates.php:331
+msgid "Additional Options"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:211
+msgid "Align the Items Centered"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:217
+msgid "Show Fields Label"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:225
+msgid "Slider ShowCase"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:229
+msgid "Show as Slider"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:230
+msgid "If Slider Showcase is used, Pagination Showcase is disabled."
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:236
+msgid "Items per Slide:"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:242
+msgid "Slider Timeout:"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:248
+msgid "Pagination Speed:"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:254
+msgid "Pagination Theme:"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:258
+msgid "Pagination Theme 1"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:259
+msgid "Pagination Theme 2"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:260
+msgid "Pagination Theme 3"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:274
+msgid "Animation Slide In"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:302
+msgid "Animation Slide Out"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:335
+msgid "Bullets"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:339
+msgid "Nav Button"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:343
+msgid "AutoPlay"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:347
+msgid "Stop On Hover"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:351
+msgid "Responsive"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:355
+msgid "Auto Height"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:359
+msgid "Lazy Load"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:363
+msgid "Play in Loop"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:375
+msgid "Displayed User Fields"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:434
+msgid "ShortCode :"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:438
+msgid "PHP Code:"
+msgstr ""
+
+#: ../admin/views/top_affiliates.php:446
+msgid "Preview"
+msgstr ""
+
+#: ../admin/views/top_affiliates_settings.php:6
+msgid "Responsive Settings"
+msgstr ""
+
+#: ../admin/views/top_affiliates_settings.php:9
+msgid "Screen Max-Width:"
+msgstr ""
+
+#: ../admin/views/top_affiliates_settings.php:17
+msgid "Auto"
+msgstr ""
+
+#: ../admin/views/top_affiliates_settings.php:29
+#: ../admin/views/top_affiliates_settings.php:41
+msgid "Screen Min-Width:"
+msgstr ""
+
+#: ../admin/views/top_affiliates_settings.php:29
+#: ../admin/views/top_affiliates_settings.php:41
+msgid " and Screen Max-Width:"
+msgstr ""
+
+#: ../admin/views/top_affiliates_settings.php:53
+#: ../admin/views/top_affiliates_settings.php:66
+msgid "Save changes"
+msgstr ""
+
+#: ../admin/views/top_affiliates_settings.php:62
+msgid ""
+"Add !important;  after each style option and full style path to be sure that "
+"it will take effect!"
+msgstr ""
+
+#: ../admin/views/transactions.php:9
+msgid "Generate CSV File"
+msgstr ""
+
+#: ../admin/views/transactions.php:12
+msgid "From - mm/dd/yyyy"
+msgstr ""
+
+#: ../admin/views/transactions.php:14
+msgid "To - mm/dd/yyyy"
+msgstr ""
+
+#: ../admin/views/transactions.php:21
+msgid "Paypal"
+msgstr ""
+
+#: ../admin/views/transactions.php:23 ../classes/Uap_Db.class.php:7241
+msgid "Stripe v2"
+msgstr ""
+
+#: ../admin/views/transactions.php:31
+msgid "Switch Transactions to 'Complete' "
+msgstr ""
+
+#: ../admin/views/transactions.php:38
+msgid "Click on this if download doesn't start automatically in 20 seconds!"
+msgstr ""
+
+#: ../admin/views/transactions.php:49
+msgid "The Payment cannot be proceed for affiliate "
+msgstr ""
+
+#: ../admin/views/transactions.php:49
+msgid " because of the payment settings."
+msgstr ""
+
+#: ../admin/views/transactions.php:55
+msgid "Check Payments Status"
+msgstr ""
+
+#: ../admin/views/transactions.php:68 ../admin/views/transactions.php:80
+#: ../public/views/account_page-payments.php:24
+#: ../public/views/account_page-payments.php:33
+msgid "Create Date"
+msgstr ""
+
+#: ../admin/views/transactions.php:69 ../admin/views/transactions.php:81
+#: ../public/views/account_page-payments.php:25
+#: ../public/views/account_page-payments.php:34
+msgid "Update Date"
+msgstr ""
+
+#: ../admin/views/transactions.php:70 ../admin/views/transactions.php:82
+msgid "Payment Service Status"
+msgstr ""
+
+#: ../admin/views/transactions.php:109
+#: ../public/Affiliate_Account_Page.class.php:666
+#: ../public/views/account_page-payments.php:49
+msgid "Fail"
+msgstr ""
+
+#: ../admin/views/transactions.php:116
+msgid ""
+"Press the 'Check Payments Status' button to get the lattest status of "
+"transaction."
+msgstr ""
+
+#: ../admin/views/transactions.php:129
+msgid "View Details"
+msgstr ""
+
+#: ../admin/views/transactions.php:135
+msgid "Mark as Pending"
+msgstr ""
+
+#: ../admin/views/transactions.php:140
+msgid "Mark as Complete"
+msgstr ""
+
+#: ../admin/views/visits.php:15
+msgid "Number of Visits to Display:"
+msgstr ""
+
+#: ../admin/views/visits.php:43 ../admin/views/visits.php:56
+msgid "IP"
+msgstr ""
+
+#: ../admin/views/visits.php:45 ../admin/views/visits.php:58
+msgid "Referral ID"
+msgstr ""
+
+#: ../admin/views/visits.php:47 ../admin/views/visits.php:60
+#: ../public/views/account_page-list_visits.php:25
+#: ../public/views/account_page-list_visits.php:34
+msgid "Browser"
+msgstr ""
+
+#: ../admin/views/visits.php:48 ../admin/views/visits.php:61
+#: ../public/views/account_page-list_visits.php:26
+#: ../public/views/account_page-list_visits.php:35
+msgid "Device"
+msgstr ""
+
+#: ../admin/views/visits.php:90
+msgid "Just Visit"
+msgstr ""
+
+#: ../admin/views/visits.php:110
+msgid "No Visits Stored!"
+msgstr ""
+
+#: ../admin/views/wallet.php:3 ../classes/Uap_Db.class.php:1753
+#: ../classes/Uap_Db.class.php:1754 ../classes/Uap_Db.class.php:7313
+#: ../classes/Uap_Db.class.php:8129 ../public/views/account_page-header.php:191
+msgid "Wallet"
+msgstr ""
+
+#: ../admin/views/wallet.php:7
+msgid "Activate/Hold Wallet"
+msgstr ""
+
+#: ../admin/views/wallet.php:8
+msgid ""
+"Affiliates will have the option to spend their earnings directly in the "
+"website by using generated coupons with a specific flat discount."
+msgstr ""
+
+#: ../admin/views/wallet.php:19
+msgid ""
+"Establish a minimum amount required for an affiliate to be able to move his "
+"earnings from his account into his wallet. Only referrals that are verified "
+"but not yet paid can be available for converting into coupons in an "
+"affiliate’s “Wallet”."
+msgstr ""
+
+#: ../admin/views/wallet.php:25
+msgid "Minimum Amount"
+msgstr ""
+
+#: ../admin/views/wallet.php:35
+msgid "Excluded sources:"
+msgstr ""
+
+#: ../admin/views/woo_account_page.php:3
+msgid "WooCommerce Account Page"
+msgstr ""
+
+#: ../admin/views/woo_account_page.php:9
+msgid ""
+"Fully integrate a user’s “Affiliate Account” in their “WooCommerce "
+"MyAccount”. Once activated, a new tab in their “ Woo MyAccount” menu will "
+"show up."
+msgstr ""
+
+#: ../admin/views/wp_social_login.php:9 ../classes/Uap_Db.class.php:7401
+msgid "Wp Social Login Integration"
+msgstr ""
+
+#: ../admin/views/wp_social_login.php:14
+msgid "Wp Social Login it's not active on Your system. You can find "
+msgstr ""
+
+#: ../admin/views/wp_social_login.php:18
+msgid "Activate/Hold"
+msgstr ""
+
+#: ../admin/views/wp_social_login.php:28
+msgid "Login/Register Redirect"
+msgstr ""
+
+#: ../admin/views/wp_social_login.php:41
+msgid "Predefined Wordpress Role Assign to new Users:"
+msgstr ""
+
+#: ../admin/views/wp_social_login.php:66
+msgid "Rank assigned to new User"
+msgstr ""
+
+#: ../admin/views/wp_social_login.php:90
+msgid "Wordpress Social Login - Settings"
+msgstr ""
+
+#: ../classes/ResetPassword.class.php:52 ../classes/ResetPassword.class.php:108
+msgid "Password reset on "
+msgstr ""
+
+#: ../classes/ResetPassword.class.php:53
+msgid ""
+"<p>You or someone else has requested to change password for your account.</"
+"p></br><p>To change Your Password click on this URL: </p>"
+msgstr ""
+
+#: ../classes/ResetPassword.class.php:109
+msgid "Your new password it's: "
+msgstr ""
+
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:80
+msgid "Confirm Password"
+msgstr ""
+
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:224
+msgid "Select a Parent for this Affiliate"
+msgstr ""
+
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:226
+msgid "MLM Section"
+msgstr ""
+
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:373
+msgid "Affiliate Slug"
+msgstr ""
+
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:795
+msgid "Select Post For Account Page Overview:"
+msgstr ""
+
+#: ../classes/Uap_Add_Edit_Affiliate.class.php:1138
+msgid "Error on trying to save custom slug"
+msgstr ""
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:57
+msgid "Referral Amount"
+msgstr ""
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:58
+msgid "Referral Source"
+msgstr ""
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:60
+msgid "Referral Referece"
+msgstr ""
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:62
+msgid "Referral Date"
+msgstr ""
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:63
+msgid "Referral Campaign"
+msgstr ""
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:64
+msgid "Referral Status"
+msgstr ""
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:264
+msgid "E-mail Address: "
+msgstr ""
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:265
+msgid "First name: "
+msgstr ""
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:266
+msgid "Last name: "
+msgstr ""
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:267
+msgid "Order date: "
+msgstr ""
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:268
+msgid "Order Amount: "
+msgstr ""
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:269
+msgid "Phone: "
+msgstr ""
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:270
+msgid "Shipping Address: "
+msgstr ""
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:271
+msgid "Billing Address: "
+msgstr ""
+
+#: ../classes/Uap_Affiliate_Notification_Reports.class.php:279
+msgid "Cart Items: "
+msgstr ""
+
+#: ../classes/Uap_Ajax.class.php:124
+#: ../public/views/account_page-generate_links.php:26
+#: ../public/views/account_page-generate_links.php:39
+msgid "Download"
+msgstr ""
+
+#: ../classes/Uap_Ajax.class.php:539
+msgid "Testing Your E-mail Server"
+msgstr ""
+
+#: ../classes/Uap_Ajax.class.php:540
+msgid "Just a simple message to test if Your E-mail Server is working"
+msgstr ""
+
+#: ../classes/Uap_BP_Custom_Menu_item.class.php:46
+msgid "Ultimate Affiliate Pro"
+msgstr ""
+
+#: ../classes/Uap_Cron_Jobs.class.php:108
+msgid "User "
+msgstr ""
+
+#: ../classes/Uap_Cron_Jobs.class.php:108
+msgid " has a custom slug that match with nickname of "
+msgstr ""
+
+#: ../classes/Uap_Cron_Jobs.class.php:111
+msgid "We inform You that: "
+msgstr ""
+
+#: ../classes/Uap_Cron_Jobs.class.php:111
+msgid "This could cause some errors into Ultimate Affiliate Pro."
+msgstr ""
+
+#: ../classes/Uap_Cron_Jobs.class.php:114
+msgid "Hello"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:376
+msgid "Affiliate Register Page"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:380
+msgid "Affiliate Login Page"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:384
+msgid "Affiliate Account Page"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:388
+msgid "Affiliate Lost Password"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:392
+msgid "Affiliate TOS Page"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:440
+msgid "Demo Banner 1"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:447
+msgid "Demo Banner 2"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:454
+msgid "Demo Banner 3"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:461
+msgid "Demo Banner 4"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:468
+msgid "Demo Banner 5"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:1597
+msgid "Accept our Terms&Conditions"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:1695 ../classes/Uap_Db.class.php:1696
+#: ../classes/Uap_Db.class.php:8093 ../public/views/account_page-header.php:72
+msgid "Overview"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:1697
+msgid ""
+"Hey There,\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tThis is the Overview section.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t&nbsp;\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEnjoy the sun."
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:1701 ../classes/Uap_Db.class.php:1702
+#: ../classes/Uap_Db.class.php:8096 ../public/views/account_page-header.php:86
+msgid "Edit Account"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:1708 ../classes/Uap_Db.class.php:1709
+#: ../classes/Uap_Db.class.php:8111 ../public/views/account_page-header.php:135
+msgid "Affiliate Links"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:1711 ../classes/Uap_Db.class.php:1712
+#: ../classes/Uap_Db.class.php:8156 ../public/views/account_page-header.php:151
+msgid "Campaigns"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:1717 ../classes/Uap_Db.class.php:1718
+#: ../public/views/account_page-header.php:213
+msgid "Traffic Log"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:1723 ../classes/Uap_Db.class.php:1724
+#: ../classes/Uap_Db.class.php:8138 ../public/views/account_page-header.php:221
+msgid "Campaign Reports"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:1726 ../classes/Uap_Db.class.php:1727
+msgid "Overall"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:1732 ../classes/Uap_Db.class.php:1733
+#: ../classes/Uap_Db.class.php:8141 ../public/views/account_page-header.php:229
+msgid "Referrals History"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:1738 ../classes/Uap_Db.class.php:1739
+#: ../classes/Uap_Db.class.php:8105 ../public/views/account_page-header.php:102
+msgid "Payment Settings"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:1741 ../classes/Uap_Db.class.php:1742
+#: ../classes/Uap_Db.class.php:7289 ../classes/Uap_Db.class.php:8120
+#: ../public/views/account_page-header.php:167
+msgid "Coupons"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:1745
+msgid "Custom Slug"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:1747 ../classes/Uap_Db.class.php:1748
+#: ../classes/Uap_Db.class.php:7257 ../classes/Uap_Db.class.php:8144
+#: ../public/views/account_page-header.php:237
+msgid "MLM"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:1759 ../classes/Uap_Db.class.php:1760
+#: ../classes/Uap_Db.class.php:8114 ../public/views/account_page-header.php:143
+msgid "Simple Links"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:1937 ../classes/Uap_Db.class.php:1946
+msgid "How about you become our affiliate?"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:2392 ../public/Referral_Main.class.php:309
+msgid "Bonus for reaching rank: "
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:5116
+msgid "Deleted Affiliate"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:6010
+msgid "Stripe Managed Accounts"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7194
+msgid ""
+"Available for membership system, awarding commission when referred user "
+"signs up"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7202
+msgid ""
+"Allow for your affiliate to receive commission for all lifetime referrals"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7210
+msgid "Award commissions for recurring subscriptions into membership systems"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7218
+msgid ""
+"Provides social share buttons for affiliate links using “Social Share & "
+"Locker”"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7227
+msgid "Pay your affiliates via PayPal"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7236
+msgid "Pay your affiliates via Stripe"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7244
+msgid "Managed accounts Stripe service"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7249
+msgid "Allow Own Reference"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7252
+msgid "Allow for your affiliate to earn commissions from their own referrals"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7260
+msgid "Set a multi-level marketing system for your affiliates"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7265
+msgid "ReAssign Referral"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7268
+msgid ""
+"Decides if a new customer is re-assigned to the first or last linked "
+"affiliate"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7276
+msgid "Set bonuses when one of your affiliates reach a specific rank"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7281
+msgid "Opt-In"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7284
+msgid "Send affiliate email addresses to your Opt-In destination"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7292
+msgid ""
+"Correlate an affiliate with a WooCommerce, Easy Digital Download or Ultimate "
+"Membership Pro coupon code"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7297
+msgid "Friendly Affiliate Links"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7300
+msgid "Affiliate URLs receive improved looks and a better structure"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7308
+msgid "Provides personal slugs besides the default username or ID"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7316
+msgid ""
+"Affiliates will have the option to spend their earnings directly in the "
+"website"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7324
+msgid ""
+"Customers decide which affiliate will be rewarded during the checkout process"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7329
+msgid "WooCommerce Account Page Integration"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7337
+msgid "BuddyPress Account Page Integration"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7348
+msgid "Notify the affiliates via email when they get any new referrals"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7353
+msgid "Admin Referral Notifications"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7364
+msgid "Affiliates will receive periodical email reports about their stats"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7372
+msgid "The Affiliate Links can be provided as QR Codes"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7380
+msgid ""
+"Requires the email address of new affiliates to be verified before they can "
+"log in"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7385
+msgid "Custom Currencies"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7404
+msgid "Integrated for a lite register / login with social accounts"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7413
+msgid "Users receive notifications on mobile via Pushover"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7421
+msgid "Set a maximum amount that can not be passed for a referral."
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7429
+msgid "Directly links without any visible affiliate links listed"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7433
+msgid "Account Custom Tabs"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7437
+msgid "Create and reorder account page menu items"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7441
+msgid "Migrate AffiliateWP"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7445
+msgid "Migrate data from AffiliateWP plugin"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7449
+msgid "Migrate Affiliates Pro"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7453
+msgid "Migrate data from Affiliates Pro plugin"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7457
+msgid "Migrate WP Affiliate"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:7461
+msgid "Migrate data from WP Affiliate plugin"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:8203 ../public/views/account_page-header.php:79
+msgid "Profile"
+msgstr ""
+
+#: ../classes/Uap_Db.class.php:8206 ../public/views/account_page-header.php:128
+msgid "Marketing"
+msgstr ""
+
+#: ../classes/Uap_GDPR.php:204
+msgid "UAP user metas"
+msgstr ""
+
+#: ../classes/Uap_GDPR.php:232
+msgid "UAP affiliate data"
+msgstr ""
+
+#: ../classes/Uap_GDPR.php:259
+msgid "UAP offers data"
+msgstr ""
+
+#: ../classes/Uap_GDPR.php:288
+msgid "UAP campaigns data"
+msgstr ""
+
+#: ../classes/Uap_GDPR.php:323
+msgid "UAP payments data"
+msgstr ""
+
+#: ../classes/Uap_GDPR.php:351
+msgid "UAP rank history"
+msgstr ""
+
+#: ../classes/Uap_GDPR.php:378
+msgid "UAP coupons code"
+msgstr ""
+
+#: ../classes/Uap_GDPR.php:406 ../classes/Uap_GDPR.php:433
+msgid "UAP reports"
+msgstr ""
+
+#: ../classes/Uap_Listing_Affiliates.class.php:692
+msgid " Earnings "
+msgstr ""
+
+#: ../classes/Uap_Listing_Affiliates.class.php:699
+msgid " Referrals"
+msgstr ""
+
+#: ../classes/Uap_Listing_Affiliates.class.php:706
+msgid " Visits"
+msgstr ""
+
+#: ../classes/Uap_Payments_Export.class.php:101
+msgid "Currency"
+msgstr ""
+
+#: ../classes/Uap_Stripe_V2.class.php:133
+msgid "From "
+msgstr ""
+
+#: ../classes/Uap_Stripe_V2.class.php:133
+msgid " to "
+msgstr ""
+
+#: ../indeed-affiliate-pro.php:182
+msgid "Affiliate Pages"
+msgstr ""
+
+#: ../indeed-affiliate-pro.php:201
+msgid "User Account Page"
+msgstr ""
+
+#: ../public/Affiliate_Account_Page.class.php:246
+msgid "Payment Service Settings are not set properly"
+msgstr ""
+
+#: ../public/Affiliate_Account_Page.class.php:390
+msgid "Please complete all fields!"
+msgstr ""
+
+#: ../public/Affiliate_Account_Page.class.php:396
+msgid "Your have changed your Password!"
+msgstr ""
+
+#: ../public/Affiliate_Account_Page.class.php:398
+msgid "Passwords not match!"
+msgstr ""
+
+#: ../public/Affiliate_Account_Page.class.php:401
+msgid "Old Password is not correct!"
+msgstr ""
+
+#: ../public/Affiliate_Account_Page.class.php:715
+msgid "You must accept the 'Terms of service' before saving the settings."
+msgstr ""
+
+#: ../public/Affiliate_Account_Page.class.php:728
+#: ../public/views/account_page-payment_settings.php:94
+msgid "Individual"
+msgstr ""
+
+#: ../public/Affiliate_Account_Page.class.php:729
+msgid "Corporation"
+msgstr ""
+
+#: ../public/Affiliate_Account_Page.class.php:1012
+msgid "You have an error."
+msgstr ""
+
+#: ../public/Affiliate_Account_Page.class.php:1014
+msgid "This URL already was registered."
+msgstr ""
+
+#: ../public/Uap_Login.class.php:78
+msgid "Captcha Error"
+msgstr ""
+
+#: ../public/Uap_Main_Public.class.php:306
+msgid "Log Out"
+msgstr ""
+
+#: ../public/Uap_Main_Public.class.php:405
+msgid "Loggin Form is not showing up when You're logged."
+msgstr ""
+
+#: ../public/Uap_Main_Public.class.php:408
+msgid "Register Form is not showing up when You're logged."
+msgstr ""
+
+#: ../public/Uap_Main_Public.class.php:411
+msgid "Affiliate Account Page!"
+msgstr ""
+
+#: ../public/Uap_Main_Public.class.php:414
+msgid "Affiliate Lost Password Page!"
+msgstr ""
+
+#: ../public/services/Uap_UMP.class.php:188 ../public/services/Uap_Ulp.php:121
+#: ../public/services/Uap_Woo.class.php:255
+msgid "Please complete all required fields!"
+msgstr ""
+
+#: ../public/views/account_page-banners.php:22
+msgid "Banner Size:"
+msgstr ""
+
+#: ../public/views/account_page-banners.php:23
+msgid "Target URL:"
+msgstr ""
+
+#: ../public/views/account_page-banners.php:26
+msgid "Copy & Paste this Source Code Into Your Website: "
+msgstr ""
+
+#: ../public/views/account_page-campaign_reports.php:16
+#: ../public/views/account_page-campaign_reports.php:24
+msgid "Unique Visits"
+msgstr ""
+
+#: ../public/views/account_page-campaign_reports.php:17
+#: ../public/views/account_page-campaign_reports.php:25
+#: ../public/views/account_page-list_visits.php:10
+#: ../public/views/account_page-reports.php:44
+msgid "Total Visits"
+msgstr ""
+
+#: ../public/views/account_page-campaigns.php:12
+msgid "List Of Campaigns"
+msgstr ""
+
+#: ../public/views/account_page-campaigns.php:23
+msgid "Add New Campaign"
+msgstr ""
+
+#: ../public/views/account_page-change_password.php:11
+msgid "Old Password"
+msgstr ""
+
+#: ../public/views/account_page-change_password.php:15
+msgid "New Password"
+msgstr ""
+
+#: ../public/views/account_page-change_password.php:19
+msgid "Repeat New Password"
+msgstr ""
+
+#: ../public/views/account_page-coupons.php:13
+#: ../public/views/account_page-coupons.php:20
+msgid "Code"
+msgstr ""
+
+#: ../public/views/account_page-custom_affiliate_slug.php:20
+msgid "An error has occurred"
+msgstr ""
+
+#: ../public/views/account_page-custom_affiliate_slug.php:22
+msgid "Saved"
+msgstr ""
+
+#: ../public/views/account_page-generate_links.php:12
+msgid "Your Affiliate ID is:"
+msgstr ""
+
+#: ../public/views/account_page-generate_links.php:14
+msgid "Your Affiliate Name is:"
+msgstr ""
+
+#: ../public/views/account_page-generate_links.php:18
+msgid "Your referral URL is:"
+msgstr ""
+
+#: ../public/views/account_page-generate_links.php:31
+msgid "Your Custom Slug:"
+msgstr ""
+
+#: ../public/views/account_page-generate_links.php:48
+msgid "Link Generator"
+msgstr ""
+
+#: ../public/views/account_page-generate_links.php:49
+msgid ""
+"If you'd prefer to append your own affiliate links with an alternate "
+"incoming URL, use the following structure. To build your link, take the "
+"following URL and append it with the Alternate Incoming URL you want to use."
+msgstr ""
+
+#: ../public/views/account_page-generate_links.php:63
+msgid "Friendly Links:"
+msgstr ""
+
+#: ../public/views/account_page-generate_links.php:65
+msgid "Off"
+msgstr ""
+
+#: ../public/views/account_page-generate_links.php:76
+msgid "Referrence Type:"
+msgstr ""
+
+#: ../public/views/account_page-generate_links.php:85
+msgid "Specific URL:"
+msgstr ""
+
+#: ../public/views/account_page-generate_links.php:87
+msgid ""
+"Enter any URL from this website in the form below to generate a referral "
+"link!"
+msgstr ""
+
+#: ../public/views/account_page-generate_links.php:93
+msgid "Generate Link"
+msgstr ""
+
+#: ../public/views/account_page-header.php:46
+msgid "Until the next Rank..."
+msgstr ""
+
+#: ../public/views/account_page-header.php:177
+msgid "Statements"
+msgstr ""
+
+#: ../public/views/account_page-header.php:205
+msgid "OverAll"
+msgstr ""
+
+#: ../public/views/account_page-header.php:247
+msgid "Referral Notifications & Reports"
+msgstr ""
+
+#: ../public/views/account_page-list_visits.php:13
+msgid "Conversions"
+msgstr ""
+
+#: ../public/views/account_page-list_visits.php:16
+#: ../public/views/account_page-reports.php:62
+msgid "Success Rate"
+msgstr ""
+
+#: ../public/views/account_page-list_visits.php:24
+#: ../public/views/account_page-list_visits.php:33
+msgid "Reffering URL"
+msgstr ""
+
+#: ../public/views/account_page-overview.php:35
+#: ../public/views/account_page-payments.php:13
+msgid "Total Transactions"
+msgstr ""
+
+#: ../public/views/account_page-overview.php:45
+msgid "Your Earnings by Now (total Transactions)"
+msgstr ""
+
+#: ../public/views/account_page-overview.php:53
+#: ../public/views/account_page-reports.php:33
+msgid "Your current Balance"
+msgstr ""
+
+#: ../public/views/account_page-overview.php:59
+msgid "Total number of Referrals:"
+msgstr ""
+
+#: ../public/views/account_page-overview.php:60
+msgid "Total number of Payments:"
+msgstr ""
+
+#: ../public/views/account_page-overview.php:61
+msgid "Total number of Paid Referrals:"
+msgstr ""
+
+#: ../public/views/account_page-overview.php:62
+msgid "Total number of UnPaid Referrals:"
+msgstr ""
+
+#: ../public/views/account_page-overview.php:63
+msgid "Total value of Paid Payments:"
+msgstr ""
+
+#: ../public/views/account_page-overview.php:64
+msgid "Total value of Unpaid Payments:"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:22
+msgid "PayPal E-mail Address"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:27
+msgid "Bank Transfer Details"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:33
+msgid "Name on Card"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:37
+msgid "Card Number"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:41
+msgid "CVC"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:45
+msgid "Expiration"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:84
+msgid "Tax ID"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:94
+msgid "Company"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:150
+msgid "Additional owners"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:165
+msgid "Birthday day"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:170
+msgid "Birthday month"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:175
+msgid "Birthday year"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:190
+msgid "Address"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:200
+msgid "SSN Last 4"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:205
+msgid "Personal ID Number"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:210
+msgid "Business Name"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:215
+msgid "Business Tax ID"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:220
+msgid "Personal Address - City"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:225
+msgid "Personal Address - Line 1"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:235
+msgid "Verification Document"
+msgstr ""
+
+#: ../public/views/account_page-payment_settings.php:244
+msgid "Terms of service"
+msgstr ""
+
+#: ../public/views/account_page-payments.php:10
+msgid "Total Transactions Amount"
+msgstr ""
+
+#: ../public/views/account_page-pushover_notifications.php:10
+msgid "User Token"
+msgstr ""
+
+#: ../public/views/account_page-referral_notifications.php:16
+msgid "Referral Notification"
+msgstr ""
+
+#: ../public/views/account_page-referral_notifications.php:42
+msgid "Periodical Reports Interval"
+msgstr ""
+
+#: ../public/views/account_page-referral_notifications.php:45
+msgid "Never send reports"
+msgstr ""
+
+#: ../public/views/account_page-referral_notifications.php:45
+msgid "Daily Reports"
+msgstr ""
+
+#: ../public/views/account_page-referral_notifications.php:45
+msgid "Weekly Reports"
+msgstr ""
+
+#: ../public/views/account_page-referral_notifications.php:45
+msgid "Monthly Reports"
+msgstr ""
+
+#: ../public/views/account_page-referrals.php:14
+msgid "Verified Referral Amount"
+msgstr ""
+
+#: ../public/views/account_page-referrals.php:17
+msgid "Unverified Referral Amount"
+msgstr ""
+
+#: ../public/views/account_page-referrals.php:27
+msgid "Id"
+msgstr ""
+
+#: ../public/views/account_page-referrals.php:28
+#: ../public/views/account_page-referrals_history.php:17
+msgid "Campaign"
+msgstr ""
+
+#: ../public/views/account_page-referrals_history.php:22
+msgid "Payment"
+msgstr ""
+
+#: ../public/views/account_page-reports.php:15
+msgid "Total referrals"
+msgstr ""
+
+#: ../public/views/account_page-reports.php:24
+msgid "Total Earnings (paid Referrals)"
+msgstr ""
+
+#: ../public/views/account_page-reports.php:74
+msgid "Your Achievements"
+msgstr ""
+
+#: ../public/views/account_page-reports.php:81
+msgid "You moved from "
+msgstr ""
+
+#: ../public/views/account_page-simple_links.php:11
+#: ../public/views/account_page-simple_links.php:31
+#: ../public/views/account_page-simple_links.php:38
+msgid "Link"
+msgstr ""
+
+#: ../public/views/become_affiliate_bttn.php:2
+msgid "Become an Affiliate"
+msgstr ""
+
+#: ../public/views/login_form.php:66 ../public/views/login_form.php:131
+#: ../public/views/login_form.php:187 ../public/views/login_form.php:228
+#: ../public/views/login_form.php:277 ../public/views/login_form.php:342
+#: ../public/views/login_form.php:411 ../public/views/login_form.php:444
+#: ../public/views/login_form.php:500 ../public/views/login_form.php:564
+msgid "Lost your password?"
+msgstr ""
+
+#: ../public/views/login_form.php:81 ../public/views/login_form.php:105
+#: ../public/views/login_form.php:166 ../public/views/login_form.php:244
+#: ../public/views/login_form.php:301 ../public/views/login_form.php:358
+#: ../public/views/login_form.php:391 ../public/views/login_form.php:460
+#: ../public/views/login_form.php:516 ../public/views/login_form.php:579
+msgid "Log In"
+msgstr ""
+
+#: ../public/views/login_form.php:469 ../public/views/login_form.php:525
+msgid "Dont have an account?"
+msgstr ""
+
+#: ../public/views/login_form.php:469 ../public/views/login_form.php:525
+msgid "Sign Up"
+msgstr ""
+
+#: ../public/views/login_form.php:587
+msgid "Please complete all require fields!"
+msgstr ""
+
+#: ../public/views/message_for_admin.php:3
+msgid "Admin Info: "
+msgstr ""
+
+#: ../public/views/reset_password.php:11 ../public/views/reset_password.php:19
+#: ../public/views/reset_password.php:30 ../public/views/reset_password.php:39
+#: ../public/views/reset_password.php:49 ../public/views/reset_password.php:62
+#: ../public/views/reset_password.php:72 ../public/views/reset_password.php:82
+#: ../public/views/reset_password.php:91
+msgid "Username or E-mail"
+msgstr ""
+
+#: ../public/views/reset_password.php:13 ../public/views/reset_password.php:22
+#: ../public/views/reset_password.php:33 ../public/views/reset_password.php:43
+#: ../public/views/reset_password.php:54 ../public/views/reset_password.php:65
+#: ../public/views/reset_password.php:75 ../public/views/reset_password.php:85
+#: ../public/views/reset_password.php:95
+msgid "Get New Password"
+msgstr ""
+
+#: ../public/views/trial_version_message.php:2
+msgid ""
+"This is a Trial Version of <strong>Ultimate Affiliate Pro</strong> plugin. "
+"Please add your purchase code into Licence section to enable the Full "
+"Ultimate Affiliate Pro Version."
+msgstr ""
+
+#: ../public/views/wallet-add_new.php:14
+msgid "Service Type"
+msgstr ""
+
+#: ../public/views/wallet-add_new.php:53
+msgid "Add On Wallet"
+msgstr ""
+
+#: ../public/views/wallet-add_new.php:56
+msgid "Total Credit: "
+msgstr ""
+
+#: ../public/views/wallet-add_new.php:63
+msgid "No service available!"
+msgstr ""
+
+#: ../public/views/wallet.php:16
+msgid "Wallet available Credit"
+msgstr ""
+
+#: ../public/views/wallet.php:25
+msgid "Available Deposit based on your Earnings"
+msgstr ""
+
+#: ../public/views/wallet.php:32
+msgid "Add New Wallet Credit"
+msgstr ""
+
+#: ../utilities.php:414 ../utilities.php:416
+msgid "Remove"
+msgstr ""
+
+#: ../utilities.php:418 ../utilities.php:422 ../utilities.php:427
+msgid "Upload"
+msgstr ""
+
+#: ../utilities.php:586
+msgid "Link:"
+msgstr ""
+
+#: ../utilities.php:602
+msgid "Custom Link: "
+msgstr ""
+
+#: ../utilities.php:1026
+msgid "Start:"
+msgstr ""
+
+#: ../utilities.php:1028
+msgid "Until:"
+msgstr ""
+
+#: ../utilities.php:1419
+msgid "Multi Level Marketing"
+msgstr ""
+
+#: ../utilities.php:1422
+msgid "Bonus Rank"
+msgstr ""
+
+#: ../utilities.php:1425
+msgid "SignUp"
+msgstr ""
+
+#: ../utilities.php:1432
+msgid "Based on Subscription purchases from Ultimate Membership system"
+msgstr ""
+
+#: ../utilities.php:1435
+msgid "Based on Product purchases from WooCommerce system"
+msgstr ""
+
+#: ../utilities.php:1438
+msgid "Based on Product purchases from Ultimate Learning Pro system"
+msgstr ""
+
+#: ../utilities.php:1441
+msgid "Based on Product purchases from Easy Digital Downloads system"
+msgstr ""
+
+#: ../utilities.php:1444
+msgid "Related on Rewarads provided to Affiliate from your MLM System"
+msgstr ""
+
+#: ../utilities.php:1447
+msgid "Bonus when a new Rank is achieved"
+msgstr ""
+
+#: ../utilities.php:1450
+msgid "Referrals from based on new user SignUp Rewards system"
+msgstr ""
+
+#: ../utilities.php:1642
+msgid "Afghanistan"
+msgstr ""
+
+#: ../utilities.php:1643
+msgid "&#197;land Islands"
+msgstr ""
+
+#: ../utilities.php:1644
+msgid "Albania"
+msgstr ""
+
+#: ../utilities.php:1645
+msgid "Algeria"
+msgstr ""
+
+#: ../utilities.php:1646
+msgid "American Samoa"
+msgstr ""
+
+#: ../utilities.php:1647
+msgid "Andorra"
+msgstr ""
+
+#: ../utilities.php:1648
+msgid "Angola"
+msgstr ""
+
+#: ../utilities.php:1649
+msgid "Anguilla"
+msgstr ""
+
+#: ../utilities.php:1650
+msgid "Antarctica"
+msgstr ""
+
+#: ../utilities.php:1651
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: ../utilities.php:1652
+msgid "Argentina"
+msgstr ""
+
+#: ../utilities.php:1653
+msgid "Armenia"
+msgstr ""
+
+#: ../utilities.php:1654
+msgid "Aruba"
+msgstr ""
+
+#: ../utilities.php:1655
+msgid "Australia"
+msgstr ""
+
+#: ../utilities.php:1656
+msgid "Austria"
+msgstr ""
+
+#: ../utilities.php:1657
+msgid "Azerbaijan"
+msgstr ""
+
+#: ../utilities.php:1658
+msgid "Bahamas"
+msgstr ""
+
+#: ../utilities.php:1659
+msgid "Bahrain"
+msgstr ""
+
+#: ../utilities.php:1660
+msgid "Bangladesh"
+msgstr ""
+
+#: ../utilities.php:1661
+msgid "Barbados"
+msgstr ""
+
+#: ../utilities.php:1662
+msgid "Belarus"
+msgstr ""
+
+#: ../utilities.php:1663
+msgid "Belgium"
+msgstr ""
+
+#: ../utilities.php:1664
+msgid "Belau"
+msgstr ""
+
+#: ../utilities.php:1665
+msgid "Belize"
+msgstr ""
+
+#: ../utilities.php:1666
+msgid "Benin"
+msgstr ""
+
+#: ../utilities.php:1667
+msgid "Bermuda"
+msgstr ""
+
+#: ../utilities.php:1668
+msgid "Bhutan"
+msgstr ""
+
+#: ../utilities.php:1669
+msgid "Bolivia"
+msgstr ""
+
+#: ../utilities.php:1670
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: ../utilities.php:1671
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: ../utilities.php:1672
+msgid "Botswana"
+msgstr ""
+
+#: ../utilities.php:1673
+msgid "Bouvet Island"
+msgstr ""
+
+#: ../utilities.php:1674
+msgid "Brazil"
+msgstr ""
+
+#: ../utilities.php:1675
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: ../utilities.php:1676
+msgid "British Virgin Islands"
+msgstr ""
+
+#: ../utilities.php:1677
+msgid "Brunei"
+msgstr ""
+
+#: ../utilities.php:1678
+msgid "Bulgaria"
+msgstr ""
+
+#: ../utilities.php:1679
+msgid "Burkina Faso"
+msgstr ""
+
+#: ../utilities.php:1680
+msgid "Burundi"
+msgstr ""
+
+#: ../utilities.php:1681
+msgid "Cambodia"
+msgstr ""
+
+#: ../utilities.php:1682
+msgid "Cameroon"
+msgstr ""
+
+#: ../utilities.php:1683
+msgid "Canada"
+msgstr ""
+
+#: ../utilities.php:1684
+msgid "Cape Verde"
+msgstr ""
+
+#: ../utilities.php:1685
+msgid "Cayman Islands"
+msgstr ""
+
+#: ../utilities.php:1686
+msgid "Central African Republic"
+msgstr ""
+
+#: ../utilities.php:1687
+msgid "Chad"
+msgstr ""
+
+#: ../utilities.php:1688
+msgid "Chile"
+msgstr ""
+
+#: ../utilities.php:1689
+msgid "China"
+msgstr ""
+
+#: ../utilities.php:1690
+msgid "Christmas Island"
+msgstr ""
+
+#: ../utilities.php:1691
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: ../utilities.php:1692
+msgid "Colombia"
+msgstr ""
+
+#: ../utilities.php:1693
+msgid "Comoros"
+msgstr ""
+
+#: ../utilities.php:1694
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: ../utilities.php:1695
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: ../utilities.php:1696
+msgid "Cook Islands"
+msgstr ""
+
+#: ../utilities.php:1697
+msgid "Costa Rica"
+msgstr ""
+
+#: ../utilities.php:1698
+msgid "Croatia"
+msgstr ""
+
+#: ../utilities.php:1699
+msgid "Cuba"
+msgstr ""
+
+#: ../utilities.php:1700
+msgid "Cura&ccedil;ao"
+msgstr ""
+
+#: ../utilities.php:1701
+msgid "Cyprus"
+msgstr ""
+
+#: ../utilities.php:1702
+msgid "Czech Republic"
+msgstr ""
+
+#: ../utilities.php:1703
+msgid "Denmark"
+msgstr ""
+
+#: ../utilities.php:1704
+msgid "Djibouti"
+msgstr ""
+
+#: ../utilities.php:1705
+msgid "Dominica"
+msgstr ""
+
+#: ../utilities.php:1706
+msgid "Dominican Republic"
+msgstr ""
+
+#: ../utilities.php:1707
+msgid "Ecuador"
+msgstr ""
+
+#: ../utilities.php:1708
+msgid "Egypt"
+msgstr ""
+
+#: ../utilities.php:1709
+msgid "El Salvador"
+msgstr ""
+
+#: ../utilities.php:1710
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: ../utilities.php:1711
+msgid "Eritrea"
+msgstr ""
+
+#: ../utilities.php:1712
+msgid "Estonia"
+msgstr ""
+
+#: ../utilities.php:1713
+msgid "Ethiopia"
+msgstr ""
+
+#: ../utilities.php:1714
+msgid "Falkland Islands"
+msgstr ""
+
+#: ../utilities.php:1715
+msgid "Faroe Islands"
+msgstr ""
+
+#: ../utilities.php:1716
+msgid "Fiji"
+msgstr ""
+
+#: ../utilities.php:1717
+msgid "Finland"
+msgstr ""
+
+#: ../utilities.php:1718
+msgid "France"
+msgstr ""
+
+#: ../utilities.php:1719
+msgid "French Guiana"
+msgstr ""
+
+#: ../utilities.php:1720
+msgid "French Polynesia"
+msgstr ""
+
+#: ../utilities.php:1721
+msgid "French Southern Territories"
+msgstr ""
+
+#: ../utilities.php:1722
+msgid "Gabon"
+msgstr ""
+
+#: ../utilities.php:1723
+msgid "Gambia"
+msgstr ""
+
+#: ../utilities.php:1724
+msgid "Georgia"
+msgstr ""
+
+#: ../utilities.php:1725
+msgid "Germany"
+msgstr ""
+
+#: ../utilities.php:1726
+msgid "Ghana"
+msgstr ""
+
+#: ../utilities.php:1727
+msgid "Gibraltar"
+msgstr ""
+
+#: ../utilities.php:1728
+msgid "Greece"
+msgstr ""
+
+#: ../utilities.php:1729
+msgid "Greenland"
+msgstr ""
+
+#: ../utilities.php:1730
+msgid "Grenada"
+msgstr ""
+
+#: ../utilities.php:1731
+msgid "Guadeloupe"
+msgstr ""
+
+#: ../utilities.php:1732
+msgid "Guam"
+msgstr ""
+
+#: ../utilities.php:1733
+msgid "Guatemala"
+msgstr ""
+
+#: ../utilities.php:1734
+msgid "Guernsey"
+msgstr ""
+
+#: ../utilities.php:1735
+msgid "Guinea"
+msgstr ""
+
+#: ../utilities.php:1736
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: ../utilities.php:1737
+msgid "Guyana"
+msgstr ""
+
+#: ../utilities.php:1738
+msgid "Haiti"
+msgstr ""
+
+#: ../utilities.php:1739
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: ../utilities.php:1740
+msgid "Honduras"
+msgstr ""
+
+#: ../utilities.php:1741
+msgid "Hong Kong"
+msgstr ""
+
+#: ../utilities.php:1742
+msgid "Hungary"
+msgstr ""
+
+#: ../utilities.php:1743
+msgid "Iceland"
+msgstr ""
+
+#: ../utilities.php:1744
+msgid "India"
+msgstr ""
+
+#: ../utilities.php:1745
+msgid "Indonesia"
+msgstr ""
+
+#: ../utilities.php:1746
+msgid "Iran"
+msgstr ""
+
+#: ../utilities.php:1747
+msgid "Iraq"
+msgstr ""
+
+#: ../utilities.php:1748
+msgid "Republic of Ireland"
+msgstr ""
+
+#: ../utilities.php:1749
+msgid "Isle of Man"
+msgstr ""
+
+#: ../utilities.php:1750
+msgid "Israel"
+msgstr ""
+
+#: ../utilities.php:1751
+msgid "Italy"
+msgstr ""
+
+#: ../utilities.php:1752
+msgid "Ivory Coast"
+msgstr ""
+
+#: ../utilities.php:1753
+msgid "Jamaica"
+msgstr ""
+
+#: ../utilities.php:1754
+msgid "Japan"
+msgstr ""
+
+#: ../utilities.php:1755
+msgid "Jersey"
+msgstr ""
+
+#: ../utilities.php:1756
+msgid "Jordan"
+msgstr ""
+
+#: ../utilities.php:1757
+msgid "Kazakhstan"
+msgstr ""
+
+#: ../utilities.php:1758
+msgid "Kenya"
+msgstr ""
+
+#: ../utilities.php:1759
+msgid "Kiribati"
+msgstr ""
+
+#: ../utilities.php:1760
+msgid "Kuwait"
+msgstr ""
+
+#: ../utilities.php:1761
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: ../utilities.php:1762
+msgid "Laos"
+msgstr ""
+
+#: ../utilities.php:1763
+msgid "Latvia"
+msgstr ""
+
+#: ../utilities.php:1764
+msgid "Lebanon"
+msgstr ""
+
+#: ../utilities.php:1765
+msgid "Lesotho"
+msgstr ""
+
+#: ../utilities.php:1766
+msgid "Liberia"
+msgstr ""
+
+#: ../utilities.php:1767
+msgid "Libya"
+msgstr ""
+
+#: ../utilities.php:1768
+msgid "Liechtenstein"
+msgstr ""
+
+#: ../utilities.php:1769
+msgid "Lithuania"
+msgstr ""
+
+#: ../utilities.php:1770
+msgid "Luxembourg"
+msgstr ""
+
+#: ../utilities.php:1771
+msgid "Macao S.A.R., China"
+msgstr ""
+
+#: ../utilities.php:1772
+msgid "Macedonia"
+msgstr ""
+
+#: ../utilities.php:1773
+msgid "Madagascar"
+msgstr ""
+
+#: ../utilities.php:1774
+msgid "Malawi"
+msgstr ""
+
+#: ../utilities.php:1775
+msgid "Malaysia"
+msgstr ""
+
+#: ../utilities.php:1776
+msgid "Maldives"
+msgstr ""
+
+#: ../utilities.php:1777
+msgid "Mali"
+msgstr ""
+
+#: ../utilities.php:1778
+msgid "Malta"
+msgstr ""
+
+#: ../utilities.php:1779
+msgid "Marshall Islands"
+msgstr ""
+
+#: ../utilities.php:1780
+msgid "Martinique"
+msgstr ""
+
+#: ../utilities.php:1781
+msgid "Mauritania"
+msgstr ""
+
+#: ../utilities.php:1782
+msgid "Mauritius"
+msgstr ""
+
+#: ../utilities.php:1783
+msgid "Mayotte"
+msgstr ""
+
+#: ../utilities.php:1784
+msgid "Mexico"
+msgstr ""
+
+#: ../utilities.php:1785
+msgid "Micronesia"
+msgstr ""
+
+#: ../utilities.php:1786
+msgid "Moldova"
+msgstr ""
+
+#: ../utilities.php:1787
+msgid "Monaco"
+msgstr ""
+
+#: ../utilities.php:1788
+msgid "Mongolia"
+msgstr ""
+
+#: ../utilities.php:1789
+msgid "Montenegro"
+msgstr ""
+
+#: ../utilities.php:1790
+msgid "Montserrat"
+msgstr ""
+
+#: ../utilities.php:1791
+msgid "Morocco"
+msgstr ""
+
+#: ../utilities.php:1792
+msgid "Mozambique"
+msgstr ""
+
+#: ../utilities.php:1793
+msgid "Myanmar"
+msgstr ""
+
+#: ../utilities.php:1794
+msgid "Namibia"
+msgstr ""
+
+#: ../utilities.php:1795
+msgid "Nauru"
+msgstr ""
+
+#: ../utilities.php:1796
+msgid "Nepal"
+msgstr ""
+
+#: ../utilities.php:1797
+msgid "Netherlands"
+msgstr ""
+
+#: ../utilities.php:1798
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: ../utilities.php:1799
+msgid "New Caledonia"
+msgstr ""
+
+#: ../utilities.php:1800
+msgid "New Zealand"
+msgstr ""
+
+#: ../utilities.php:1801
+msgid "Nicaragua"
+msgstr ""
+
+#: ../utilities.php:1802
+msgid "Niger"
+msgstr ""
+
+#: ../utilities.php:1803
+msgid "Nigeria"
+msgstr ""
+
+#: ../utilities.php:1804
+msgid "Niue"
+msgstr ""
+
+#: ../utilities.php:1805
+msgid "Norfolk Island"
+msgstr ""
+
+#: ../utilities.php:1806
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: ../utilities.php:1807
+msgid "North Korea"
+msgstr ""
+
+#: ../utilities.php:1808
+msgid "Norway"
+msgstr ""
+
+#: ../utilities.php:1809
+msgid "Oman"
+msgstr ""
+
+#: ../utilities.php:1810
+msgid "Pakistan"
+msgstr ""
+
+#: ../utilities.php:1811
+msgid "Palestinian Territory"
+msgstr ""
+
+#: ../utilities.php:1812
+msgid "Panama"
+msgstr ""
+
+#: ../utilities.php:1813
+msgid "Papua New Guinea"
+msgstr ""
+
+#: ../utilities.php:1814
+msgid "Paraguay"
+msgstr ""
+
+#: ../utilities.php:1815
+msgid "Peru"
+msgstr ""
+
+#: ../utilities.php:1816
+msgid "Philippines"
+msgstr ""
+
+#: ../utilities.php:1817
+msgid "Pitcairn"
+msgstr ""
+
+#: ../utilities.php:1818
+msgid "Poland"
+msgstr ""
+
+#: ../utilities.php:1819
+msgid "Portugal"
+msgstr ""
+
+#: ../utilities.php:1820
+msgid "Puerto Rico"
+msgstr ""
+
+#: ../utilities.php:1821
+msgid "Qatar"
+msgstr ""
+
+#: ../utilities.php:1822
+msgid "Reunion"
+msgstr ""
+
+#: ../utilities.php:1823
+msgid "Romania"
+msgstr ""
+
+#: ../utilities.php:1824
+msgid "Russia"
+msgstr ""
+
+#: ../utilities.php:1825
+msgid "Rwanda"
+msgstr ""
+
+#: ../utilities.php:1826
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: ../utilities.php:1827
+msgid "Saint Helena"
+msgstr ""
+
+#: ../utilities.php:1828
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: ../utilities.php:1829
+msgid "Saint Lucia"
+msgstr ""
+
+#: ../utilities.php:1830
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: ../utilities.php:1831
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: ../utilities.php:1832
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: ../utilities.php:1833
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: ../utilities.php:1834
+msgid "San Marino"
+msgstr ""
+
+#: ../utilities.php:1835
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: ../utilities.php:1836
+msgid "Saudi Arabia"
+msgstr ""
+
+#: ../utilities.php:1837
+msgid "Senegal"
+msgstr ""
+
+#: ../utilities.php:1838
+msgid "Serbia"
+msgstr ""
+
+#: ../utilities.php:1839
+msgid "Seychelles"
+msgstr ""
+
+#: ../utilities.php:1840
+msgid "Sierra Leone"
+msgstr ""
+
+#: ../utilities.php:1841
+msgid "Singapore"
+msgstr ""
+
+#: ../utilities.php:1842
+msgid "Slovakia"
+msgstr ""
+
+#: ../utilities.php:1843
+msgid "Slovenia"
+msgstr ""
+
+#: ../utilities.php:1844
+msgid "Solomon Islands"
+msgstr ""
+
+#: ../utilities.php:1845
+msgid "Somalia"
+msgstr ""
+
+#: ../utilities.php:1846
+msgid "South Africa"
+msgstr ""
+
+#: ../utilities.php:1847
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: ../utilities.php:1848
+msgid "South Korea"
+msgstr ""
+
+#: ../utilities.php:1849
+msgid "South Sudan"
+msgstr ""
+
+#: ../utilities.php:1850
+msgid "Spain"
+msgstr ""
+
+#: ../utilities.php:1851
+msgid "Sri Lanka"
+msgstr ""
+
+#: ../utilities.php:1852
+msgid "Sudan"
+msgstr ""
+
+#: ../utilities.php:1853
+msgid "Suriname"
+msgstr ""
+
+#: ../utilities.php:1854
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: ../utilities.php:1855
+msgid "Swaziland"
+msgstr ""
+
+#: ../utilities.php:1856
+msgid "Sweden"
+msgstr ""
+
+#: ../utilities.php:1857
+msgid "Switzerland"
+msgstr ""
+
+#: ../utilities.php:1858
+msgid "Syria"
+msgstr ""
+
+#: ../utilities.php:1859
+msgid "Taiwan"
+msgstr ""
+
+#: ../utilities.php:1860
+msgid "Tajikistan"
+msgstr ""
+
+#: ../utilities.php:1861
+msgid "Tanzania"
+msgstr ""
+
+#: ../utilities.php:1862
+msgid "Thailand"
+msgstr ""
+
+#: ../utilities.php:1863
+msgid "Timor-Leste"
+msgstr ""
+
+#: ../utilities.php:1864
+msgid "Togo"
+msgstr ""
+
+#: ../utilities.php:1865
+msgid "Tokelau"
+msgstr ""
+
+#: ../utilities.php:1866
+msgid "Tonga"
+msgstr ""
+
+#: ../utilities.php:1867
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: ../utilities.php:1868
+msgid "Tunisia"
+msgstr ""
+
+#: ../utilities.php:1869
+msgid "Turkey"
+msgstr ""
+
+#: ../utilities.php:1870
+msgid "Turkmenistan"
+msgstr ""
+
+#: ../utilities.php:1871
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: ../utilities.php:1872
+msgid "Tuvalu"
+msgstr ""
+
+#: ../utilities.php:1873
+msgid "Uganda"
+msgstr ""
+
+#: ../utilities.php:1874
+msgid "Ukraine"
+msgstr ""
+
+#: ../utilities.php:1875
+msgid "United Arab Emirates"
+msgstr ""
+
+#: ../utilities.php:1876
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: ../utilities.php:1877
+msgid "United States (US)"
+msgstr ""
+
+#: ../utilities.php:1878
+msgid "United States (US) Minor Outlying Islands"
+msgstr ""
+
+#: ../utilities.php:1879
+msgid "United States (US) Virgin Islands"
+msgstr ""
+
+#: ../utilities.php:1880
+msgid "Uruguay"
+msgstr ""
+
+#: ../utilities.php:1881
+msgid "Uzbekistan"
+msgstr ""
+
+#: ../utilities.php:1882
+msgid "Vanuatu"
+msgstr ""
+
+#: ../utilities.php:1883
+msgid "Vatican"
+msgstr ""
+
+#: ../utilities.php:1884
+msgid "Venezuela"
+msgstr ""
+
+#: ../utilities.php:1885
+msgid "Vietnam"
+msgstr ""
+
+#: ../utilities.php:1886
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: ../utilities.php:1887
+msgid "Western Sahara"
+msgstr ""
+
+#: ../utilities.php:1888
+msgid "Samoa"
+msgstr ""
+
+#: ../utilities.php:1889
+msgid "Yemen"
+msgstr ""
+
+#: ../utilities.php:1890
+msgid "Zambia"
+msgstr ""
+
+#: ../utilities.php:1891
+msgid "Zimbabwe"
+msgstr ""
